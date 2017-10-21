@@ -47,9 +47,4 @@ AND A.City.Dest_City_Name = 'Denver, CO';
 
 
 
-
-
-
-
-
  
