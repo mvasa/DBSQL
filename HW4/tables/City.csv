@@ -1,0 +1,1910 @@
+ORIGIN_CITY_MARKET_ID,ORIGIN_CITY_NAME,DEST_CITY_MARKET_ID,DEST_CITY_NAME,LineNUM
+32575,"Long Beach, CA",30325,"Denver, CO",1
+30325,"Denver, CO",32457,"San Francisco, CA",2
+32457,"San Francisco, CA",30325,"Denver, CO",3
+31423,"Des Moines, IA",30325,"Denver, CO",4
+30325,"Denver, CO",31315,"Dickinson, ND",5
+30325,"Denver, CO",32389,"Williston, ND",6
+31315,"Dickinson, ND",30325,"Denver, CO",7
+31503,"Eagle, CO",31123,"St. Louis, MO",8
+31123,"St. Louis, MO",31503,"Eagle, CO",9
+32544,"CONCORD, NC",31503,"Eagle, CO",10
+30397,"Atlanta, GA",30325,"Denver, CO",11
+30325,"Denver, CO",31871,"Greer, SC",12
+30189,"Colorado Springs, CO",35570,"Victorville, CA",13
+32211,"Las Vegas, NV",30189,"Colorado Springs, CO",14
+30372,"Aspen, CO",32575,"Burbank, CA",15
+32575,"Burbank, CA",31503,"Eagle, CO",16
+31503,"Eagle, CO",32575,"Burbank, CA",17
+34614,"Salt Lake City, UT",30372,"Aspen, CO",18
+30325,"Denver, CO",30466,"Phoenix, AZ",19
+34100,"Philadelphia, PA",30325,"Denver, CO",20
+30397,"Atlanta, GA",30189,"Colorado Springs, CO",21
+30397,"Atlanta, GA",30325,"Denver, CO",22
+30397,"Atlanta, GA",30325,"Denver, CO",23
+30189,"Colorado Springs, CO",30397,"Atlanta, GA",24
+30189,"Colorado Springs, CO",30194,"Dallas/Fort Worth, TX",25
+31122,"Casper, WY",30325,"Denver, CO",26
+30325,"Denver, CO",30397,"Atlanta, GA",27
+30325,"Denver, CO",30397,"Atlanta, GA",28
+30325,"Denver, CO",30397,"Atlanta, GA",29
+30325,"Denver, CO",33105,"Cincinnati, OH",30
+30325,"Denver, CO",31295,"Detroit, MI",31
+30325,"Denver, CO",31775,"Sioux Falls, SD",32
+30325,"Denver, CO",32211,"Las Vegas, NV",33
+30325,"Denver, CO",33570,"San Diego, CA",34
+30325,"Denver, CO",34614,"Salt Lake City, UT",35
+31295,"Detroit, MI",30325,"Denver, CO",36
+31650,"Minneapolis, MN",30325,"Denver, CO",37
+33851,"Oklahoma City, OK",30325,"Denver, CO",38
+32457,"San Francisco, CA",30325,"Denver, CO",39
+34614,"Salt Lake City, UT",30325,"Denver, CO",40
+30529,"Hartford, CT",30325,"Denver, CO",41
+30189,"Colorado Springs, CO",31295,"Detroit, MI",42
+32457,"Oakland, CA",30189,"Colorado Springs, CO",43
+30558,"Scottsbluff, NE",30325,"Denver, CO",44
+30325,"Denver, CO",30647,"Cleveland, OH",45
+30325,"Denver, CO",32448,"Jackson/Vicksburg, MS",46
+30325,"Denver, CO",32575,"Los Angeles, CA",47
+30325,"Denver, CO",32467,"Miami, FL",48
+30325,"Denver, CO",34524,"Richmond, VA",49
+33198,"Kansas City, MO",30325,"Denver, CO",50
+30325,"Denver, CO",32457,"San Francisco, CA",51
+30189,"Colorado Springs, CO",30325,"Denver, CO",52
+31233,"Cheyenne, WY",30325,"Denver, CO",53
+31233,"Cheyenne, WY",30325,"Denver, CO",54
+30194,"Dallas, TX",30189,"Colorado Springs, CO",55
+30325,"Denver, CO",30792,"Buffalo, NY",56
+30325,"Denver, CO",31140,"Corpus Christi, TX",57
+30325,"Denver, CO",31481,"Panama City, FL",58
+30325,"Denver, CO",31973,"Gulfport/Biloxi, MS",59
+30325,"Denver, CO",31871,"Greer, SC",60
+30325,"Denver, CO",32896,"Lubbock, TX",61
+30325,"Denver, CO",32600,"Little Rock, AR",62
+32457,"San Jose, CA",30189,"Colorado Springs, CO",63
+30189,"Colorado Springs, CO",30325,"Denver, CO",64
+30325,"Denver, CO",30423,"Austin, TX",65
+30325,"Denver, CO",30977,"Chicago, IL",66
+30325,"Denver, CO",32457,"San Jose, CA",67
+30423,"Austin, TX",30325,"Denver, CO",68
+31066,"Columbus, OH",30325,"Denver, CO",69
+34792,"Sugar Land, TX",30372,"Aspen, CO",70
+30325,"Denver, CO",32211,"Las Vegas, NV",71
+30466,"Phoenix, AZ",30325,"Denver, CO",72
+30747,"Brownsville, TX",30325,"Denver, CO",73
+30325,"Denver, CO",32457,"Oakland, CA",74
+30325,"Denver, CO",34275,"Pontiac, MI",75
+30325,"Denver, CO",34614,"Salt Lake City, UT",76
+31563,"Wendover, UT",31921,"Grand Junction, CO",77
+31921,"Grand Junction, CO",31563,"Wendover, UT",78
+34576,"Rochester, NY",30325,"Denver, CO",79
+34653,"Tulsa, OK",30325,"Denver, CO",80
+30325,"Denver, CO",32457,"Oakland, CA",81
+30977,"Chicago, IL",30325,"Denver, CO",82
+30325,"Denver, CO",33342,"Milwaukee, WI",83
+34570,"Reno, NV",30325,"Denver, CO",84
+30325,"Denver, CO",30590,"Bullhead City, AZ",85
+31719,"Fort Collins/Loveland, CO",30590,"Bullhead City, AZ",86
+30590,"Bullhead City, AZ",30325,"Denver, CO",87
+30590,"Bullhead City, AZ",31719,"Fort Collins/Loveland, CO",88
+30590,"Bullhead City, AZ",33502,"Montrose/Delta, CO",89
+30590,"Bullhead City, AZ",34288,"Pueblo, CO",90
+33502,"Montrose/Delta, CO",30590,"Bullhead City, AZ",91
+34288,"Pueblo, CO",30590,"Bullhead City, AZ",92
+31840,"Gadsden, AL",34288,"Pueblo, CO",93
+34288,"Pueblo, CO",32457,"Oakland, CA",94
+33105,"Cincinnati, OH",30325,"Denver, CO",95
+30325,"Denver, CO",33105,"Cincinnati, OH",96
+30189,"Colorado Springs, CO",30325,"Denver, CO",97
+30559,"Seattle, WA",30189,"Colorado Springs, CO",98
+30558,"Scottsbluff, NE",30325,"Denver, CO",99
+30325,"Denver, CO",33851,"Oklahoma City, OK",100
+30325,"Denver, CO",30325,"Denver, CO",101
+30558,"Scottsbluff, NE",30325,"Denver, CO",102
+31283,"Dodge City, KS",30325,"Denver, CO",103
+30325,"Denver, CO",30558,"Scottsbluff, NE",104
+30325,"Denver, CO",31283,"Dodge City, KS",105
+30325,"Denver, CO",30325,"Denver, CO",106
+30325,"Denver, CO",31468,"Kearney, NE",107
+30325,"Denver, CO",32899,"North Platte, NE",108
+30325,"Denver, CO",32902,"Liberal, KS",109
+31468,"Kearney, NE",30325,"Denver, CO",110
+32899,"North Platte, NE",30325,"Denver, CO",111
+32902,"Liberal, KS",30325,"Denver, CO",112
+32902,"Liberal, KS",30325,"Denver, CO",113
+30325,"Denver, CO",34081,"Page, AZ",114
+34288,"Pueblo, CO",31711,"Farmington, NM",115
+30325,"Denver, CO",30325,"Denver, CO",116
+30558,"Scottsbluff, NE",30325,"Denver, CO",117
+30325,"Denver, CO",30409,"Watertown, SD",118
+30325,"Denver, CO",32389,"Williston, ND",119
+32389,"Williston, ND",30325,"Denver, CO",120
+31921,"Grand Junction, CO",32211,"Las Vegas, NV",121
+32211,"Las Vegas, NV",31921,"Grand Junction, CO",122
+30189,"Colorado Springs, CO",30325,"Denver, CO",123
+30189,"Colorado Springs, CO",30194,"Dallas/Fort Worth, TX",124
+30189,"Colorado Springs, CO",30928,"Wichita, KS",125
+30325,"Denver, CO",30721,"Boston, MA",126
+30325,"Denver, CO",32575,"Los Angeles, CA",127
+30325,"Denver, CO",32600,"Little Rock, AR",128
+31454,"Orlando, FL",30325,"Denver, CO",129
+30977,"Chicago, IL",30189,"Colorado Springs, CO",130
+34492,"Raleigh/Durham, NC",30325,"Denver, CO",131
+32457,"San Francisco, CA",30325,"Denver, CO",132
+34614,"Salt Lake City, UT",30189,"Colorado Springs, CO",133
+30325,"Denver, CO",32575,"Los Angeles, CA",134
+30325,"Denver, CO",31650,"Minneapolis, MN",135
+30325,"Denver, CO",31650,"Minneapolis, MN",136
+30325,"Denver, CO",34614,"Salt Lake City, UT",137
+31295,"Detroit, MI",30325,"Denver, CO",138
+31650,"Minneapolis, MN",30325,"Denver, CO",139
+31650,"Minneapolis, MN",30325,"Denver, CO",140
+30325,"Denver, CO",34653,"Tulsa, OK",141
+31986,"Grand Rapids, MI",30325,"Denver, CO",142
+31097,"Cody, WY",30325,"Denver, CO",143
+30189,"Colorado Springs, CO",32600,"Little Rock, AR",144
+30189,"Colorado Springs, CO",33486,"Missoula, MT",145
+30189,"Colorado Springs, CO",30436,"Tucson, AZ",146
+31122,"Casper, WY",30325,"Denver, CO",147
+30852,"Washington, DC",30189,"Colorado Springs, CO",148
+30325,"Denver, CO",30140,"Albuquerque, NM",149
+30325,"Denver, CO",30397,"Atlanta, GA",150
+30325,"Denver, CO",30423,"Austin, TX",151
+30325,"Denver, CO",31003,"Cedar Rapids/Iowa City, IA",152
+30325,"Denver, CO",31097,"Cody, WY",153
+30325,"Denver, CO",31122,"Casper, WY",154
+30325,"Denver, CO",30194,"Dallas/Fort Worth, TX",155
+30325,"Denver, CO",31986,"Grand Rapids, MI",156
+30325,"Denver, CO",31453,"Houston, TX",157
+30325,"Denver, CO",32441,"Jackson, WY",158
+30325,"Denver, CO",32600,"Little Rock, AR",159
+30325,"Denver, CO",33264,"Medford, OR",160
+30325,"Denver, CO",33316,"Omaha, NE",161
+30325,"Denver, CO",30977,"Chicago, IL",162
+30325,"Denver, CO",34489,"Bend/Redmond, OR",163
+30325,"Denver, CO",33570,"San Diego, CA",164
+30325,"Denver, CO",33044,"Louisville, KY",165
+30325,"Denver, CO",32457,"San Francisco, CA",166
+30325,"Denver, CO",32457,"San Francisco, CA",167
+30325,"Denver, CO",32575,"Santa Ana, CA",168
+30325,"Denver, CO",35041,"Sun Valley/Hailey/Ketchum, ID",169
+30194,"Dallas/Fort Worth, TX",30189,"Colorado Springs, CO",170
+31921,"Grand Junction, CO",32575,"Los Angeles, CA",171
+31453,"Houston, TX",30325,"Denver, CO",172
+32441,"Jackson, WY",30325,"Denver, CO",173
+32888,"Laramie, WY",30325,"Denver, CO",174
+32575,"Los Angeles, CA",30325,"Denver, CO",175
+32600,"Little Rock, AR",30325,"Denver, CO",176
+33264,"Medford, OR",30325,"Denver, CO",177
+33486,"Missoula, MT",30189,"Colorado Springs, CO",178
+30977,"Chicago, IL",30325,"Denver, CO",179
+34057,"Portland, OR",30325,"Denver, CO",180
+34252,"Pasco/Kennewick/Richland, WA",31921,"Grand Junction, CO",181
+33570,"San Diego, CA",30325,"Denver, CO",182
+33214,"San Antonio, TX",30325,"Denver, CO",183
+34794,"St. George, UT",30189,"Colorado Springs, CO",184
+33192,"Sacramento, CA",30325,"Denver, CO",185
+32575,"Santa Ana, CA",30325,"Denver, CO",186
+30140,"Albuquerque, NM",30325,"Denver, CO",187
+30529,"Hartford, CT",30325,"Denver, CO",188
+30721,"Boston, MA",30325,"Denver, CO",189
+30849,"Bozeman, MT",30325,"Denver, CO",190
+30325,"Denver, CO",30140,"Albuquerque, NM",191
+30325,"Denver, CO",30620,"Billings, MT",192
+30325,"Denver, CO",30721,"Boston, MA",193
+30325,"Denver, CO",30849,"Bozeman, MT",194
+30325,"Denver, CO",33105,"Cincinnati, OH",195
+30325,"Denver, CO",31295,"Detroit, MI",196
+30325,"Denver, CO",32467,"Fort Lauderdale, FL",197
+30325,"Denver, CO",30852,"Washington, DC",198
+30325,"Denver, CO",31453,"Houston, TX",199
+30325,"Denver, CO",32211,"Las Vegas, NV",200
+30325,"Denver, CO",33198,"Kansas City, MO",201
+30325,"Denver, CO",31454,"Orlando, FL",202
+30325,"Denver, CO",30977,"Chicago, IL",203
+30325,"Denver, CO",34100,"Philadelphia, PA",204
+30325,"Denver, CO",34262,"Palm Springs, CA",205
+30325,"Denver, CO",34524,"Richmond, VA",206
+30325,"Denver, CO",34570,"Reno, NV",207
+30325,"Denver, CO",34614,"Salt Lake City, UT",208
+30325,"Denver, CO",31123,"St. Louis, MO",209
+30325,"Denver, CO",31123,"St. Louis, MO",210
+30325,"Denver, CO",34653,"Tulsa, OK",211
+30852,"Washington, DC",30325,"Denver, CO",212
+31453,"Houston, TX",30325,"Denver, CO",213
+31453,"Houston, TX",30325,"Denver, CO",214
+33198,"Kansas City, MO",30325,"Denver, CO",215
+31454,"Orlando, FL",30325,"Denver, CO",216
+34262,"Palm Springs, CA",30325,"Denver, CO",217
+34262,"Palm Springs, CA",30325,"Denver, CO",218
+34524,"Richmond, VA",30325,"Denver, CO",219
+34570,"Reno, NV",30325,"Denver, CO",220
+33214,"San Antonio, TX",30325,"Denver, CO",221
+34689,"Santa Barbara, CA",30325,"Denver, CO",222
+32457,"San Francisco, CA",30325,"Denver, CO",223
+32457,"San Francisco, CA",30325,"Denver, CO",224
+32575,"Santa Ana, CA",30325,"Denver, CO",225
+31123,"St. Louis, MO",30325,"Denver, CO",226
+31123,"St. Louis, MO",30325,"Denver, CO",227
+34653,"Tulsa, OK",30325,"Denver, CO",228
+30994,"Charleston, SC",30325,"Denver, CO",229
+30647,"Cleveland, OH",30325,"Denver, CO",230
+30325,"Denver, CO",30140,"Albuquerque, NM",231
+30325,"Denver, CO",30713,"Boise, ID",232
+30325,"Denver, CO",31295,"Detroit, MI",233
+30325,"Denver, CO",31986,"Grand Rapids, MI",234
+30325,"Denver, CO",33342,"Milwaukee, WI",235
+30325,"Denver, CO",34057,"Portland, OR",236
+30325,"Denver, CO",34100,"Philadelphia, PA",237
+30325,"Denver, CO",34570,"Reno, NV",238
+30325,"Denver, CO",31714,"Fort Myers, FL",239
+30325,"Denver, CO",34653,"Tulsa, OK",240
+31295,"Detroit, MI",30325,"Denver, CO",241
+31986,"Grand Rapids, MI",30325,"Denver, CO",242
+33495,"New Orleans, LA",30325,"Denver, CO",243
+30198,"Pittsburgh, PA",30325,"Denver, CO",244
+34570,"Reno, NV",30325,"Denver, CO",245
+31714,"Fort Myers, FL",30325,"Denver, CO",246
+33192,"Sacramento, CA",30325,"Denver, CO",247
+30397,"Atlanta, GA",30325,"Denver, CO",248
+30189,"Colorado Springs, CO",30325,"Denver, CO",249
+30325,"Denver, CO",30647,"Cleveland, OH",250
+30325,"Denver, CO",30189,"Colorado Springs, CO",251
+30325,"Denver, CO",31423,"Des Moines, IA",252
+30325,"Denver, CO",30928,"Wichita, KS",253
+30325,"Denver, CO",33316,"Omaha, NE",254
+30325,"Denver, CO",34614,"Salt Lake City, UT",255
+30928,"Wichita, KS",30325,"Denver, CO",256
+33044,"Louisville, KY",30325,"Denver, CO",257
+34653,"Tulsa, OK",30325,"Denver, CO",258
+33105,"Cincinnati, OH",30325,"Denver, CO",259
+30325,"Denver, CO",31066,"Columbus, OH",260
+30325,"Denver, CO",31295,"Detroit, MI",261
+30325,"Denver, CO",31453,"Houston, TX",262
+30325,"Denver, CO",32337,"Indianapolis, IN",263
+30325,"Denver, CO",31454,"Orlando, FL",264
+30325,"Denver, CO",31454,"Orlando, FL",265
+30325,"Denver, CO",33486,"Missoula, MT",266
+30325,"Denver, CO",30977,"Chicago, IL",267
+30325,"Denver, CO",30977,"Chicago, IL",268
+30325,"Denver, CO",30466,"Phoenix, AZ",269
+30325,"Denver, CO",31123,"St. Louis, MO",270
+30325,"Denver, CO",35412,"Knoxville, TN",271
+31295,"Detroit, MI",30325,"Denver, CO",272
+30852,"Washington, DC",30325,"Denver, CO",273
+31453,"Houston, TX",30325,"Denver, CO",274
+32337,"Indianapolis, IN",30325,"Denver, CO",275
+31454,"Orlando, FL",30325,"Denver, CO",276
+33486,"Missoula, MT",30325,"Denver, CO",277
+30977,"Chicago, IL",30325,"Denver, CO",278
+30466,"Phoenix, AZ",30325,"Denver, CO",279
+31123,"St. Louis, MO",30325,"Denver, CO",280
+33195,"Tampa, FL",30325,"Denver, CO",281
+35412,"Knoxville, TN",30325,"Denver, CO",282
+30325,"Denver, CO",30194,"Dallas/Fort Worth, TX",283
+30325,"Denver, CO",32337,"Indianapolis, IN",284
+30325,"Denver, CO",33198,"Kansas City, MO",285
+30325,"Denver, CO",33495,"New Orleans, LA",286
+30325,"Denver, CO",34614,"Salt Lake City, UT",287
+30325,"Denver, CO",30436,"Tucson, AZ",288
+31921,"Grand Junction, CO",34614,"Salt Lake City, UT",289
+32337,"Indianapolis, IN",30325,"Denver, CO",290
+33198,"Kansas City, MO",30325,"Denver, CO",291
+33244,"Memphis, TN",31921,"Grand Junction, CO",292
+32457,"Oakland, CA",30325,"Denver, CO",293
+30325,"Denver, CO",31295,"Detroit, MI",294
+31453,"Houston, TX",30325,"Denver, CO",295
+33502,"Montrose/Delta, CO",32891,"Lawton/Fort Sill, OK",296
+30325,"Denver, CO",30285,"Durango, CO",297
+30285,"Durango, CO",30325,"Denver, CO",298
+31986,"Grand Rapids, MI",30325,"Denver, CO",299
+30194,"Dallas/Fort Worth, TX",33502,"Montrose/Delta, CO",300
+33502,"Montrose/Delta, CO",30194,"Dallas/Fort Worth, TX",301
+30325,"Denver, CO",34877,"Salina, KS",302
+34877,"Salina, KS",30325,"Denver, CO",303
+30189,"Colorado Springs, CO",31123,"St. Louis, MO",304
+30325,"Denver, CO",30189,"Colorado Springs, CO",305
+31453,"Houston, TX",30325,"Denver, CO",306
+31453,"Houston, TX",32012,"Gunnison, CO",307
+30325,"Denver, CO",30559,"Seattle, WA",308
+30325,"Denver, CO",32211,"Las Vegas, NV",309
+30325,"Denver, CO",33044,"Louisville, KY",310
+34614,"Salt Lake City, UT",30325,"Denver, CO",311
+34614,"Salt Lake City, UT",30325,"Denver, CO",312
+30325,"Denver, CO",34057,"Portland, OR",313
+32575,"Los Angeles, CA",30325,"Denver, CO",314
+34100,"Philadelphia, PA",30325,"Denver, CO",315
+30325,"Denver, CO",31650,"Minneapolis, MN",316
+30325,"Denver, CO",31650,"Minneapolis, MN",317
+34614,"Salt Lake City, UT",30325,"Denver, CO",318
+30325,"Denver, CO",31986,"Grand Rapids, MI",319
+31423,"Des Moines, IA",30325,"Denver, CO",320
+30189,"Colorado Springs, CO",30325,"Denver, CO",321
+30325,"Denver, CO",30189,"Colorado Springs, CO",322
+30325,"Denver, CO",31921,"Grand Junction, CO",323
+30325,"Denver, CO",31895,"Great Falls, MT",324
+30325,"Denver, CO",34057,"Portland, OR",325
+30325,"Denver, CO",33214,"San Antonio, TX",326
+31638,"Fresno, CA",30189,"Colorado Springs, CO",327
+31921,"Grand Junction, CO",30372,"Aspen, CO",328
+31921,"Grand Junction, CO",30325,"Denver, CO",329
+31921,"Grand Junction, CO",30194,"Dallas/Fort Worth, TX",330
+31895,"Great Falls, MT",30325,"Denver, CO",331
+30977,"Chicago, IL",31921,"Grand Junction, CO",332
+33570,"San Diego, CA",30325,"Denver, CO",333
+31834,"Fayetteville, AR",30325,"Denver, CO",334
+30397,"Atlanta, GA",30325,"Denver, CO",335
+33105,"Cincinnati, OH",30325,"Denver, CO",336
+30852,"Washington, DC",30325,"Denver, CO",337
+30325,"Denver, CO",30397,"Atlanta, GA",338
+30325,"Denver, CO",30721,"Boston, MA",339
+30325,"Denver, CO",30852,"Washington, DC",340
+30325,"Denver, CO",31884,"Spokane, WA",341
+30325,"Denver, CO",30928,"Wichita, KS",342
+30325,"Denver, CO",34492,"Raleigh/Durham, NC",343
+30325,"Denver, CO",34689,"Santa Barbara, CA",344
+30325,"Denver, CO",33195,"Tampa, FL",345
+30325,"Denver, CO",30436,"Tucson, AZ",346
+31603,"Eugene, OR",30325,"Denver, CO",347
+31703,"Newark, NJ",30325,"Denver, CO",348
+31884,"Spokane, WA",30325,"Denver, CO",349
+31986,"Grand Rapids, MI",30325,"Denver, CO",350
+30928,"Wichita, KS",30325,"Denver, CO",351
+32211,"Las Vegas, NV",30325,"Denver, CO",352
+33195,"Tampa, FL",30325,"Denver, CO",353
+30436,"Tucson, AZ",30325,"Denver, CO",354
+30713,"Boise, ID",30325,"Denver, CO",355
+30325,"Denver, CO",30140,"Albuquerque, NM",356
+30325,"Denver, CO",30852,"Baltimore, MD",357
+30325,"Denver, CO",30994,"Charleston, SC",358
+30325,"Denver, CO",31066,"Columbus, OH",359
+30325,"Denver, CO",31884,"Spokane, WA",360
+30325,"Denver, CO",33044,"Louisville, KY",361
+30325,"Denver, CO",34614,"Salt Lake City, UT",362
+31884,"Spokane, WA",30325,"Denver, CO",363
+34057,"Portland, OR",30325,"Denver, CO",364
+33570,"San Diego, CA",30325,"Denver, CO",365
+30559,"Seattle, WA",30325,"Denver, CO",366
+32457,"San Jose, CA",30325,"Denver, CO",367
+31066,"Columbus, OH",30325,"Denver, CO",368
+30325,"Denver, CO",30599,"Birmingham, AL",369
+30325,"Denver, CO",31066,"Columbus, OH",370
+30325,"Denver, CO",31650,"Minneapolis, MN",371
+30325,"Denver, CO",34653,"Tulsa, OK",372
+33851,"Oklahoma City, OK",30325,"Denver, CO",373
+30325,"Denver, CO",33485,"Madison, WI",374
+30325,"Denver, CO",31650,"Minneapolis, MN",375
+30325,"Denver, CO",34492,"Raleigh/Durham, NC",376
+30325,"Denver, CO",33214,"San Antonio, TX",377
+33485,"Madison, WI",30325,"Denver, CO",378
+34492,"Raleigh/Durham, NC",30325,"Denver, CO",379
+33214,"San Antonio, TX",30325,"Denver, CO",380
+30325,"Denver, CO",30620,"Billings, MT",381
+30325,"Denver, CO",30615,"El Paso, TX",382
+33105,"Cincinnati, OH",30325,"Denver, CO",383
+30325,"Denver, CO",33105,"Cincinnati, OH",384
+30325,"Denver, CO",34614,"Salt Lake City, UT",385
+30194,"Dallas/Fort Worth, TX",30325,"Denver, CO",386
+30849,"Bozeman, MT",30325,"Denver, CO",387
+30325,"Denver, CO",30849,"Bozeman, MT",388
+30325,"Denver, CO",31650,"Minneapolis, MN",389
+30325,"Denver, CO",33044,"Louisville, KY",390
+33367,"Moline, IL",30325,"Denver, CO",391
+33044,"Louisville, KY",30325,"Denver, CO",392
+30140,"Albuquerque, NM",30325,"Denver, CO",393
+30279,"Amarillo, TX",30325,"Denver, CO",394
+30849,"Bozeman, MT",30325,"Denver, CO",395
+30325,"Denver, CO",30279,"Amarillo, TX",396
+30325,"Denver, CO",30849,"Bozeman, MT",397
+30325,"Denver, CO",33105,"Cincinnati, OH",398
+30325,"Denver, CO",31267,"Dayton, OH",399
+30325,"Denver, CO",31986,"Grand Rapids, MI",400
+30325,"Denver, CO",32896,"Lubbock, TX",401
+30325,"Denver, CO",33502,"Montrose/Delta, CO",402
+30325,"Denver, CO",32575,"Ontario, CA",403
+30325,"Denver, CO",30466,"Phoenix, AZ",404
+30325,"Denver, CO",34262,"Palm Springs, CA",405
+30325,"Denver, CO",34489,"Bend/Redmond, OR",406
+30325,"Denver, CO",33214,"San Antonio, TX",407
+30325,"Denver, CO",34653,"Tulsa, OK",408
+31423,"Des Moines, IA",30325,"Denver, CO",409
+32575,"Los Angeles, CA",31921,"Grand Junction, CO",410
+32896,"Lubbock, TX",30325,"Denver, CO",411
+33502,"Montrose/Delta, CO",30325,"Denver, CO",412
+32575,"Ontario, CA",30325,"Denver, CO",413
+30466,"Phoenix, AZ",30325,"Denver, CO",414
+34457,"Rapid City, SD",30325,"Denver, CO",415
+32575,"Burbank, CA",30325,"Denver, CO",416
+30852,"Baltimore, MD",30325,"Denver, CO",417
+31057,"Charlotte, NC",30325,"Denver, CO",418
+30325,"Denver, CO",30397,"Atlanta, GA",419
+30325,"Denver, CO",31703,"Newark, NJ",420
+30325,"Denver, CO",33198,"Kansas City, MO",421
+30325,"Denver, CO",34262,"Palm Springs, CA",422
+33851,"Oklahoma City, OK",30325,"Denver, CO",423
+30977,"Chicago, IL",30325,"Denver, CO",424
+34262,"Palm Springs, CA",30325,"Denver, CO",425
+34492,"Raleigh/Durham, NC",30325,"Denver, CO",426
+30140,"Albuquerque, NM",30325,"Denver, CO",427
+30257,"Albany, NY",30325,"Denver, CO",428
+30397,"Atlanta, GA",30325,"Denver, CO",429
+30529,"Hartford, CT",30325,"Denver, CO",430
+30325,"Denver, CO",30994,"Charleston, SC",431
+30325,"Denver, CO",32337,"Indianapolis, IN",432
+30325,"Denver, CO",32575,"Long Beach, CA",433
+30325,"Denver, CO",33198,"Kansas City, MO",434
+30325,"Denver, CO",33495,"New Orleans, LA",435
+30325,"Denver, CO",33495,"New Orleans, LA",436
+30325,"Denver, CO",33316,"Omaha, NE",437
+30325,"Denver, CO",32575,"Ontario, CA",438
+30325,"Denver, CO",33667,"Norfolk, VA",439
+30325,"Denver, CO",33214,"San Antonio, TX",440
+30325,"Denver, CO",30559,"Seattle, WA",441
+30325,"Denver, CO",32457,"San Jose, CA",442
+30325,"Denver, CO",33192,"Sacramento, CA",443
+30325,"Denver, CO",30436,"Tucson, AZ",444
+32337,"Indianapolis, IN",30325,"Denver, CO",445
+32575,"Long Beach, CA",30325,"Denver, CO",446
+33495,"New Orleans, LA",30325,"Denver, CO",447
+33316,"Omaha, NE",30325,"Denver, CO",448
+32575,"Ontario, CA",30325,"Denver, CO",449
+33667,"Norfolk, VA",30325,"Denver, CO",450
+30140,"Albuquerque, NM",30325,"Denver, CO",451
+30599,"Birmingham, AL",30325,"Denver, CO",452
+30647,"Cleveland, OH",30325,"Denver, CO",453
+30325,"Denver, CO",30140,"Albuquerque, NM",454
+30325,"Denver, CO",30693,"Nashville, TN",455
+30325,"Denver, CO",30615,"El Paso, TX",456
+30325,"Denver, CO",33244,"Memphis, TN",457
+30325,"Denver, CO",33851,"Oklahoma City, OK",458
+30325,"Denver, CO",31834,"Fayetteville, AR",459
+30194,"Dallas/Fort Worth, TX",30325,"Denver, CO",460
+31423,"Des Moines, IA",30325,"Denver, CO",461
+33244,"Memphis, TN",30325,"Denver, CO",462
+31650,"Minneapolis, MN",30325,"Denver, CO",463
+33495,"New Orleans, LA",30325,"Denver, CO",464
+33316,"Omaha, NE",30325,"Denver, CO",465
+33214,"San Antonio, TX",30325,"Denver, CO",466
+31834,"Fayetteville, AR",30325,"Denver, CO",467
+31003,"Cedar Rapids/Iowa City, IA",30325,"Denver, CO",468
+30325,"Denver, CO",31003,"Cedar Rapids/Iowa City, IA",469
+30325,"Denver, CO",32337,"Indianapolis, IN",470
+32337,"Indianapolis, IN",30325,"Denver, CO",471
+31650,"Minneapolis, MN",30325,"Denver, CO",472
+30620,"Billings, MT",30325,"Denver, CO",473
+30325,"Denver, CO",30620,"Billings, MT",474
+30325,"Denver, CO",34783,"Springfield, MO",475
+30325,"Denver, CO",30476,"Shreveport, LA",476
+30325,"Denver, CO",30436,"Tucson, AZ",477
+33198,"Kansas City, MO",30325,"Denver, CO",478
+30476,"Shreveport, LA",30325,"Denver, CO",479
+30436,"Tucson, AZ",30325,"Denver, CO",480
+30977,"Chicago, IL",30189,"Colorado Springs, CO",481
+32575,"Ontario, CA",30325,"Denver, CO",482
+31921,"Grand Junction, CO",32575,"Los Angeles, CA",483
+32575,"Los Angeles, CA",31921,"Grand Junction, CO",484
+30325,"Denver, CO",30194,"Dallas/Fort Worth, TX",485
+30194,"Dallas/Fort Worth, TX",30325,"Denver, CO",486
+30140,"Albuquerque, NM",30325,"Denver, CO",487
+30325,"Denver, CO",30140,"Albuquerque, NM",488
+30325,"Denver, CO",30194,"Dallas/Fort Worth, TX",489
+30194,"Dallas/Fort Worth, TX",30325,"Denver, CO",490
+30325,"Denver, CO",31884,"Spokane, WA",491
+30325,"Denver, CO",33486,"Missoula, MT",492
+30325,"Denver, CO",31650,"Minneapolis, MN",493
+30325,"Denver, CO",34783,"Springfield, MO",494
+30285,"Durango, CO",32575,"Los Angeles, CA",495
+31884,"Spokane, WA",30325,"Denver, CO",496
+32575,"Los Angeles, CA",30285,"Durango, CO",497
+33198,"Kansas City, MO",30325,"Denver, CO",498
+33486,"Missoula, MT",30325,"Denver, CO",499
+31650,"Minneapolis, MN",30325,"Denver, CO",500
+33316,"Omaha, NE",30325,"Denver, CO",501
+34783,"Springfield, MO",30325,"Denver, CO",502
+30397,"Atlanta, GA",30325,"Denver, CO",503
+30849,"Bozeman, MT",30325,"Denver, CO",504
+31003,"Cedar Rapids/Iowa City, IA",30325,"Denver, CO",505
+31066,"Columbus, OH",30325,"Denver, CO",506
+31066,"Columbus, OH",30325,"Denver, CO",507
+33105,"Cincinnati, OH",30325,"Denver, CO",508
+30325,"Denver, CO",30713,"Boise, ID",509
+30325,"Denver, CO",30849,"Bozeman, MT",510
+30325,"Denver, CO",31057,"Charlotte, NC",511
+30325,"Denver, CO",31066,"Columbus, OH",512
+30325,"Denver, CO",31066,"Columbus, OH",513
+30325,"Denver, CO",31603,"Eugene, OR",514
+30325,"Denver, CO",31648,"Kalispell, MT",515
+30325,"Denver, CO",32982,"Lihue, HI",516
+30325,"Denver, CO",33485,"Madison, WI",517
+30325,"Denver, CO",33495,"New Orleans, LA",518
+30325,"Denver, CO",34100,"Philadelphia, PA",519
+30325,"Denver, CO",34100,"Philadelphia, PA",520
+30325,"Denver, CO",34570,"Reno, NV",521
+30325,"Denver, CO",32457,"San Francisco, CA",522
+31295,"Detroit, MI",30325,"Denver, CO",523
+31648,"Kalispell, MT",30325,"Denver, CO",524
+32982,"Lihue, HI",30325,"Denver, CO",525
+33485,"Madison, WI",30325,"Denver, CO",526
+34570,"Reno, NV",30325,"Denver, CO",527
+30140,"Albuquerque, NM",30325,"Denver, CO",528
+30994,"Charleston, SC",30325,"Denver, CO",529
+30325,"Denver, CO",30423,"Austin, TX",530
+30325,"Denver, CO",33667,"Norfolk, VA",531
+30325,"Denver, CO",33570,"San Diego, CA",532
+30325,"Denver, CO",33214,"San Antonio, TX",533
+30325,"Denver, CO",32457,"San Jose, CA",534
+33342,"Milwaukee, WI",30325,"Denver, CO",535
+31650,"Minneapolis, MN",30325,"Denver, CO",536
+33667,"Norfolk, VA",30325,"Denver, CO",537
+33214,"San Antonio, TX",30325,"Denver, CO",538
+34614,"Salt Lake City, UT",30325,"Denver, CO",539
+30436,"Tucson, AZ",30325,"Denver, CO",540
+30325,"Denver, CO",32337,"Indianapolis, IN",541
+30325,"Denver, CO",33214,"San Antonio, TX",542
+30615,"El Paso, TX",30325,"Denver, CO",543
+34614,"Salt Lake City, UT",30325,"Denver, CO",544
+30325,"Denver, CO",33342,"Milwaukee, WI",545
+30325,"Denver, CO",32575,"Santa Ana, CA",546
+33342,"Milwaukee, WI",30325,"Denver, CO",547
+32575,"Santa Ana, CA",30325,"Denver, CO",548
+30325,"Denver, CO",31650,"Minneapolis, MN",549
+30325,"Denver, CO",30928,"Wichita, KS",550
+30928,"Wichita, KS",30325,"Denver, CO",551
+33502,"Montrose/Delta, CO",30977,"Chicago, IL",552
+30977,"Chicago, IL",33502,"Montrose/Delta, CO",553
+30325,"Denver, CO",32575,"Burbank, CA",554
+30325,"Denver, CO",33044,"Louisville, KY",555
+30325,"Denver, CO",34614,"Salt Lake City, UT",556
+34614,"Salt Lake City, UT",30325,"Denver, CO",557
+30325,"Denver, CO",31003,"Cedar Rapids/Iowa City, IA",558
+30325,"Denver, CO",32337,"Indianapolis, IN",559
+32337,"Indianapolis, IN",30325,"Denver, CO",560
+30620,"Billings, MT",30325,"Denver, CO",561
+30325,"Denver, CO",30397,"Atlanta, GA",562
+30325,"Denver, CO",30620,"Billings, MT",563
+30325,"Denver, CO",30647,"Cleveland, OH",564
+30325,"Denver, CO",30285,"Durango, CO",565
+30325,"Denver, CO",31648,"Kalispell, MT",566
+30325,"Denver, CO",30928,"Wichita, KS",567
+30325,"Denver, CO",33198,"Kansas City, MO",568
+30325,"Denver, CO",33244,"Memphis, TN",569
+30325,"Denver, CO",33304,"Minot, ND",570
+30325,"Denver, CO",33316,"Omaha, NE",571
+30325,"Denver, CO",34689,"Santa Barbara, CA",572
+30285,"Durango, CO",30325,"Denver, CO",573
+33198,"Kansas City, MO",30325,"Denver, CO",574
+33244,"Memphis, TN",30325,"Denver, CO",575
+34262,"Palm Springs, CA",30325,"Denver, CO",576
+34614,"Salt Lake City, UT",30325,"Denver, CO",577
+30713,"Boise, ID",30325,"Denver, CO",578
+31057,"Charlotte, NC",30325,"Denver, CO",579
+30325,"Denver, CO",30852,"Baltimore, MD",580
+30325,"Denver, CO",31003,"Cedar Rapids/Iowa City, IA",581
+30325,"Denver, CO",31057,"Charlotte, NC",582
+30325,"Denver, CO",33105,"Cincinnati, OH",583
+30325,"Denver, CO",31703,"Newark, NJ",584
+30325,"Denver, CO",31884,"Spokane, WA",585
+30325,"Denver, CO",33264,"Medford, OR",586
+30325,"Denver, CO",32575,"Ontario, CA",587
+30325,"Denver, CO",32457,"San Jose, CA",588
+30325,"Denver, CO",33192,"Sacramento, CA",589
+30325,"Denver, CO",30436,"Tucson, AZ",590
+32467,"Fort Lauderdale, FL",30325,"Denver, CO",591
+31884,"Spokane, WA",30325,"Denver, CO",592
+33198,"Kansas City, MO",30325,"Denver, CO",593
+33851,"Oklahoma City, OK",30325,"Denver, CO",594
+32575,"Ontario, CA",30325,"Denver, CO",595
+34057,"Portland, OR",30325,"Denver, CO",596
+30559,"Seattle, WA",30325,"Denver, CO",597
+32457,"San Jose, CA",30325,"Denver, CO",598
+30436,"Tucson, AZ",30325,"Denver, CO",599
+30693,"Nashville, TN",30325,"Denver, CO",600
+30325,"Denver, CO",32575,"Long Beach, CA",601
+30325,"Denver, CO",31650,"Minneapolis, MN",602
+30325,"Denver, CO",31123,"St. Louis, MO",603
+31453,"Houston, TX",30325,"Denver, CO",604
+32575,"Long Beach, CA",30325,"Denver, CO",605
+33851,"Oklahoma City, OK",30325,"Denver, CO",606
+30198,"Pittsburgh, PA",30325,"Denver, CO",607
+31123,"St. Louis, MO",30325,"Denver, CO",608
+31123,"St. Louis, MO",30325,"Denver, CO",609
+30325,"Denver, CO",30466,"Phoenix, AZ",610
+30466,"Phoenix, AZ",30325,"Denver, CO",611
+31650,"Minneapolis, MN",30325,"Denver, CO",612
+30325,"Denver, CO",31003,"Cedar Rapids/Iowa City, IA",613
+31233,"Cheyenne, WY",30325,"Denver, CO",614
+30325,"Denver, CO",31233,"Cheyenne, WY",615
+30325,"Denver, CO",33244,"Memphis, TN",616
+31650,"Minneapolis, MN",30325,"Denver, CO",617
+33502,"Montrose/Delta, CO",30977,"Chicago, IL",618
+30977,"Chicago, IL",33502,"Montrose/Delta, CO",619
+30397,"Atlanta, GA",30325,"Denver, CO",620
+30647,"Cleveland, OH",30325,"Denver, CO",621
+30189,"Colorado Springs, CO",32575,"Los Angeles, CA",622
+30325,"Denver, CO",31057,"Charlotte, NC",623
+30325,"Denver, CO",33264,"Medford, OR",624
+30325,"Denver, CO",33964,"North Bend/Coos Bay, OR",625
+31423,"Des Moines, IA",30325,"Denver, CO",626
+31648,"Kalispell, MT",30325,"Denver, CO",627
+30928,"Wichita, KS",30325,"Denver, CO",628
+33244,"Memphis, TN",30325,"Denver, CO",629
+33304,"Minot, ND",30325,"Denver, CO",630
+33964,"North Bend/Coos Bay, OR",30325,"Denver, CO",631
+34489,"Bend/Redmond, OR",30325,"Denver, CO",632
+34689,"Santa Barbara, CA",30325,"Denver, CO",633
+34653,"Tulsa, OK",30325,"Denver, CO",634
+30436,"Tucson, AZ",30325,"Denver, CO",635
+30423,"Austin, TX",30325,"Denver, CO",636
+30325,"Denver, CO",31295,"Detroit, MI",637
+30325,"Denver, CO",31986,"Grand Rapids, MI",638
+30325,"Denver, CO",32337,"Indianapolis, IN",639
+30325,"Denver, CO",33198,"Kansas City, MO",640
+30325,"Denver, CO",33342,"Milwaukee, WI",641
+30325,"Denver, CO",33495,"New Orleans, LA",642
+31703,"Newark, NJ",30325,"Denver, CO",643
+32337,"Indianapolis, IN",30325,"Denver, CO",644
+32337,"Indianapolis, IN",30325,"Denver, CO",645
+33264,"Medford, OR",30325,"Denver, CO",646
+33342,"Milwaukee, WI",30325,"Denver, CO",647
+34100,"Philadelphia, PA",30325,"Denver, CO",648
+30325,"Denver, CO",32467,"Fort Lauderdale, FL",649
+30325,"Denver, CO",31136,"Jacksonville, FL",650
+30325,"Denver, CO",33198,"Kansas City, MO",651
+30325,"Denver, CO",32457,"Oakland, CA",652
+30325,"Denver, CO",33851,"Oklahoma City, OK",653
+31136,"Jacksonville, FL",30325,"Denver, CO",654
+32457,"San Francisco, CA",30325,"Denver, CO",655
+34614,"Salt Lake City, UT",30325,"Denver, CO",656
+30397,"Atlanta, GA",30325,"Denver, CO",657
+30325,"Denver, CO",30397,"Atlanta, GA",658
+30325,"Denver, CO",30194,"Dallas/Fort Worth, TX",659
+30325,"Denver, CO",33316,"Omaha, NE",660
+30325,"Denver, CO",33044,"Louisville, KY",661
+30189,"Colorado Springs, CO",31921,"Grand Junction, CO",662
+30325,"Denver, CO",33244,"Memphis, TN",663
+30325,"Denver, CO",33244,"Memphis, TN",664
+31921,"Grand Junction, CO",30189,"Colorado Springs, CO",665
+33244,"Memphis, TN",30325,"Denver, CO",666
+30325,"Denver, CO",31775,"Sioux Falls, SD",667
+31921,"Grand Junction, CO",32211,"Las Vegas, NV",668
+32211,"Las Vegas, NV",31921,"Grand Junction, CO",669
+30325,"Denver, CO",35412,"Knoxville, TN",670
+35412,"Knoxville, TN",30325,"Denver, CO",671
+30423,"Austin, TX",30325,"Denver, CO",672
+30561,"Bakersfield, CA",30325,"Denver, CO",673
+31057,"Charlotte, NC",30325,"Denver, CO",674
+30325,"Denver, CO",31921,"Grand Junction, CO",675
+30325,"Denver, CO",34524,"Richmond, VA",676
+34524,"Richmond, VA",30325,"Denver, CO",677
+30620,"Billings, MT",30325,"Denver, CO",678
+30713,"Boise, ID",30325,"Denver, CO",679
+32575,"Burbank, CA",30325,"Denver, CO",680
+30325,"Denver, CO",30620,"Billings, MT",681
+30325,"Denver, CO",30713,"Boise, ID",682
+30325,"Denver, CO",32575,"Burbank, CA",683
+30325,"Denver, CO",31423,"Des Moines, IA",684
+30325,"Denver, CO",31603,"Eugene, OR",685
+30325,"Denver, CO",31603,"Eugene, OR",686
+30325,"Denver, CO",33342,"Milwaukee, WI",687
+30325,"Denver, CO",33851,"Oklahoma City, OK",688
+30325,"Denver, CO",30198,"Pittsburgh, PA",689
+30325,"Denver, CO",34614,"Salt Lake City, UT",690
+31423,"Des Moines, IA",30325,"Denver, CO",691
+31603,"Eugene, OR",30325,"Denver, CO",692
+33198,"Kansas City, MO",30325,"Denver, CO",693
+33342,"Milwaukee, WI",30325,"Denver, CO",694
+34100,"Philadelphia, PA",30325,"Denver, CO",695
+30198,"Pittsburgh, PA",30325,"Denver, CO",696
+34653,"Tulsa, OK",30325,"Denver, CO",697
+30423,"Austin, TX",30325,"Denver, CO",698
+30647,"Cleveland, OH",30325,"Denver, CO",699
+30325,"Denver, CO",31703,"Newark, NJ",700
+30325,"Denver, CO",33728,"Pensacola, FL",701
+30325,"Denver, CO",34492,"Raleigh/Durham, NC",702
+33728,"Pensacola, FL",30325,"Denver, CO",703
+34653,"Tulsa, OK",30325,"Denver, CO",704
+31003,"Cedar Rapids/Iowa City, IA",30325,"Denver, CO",705
+30325,"Denver, CO",34699,"Hayden, CO",706
+31775,"Sioux Falls, SD",30325,"Denver, CO",707
+30325,"Denver, CO",33044,"Louisville, KY",708
+33044,"Louisville, KY",30325,"Denver, CO",709
+30325,"Denver, CO",30466,"Phoenix, AZ",710
+30466,"Phoenix, AZ",30325,"Denver, CO",711
+30325,"Denver, CO",30647,"Cleveland, OH",712
+33105,"Cincinnati, OH",30325,"Denver, CO",713
+30325,"Denver, CO",30436,"Tucson, AZ",714
+33851,"Oklahoma City, OK",30325,"Denver, CO",715
+30423,"Austin, TX",30325,"Denver, CO",716
+30325,"Denver, CO",30423,"Austin, TX",717
+30325,"Denver, CO",30529,"Hartford, CT",718
+30325,"Denver, CO",31295,"Detroit, MI",719
+30325,"Denver, CO",32467,"Fort Lauderdale, FL",720
+30325,"Denver, CO",31703,"New York, NY",721
+30325,"Denver, CO",33485,"Madison, WI",722
+30325,"Denver, CO",31650,"Minneapolis, MN",723
+30325,"Denver, CO",30559,"Seattle, WA",724
+30325,"Denver, CO",34653,"Tulsa, OK",725
+31603,"Eugene, OR",30325,"Denver, CO",726
+33495,"New Orleans, LA",30325,"Denver, CO",727
+34614,"Salt Lake City, UT",30325,"Denver, CO",728
+30325,"Denver, CO",31884,"Spokane, WA",729
+30325,"Denver, CO",31453,"Houston, TX",730
+30325,"Denver, CO",32575,"Los Angeles, CA",731
+30325,"Denver, CO",33851,"Oklahoma City, OK",732
+30325,"Denver, CO",30466,"Phoenix, AZ",733
+30325,"Denver, CO",32457,"San Francisco, CA",734
+32211,"Las Vegas, NV",30325,"Denver, CO",735
+33198,"Kansas City, MO",30325,"Denver, CO",736
+34492,"Raleigh/Durham, NC",30325,"Denver, CO",737
+30693,"Nashville, TN",30325,"Denver, CO",738
+30189,"Colorado Springs, CO",32457,"San Francisco, CA",739
+32457,"San Francisco, CA",30189,"Colorado Springs, CO",740
+30325,"Denver, CO",32457,"Oakland, CA",741
+30325,"Denver, CO",32012,"Gunnison, CO",742
+32012,"Gunnison, CO",30325,"Denver, CO",743
+34699,"Hayden, CO",30325,"Denver, CO",744
+30466,"Phoenix, AZ",30189,"Colorado Springs, CO",745
+30189,"Colorado Springs, CO",30466,"Phoenix, AZ",746
+30189,"Colorado Springs, CO",32211,"Las Vegas, NV",747
+31921,"Grand Junction, CO",32575,"Los Angeles, CA",748
+32211,"Las Vegas, NV",30189,"Colorado Springs, CO",749
+32575,"Los Angeles, CA",31921,"Grand Junction, CO",750
+30643,"Branson, MO",30325,"Denver, CO",751
+30325,"Denver, CO",30643,"Branson, MO",752
+30325,"Denver, CO",31003,"Cedar Rapids/Iowa City, IA",753
+30325,"Denver, CO",31648,"Kalispell, MT",754
+30325,"Denver, CO",33851,"Oklahoma City, OK",755
+30325,"Denver, CO",33851,"Oklahoma City, OK",756
+31648,"Kalispell, MT",30325,"Denver, CO",757
+31921,"Grand Junction, CO",30325,"Denver, CO",758
+33264,"Medford, OR",30325,"Denver, CO",759
+30852,"Baltimore, MD",30325,"Denver, CO",760
+30325,"Denver, CO",32337,"Indianapolis, IN",761
+30325,"Denver, CO",34057,"Portland, OR",762
+31295,"Detroit, MI",30325,"Denver, CO",763
+31603,"Eugene, OR",30325,"Denver, CO",764
+32337,"Indianapolis, IN",30325,"Denver, CO",765
+33485,"Madison, WI",30325,"Denver, CO",766
+30325,"Denver, CO",30397,"Atlanta, GA",767
+30325,"Denver, CO",30529,"Hartford, CT",768
+32337,"Indianapolis, IN",30325,"Denver, CO",769
+31650,"Minneapolis, MN",30325,"Denver, CO",770
+33214,"San Antonio, TX",30325,"Denver, CO",771
+30325,"Denver, CO",30852,"Washington, DC",772
+33044,"Louisville, KY",30325,"Denver, CO",773
+31066,"Columbus, OH",30325,"Denver, CO",774
+30325,"Denver, CO",32575,"Burbank, CA",775
+30325,"Denver, CO",31066,"Columbus, OH",776
+30325,"Denver, CO",30436,"Tucson, AZ",777
+31123,"St. Louis, MO",30325,"Denver, CO",778
+30529,"Hartford, CT",30325,"Denver, CO",779
+30325,"Denver, CO",30852,"Baltimore, MD",780
+30325,"Denver, CO",31423,"Des Moines, IA",781
+30325,"Denver, CO",31775,"Sioux Falls, SD",782
+30325,"Denver, CO",34262,"Palm Springs, CA",783
+31423,"Des Moines, IA",30325,"Denver, CO",784
+30852,"Washington, DC",30325,"Denver, CO",785
+33495,"New Orleans, LA",30325,"Denver, CO",786
+32575,"Ontario, CA",30325,"Denver, CO",787
+34262,"Palm Springs, CA",30325,"Denver, CO",788
+30325,"Denver, CO",30647,"Cleveland, OH",789
+30325,"Denver, CO",32211,"Las Vegas, NV",790
+30325,"Denver, CO",31650,"Minneapolis, MN",791
+30325,"Denver, CO",33044,"Louisville, KY",792
+33851,"Oklahoma City, OK",30325,"Denver, CO",793
+33044,"Louisville, KY",30325,"Denver, CO",794
+32457,"San Francisco, CA",30325,"Denver, CO",795
+31453,"Houston, TX",30189,"Colorado Springs, CO",796
+30852,"Washington, DC",30325,"Denver, CO",797
+30325,"Denver, CO",31423,"Des Moines, IA",798
+31423,"Des Moines, IA",30325,"Denver, CO",799
+30325,"Denver, CO",33244,"Memphis, TN",800
+33244,"Memphis, TN",30325,"Denver, CO",801
+30325,"Denver, CO",34653,"Tulsa, OK",802
+34653,"Tulsa, OK",30325,"Denver, CO",803
+30325,"Denver, CO",35177,"Telluride, CO",804
+35177,"Telluride, CO",30325,"Denver, CO",805
+30950,"Cortez, CO",30466,"Phoenix, AZ",806
+30466,"Phoenix, AZ",30950,"Cortez, CO",807
+30325,"Denver, CO",31703,"New York, NY",808
+33851,"Oklahoma City, OK",30325,"Denver, CO",809
+30852,"Baltimore, MD",30325,"Denver, CO",810
+30325,"Denver, CO",31603,"Eugene, OR",811
+30325,"Denver, CO",30852,"Washington, DC",812
+30325,"Denver, CO",33495,"New Orleans, LA",813
+30325,"Denver, CO",33316,"Omaha, NE",814
+30325,"Denver, CO",32575,"Ontario, CA",815
+30325,"Denver, CO",33192,"Sacramento, CA",816
+31775,"Sioux Falls, SD",30325,"Denver, CO",817
+30325,"Denver, CO",30852,"Washington, DC",818
+32575,"Los Angeles, CA",30325,"Denver, CO",819
+33198,"Kansas City, MO",30325,"Denver, CO",820
+30466,"Phoenix, AZ",30325,"Denver, CO",821
+30189,"Colorado Springs, CO",32575,"Los Angeles, CA",822
+32575,"Los Angeles, CA",30189,"Colorado Springs, CO",823
+30325,"Denver, CO",31986,"Grand Rapids, MI",824
+30325,"Denver, CO",31703,"New York, NY",825
+31703,"New York, NY",30325,"Denver, CO",826
+30325,"Denver, CO",33214,"San Antonio, TX",827
+33214,"San Antonio, TX",30325,"Denver, CO",828
+30325,"Denver, CO",31603,"Eugene, OR",829
+30325,"Denver, CO",31650,"Minneapolis, MN",830
+30325,"Denver, CO",34492,"Raleigh/Durham, NC",831
+30325,"Denver, CO",30559,"Seattle, WA",832
+30194,"Dallas/Fort Worth, TX",30325,"Denver, CO",833
+33342,"Milwaukee, WI",30325,"Denver, CO",834
+31650,"Minneapolis, MN",30325,"Denver, CO",835
+33192,"Sacramento, CA",30325,"Denver, CO",836
+30325,"Denver, CO",30693,"Nashville, TN",837
+31638,"Fresno, CA",31921,"Grand Junction, CO",838
+34783,"Springfield, MO",30325,"Denver, CO",839
+33105,"Cincinnati, OH",30325,"Denver, CO",840
+30325,"Denver, CO",33105,"Cincinnati, OH",841
+31703,"New York, NY",30325,"Denver, CO",842
+30325,"Denver, CO",34614,"Salt Lake City, UT",843
+33367,"Moline, IL",30325,"Denver, CO",844
+30325,"Denver, CO",30620,"Billings, MT",845
+30325,"Denver, CO",31423,"Des Moines, IA",846
+30325,"Denver, CO",33342,"Milwaukee, WI",847
+30325,"Denver, CO",33316,"Omaha, NE",848
+30325,"Denver, CO",32575,"Ontario, CA",849
+30325,"Denver, CO",33195,"Tampa, FL",850
+31454,"Orlando, FL",30325,"Denver, CO",851
+34492,"Raleigh/Durham, NC",30325,"Denver, CO",852
+33570,"San Diego, CA",30325,"Denver, CO",853
+30849,"Bozeman, MT",30325,"Denver, CO",854
+31003,"Cedar Rapids/Iowa City, IA",30325,"Denver, CO",855
+30325,"Denver, CO",30849,"Bozeman, MT",856
+30325,"Denver, CO",31003,"Cedar Rapids/Iowa City, IA",857
+30325,"Denver, CO",31995,"Greensboro/High Point, NC",858
+30325,"Denver, CO",30559,"Seattle, WA",859
+31995,"Greensboro/High Point, NC",30325,"Denver, CO",860
+30559,"Seattle, WA",30325,"Denver, CO",861
+32457,"Oakland, CA",30325,"Denver, CO",862
+31003,"Cedar Rapids/Iowa City, IA",30325,"Denver, CO",863
+30620,"Billings, MT",30325,"Denver, CO",864
+30325,"Denver, CO",30423,"Austin, TX",865
+30325,"Denver, CO",33570,"San Diego, CA",866
+31423,"Des Moines, IA",30325,"Denver, CO",867
+31453,"Houston, TX",30325,"Denver, CO",868
+33316,"Omaha, NE",30325,"Denver, CO",869
+32575,"Ontario, CA",30325,"Denver, CO",870
+32457,"San Jose, CA",30325,"Denver, CO",871
+30194,"Dallas, TX",30325,"Denver, CO",872
+32467,"Fort Lauderdale, FL",30325,"Denver, CO",873
+30693,"Nashville, TN",30325,"Denver, CO",874
+30325,"Denver, CO",30693,"Nashville, TN",875
+30189,"Colorado Springs, CO",30559,"Seattle, WA",876
+31603,"Eugene, OR",30325,"Denver, CO",877
+30559,"Seattle, WA",30189,"Colorado Springs, CO",878
+30140,"Albuquerque, NM",30325,"Denver, CO",879
+30325,"Denver, CO",30198,"Pittsburgh, PA",880
+33316,"Omaha, NE",30325,"Denver, CO",881
+30198,"Pittsburgh, PA",30325,"Denver, CO",882
+31423,"Des Moines, IA",30325,"Denver, CO",883
+30325,"Denver, CO",33485,"Madison, WI",884
+33485,"Madison, WI",30325,"Denver, CO",885
+30325,"Denver, CO",33244,"Memphis, TN",886
+30325,"Denver, CO",31895,"Great Falls, MT",887
+30325,"Denver, CO",31834,"Fayetteville, AR",888
+31834,"Fayetteville, AR",30325,"Denver, CO",889
+30189,"Colorado Springs, CO",30559,"Seattle, WA",890
+30559,"Seattle, WA",30189,"Colorado Springs, CO",891
+31295,"Detroit, MI",30325,"Denver, CO",892
+30325,"Denver, CO",33367,"Moline, IL",893
+30325,"Denver, CO",30140,"Albuquerque, NM",894
+32211,"Las Vegas, NV",30325,"Denver, CO",895
+31703,"New York, NY",30325,"Denver, CO",896
+30559,"Seattle, WA",30325,"Denver, CO",897
+33192,"Sacramento, CA",30325,"Denver, CO",898
+33244,"Memphis, TN",30325,"Denver, CO",899
+30693,"Nashville, TN",30325,"Denver, CO",900
+30325,"Denver, CO",30693,"Nashville, TN",901
+30325,"Denver, CO",33486,"Missoula, MT",902
+30325,"Denver, CO",35412,"Knoxville, TN",903
+33486,"Missoula, MT",30325,"Denver, CO",904
+35412,"Knoxville, TN",30325,"Denver, CO",905
+31921,"Grand Junction, CO",31638,"Fresno, CA",906
+31921,"Grand Junction, CO",33244,"Memphis, TN",907
+33244,"Memphis, TN",30325,"Denver, CO",908
+33244,"Memphis, TN",30325,"Denver, CO",909
+33244,"Memphis, TN",31921,"Grand Junction, CO",910
+31895,"Great Falls, MT",30325,"Denver, CO",911
+32600,"Little Rock, AR",30325,"Denver, CO",912
+30950,"Cortez, CO",30466,"Phoenix, AZ",913
+30466,"Phoenix, AZ",30950,"Cortez, CO",914
+30325,"Denver, CO",31650,"Minneapolis, MN",915
+31295,"Detroit, MI",30325,"Denver, CO",916
+34653,"Tulsa, OK",30325,"Denver, CO",917
+30140,"Albuquerque, NM",30325,"Denver, CO",918
+30325,"Denver, CO",33198,"Kansas City, MO",919
+30325,"Denver, CO",34262,"Palm Springs, CA",920
+30615,"El Paso, TX",30325,"Denver, CO",921
+34262,"Palm Springs, CA",30325,"Denver, CO",922
+31066,"Columbus, OH",30325,"Denver, CO",923
+30325,"Denver, CO",30140,"Albuquerque, NM",924
+30325,"Denver, CO",30647,"Cleveland, OH",925
+30325,"Denver, CO",32337,"Indianapolis, IN",926
+30325,"Denver, CO",32211,"Las Vegas, NV",927
+33264,"Medford, OR",30325,"Denver, CO",928
+33495,"New Orleans, LA",30325,"Denver, CO",929
+30198,"Pittsburgh, PA",30325,"Denver, CO",930
+32457,"San Jose, CA",30325,"Denver, CO",931
+30325,"Denver, CO",30194,"Dallas, TX",932
+30325,"Denver, CO",34057,"Portland, OR",933
+30325,"Denver, CO",30559,"Seattle, WA",934
+34057,"Portland, OR",30325,"Denver, CO",935
+30559,"Seattle, WA",30325,"Denver, CO",936
+30325,"Denver, CO",33367,"Moline, IL",937
+30325,"Denver, CO",30615,"El Paso, TX",938
+30325,"Denver, CO",31603,"Eugene, OR",939
+30325,"Denver, CO",31834,"Fayetteville, AR",940
+31603,"Eugene, OR",30325,"Denver, CO",941
+30928,"Wichita, KS",30325,"Denver, CO",942
+30140,"Albuquerque, NM",30325,"Denver, CO",943
+30325,"Denver, CO",30852,"Baltimore, MD",944
+30325,"Denver, CO",31066,"Columbus, OH",945
+30325,"Denver, CO",31453,"Houston, TX",946
+30325,"Denver, CO",30198,"Pittsburgh, PA",947
+30325,"Denver, CO",32457,"San Jose, CA",948
+30325,"Denver, CO",32457,"San Jose, CA",949
+30325,"Denver, CO",34614,"Salt Lake City, UT",950
+30325,"Denver, CO",31123,"St. Louis, MO",951
+34614,"Salt Lake City, UT",30325,"Denver, CO",952
+33195,"Tampa, FL",30325,"Denver, CO",953
+30325,"Denver, CO",32211,"Las Vegas, NV",954
+30325,"Denver, CO",34653,"Tulsa, OK",955
+30189,"Colorado Springs, CO",30325,"Denver, CO",956
+30325,"Denver, CO",30189,"Colorado Springs, CO",957
+31423,"Des Moines, IA",30325,"Denver, CO",958
+30620,"Billings, MT",30325,"Denver, CO",959
+30325,"Denver, CO",30620,"Billings, MT",960
+30325,"Denver, CO",32575,"Ontario, CA",961
+32575,"Ontario, CA",30325,"Denver, CO",962
+34512,"Rockford, IL",30325,"Denver, CO",963
+30325,"Denver, CO",30928,"Wichita, KS",964
+30325,"Denver, CO",33044,"Louisville, KY",965
+34457,"Rapid City, SD",30325,"Denver, CO",966
+30529,"Hartford, CT",30325,"Denver, CO",967
+30849,"Bozeman, MT",30325,"Denver, CO",968
+30325,"Denver, CO",30849,"Bozeman, MT",969
+30325,"Denver, CO",33264,"Medford, OR",970
+30325,"Denver, CO",33495,"New Orleans, LA",971
+30325,"Denver, CO",30466,"Phoenix, AZ",972
+30325,"Denver, CO",34570,"Reno, NV",973
+30325,"Denver, CO",33214,"San Antonio, TX",974
+30325,"Denver, CO",32457,"San Francisco, CA",975
+31775,"Sioux Falls, SD",30325,"Denver, CO",976
+31884,"Spokane, WA",30325,"Denver, CO",977
+34570,"Reno, NV",30325,"Denver, CO",978
+32457,"San Francisco, CA",30325,"Denver, CO",979
+33195,"Tampa, FL",30325,"Denver, CO",980
+30140,"Albuquerque, NM",30325,"Denver, CO",981
+30325,"Denver, CO",30140,"Albuquerque, NM",982
+30325,"Denver, CO",30647,"Cleveland, OH",983
+30325,"Denver, CO",34614,"Salt Lake City, UT",984
+33198,"Kansas City, MO",30325,"Denver, CO",985
+30189,"Colorado Springs, CO",30977,"Chicago, IL",986
+30194,"Dallas/Fort Worth, TX",30325,"Denver, CO",987
+30325,"Denver, CO",30194,"Dallas/Fort Worth, TX",988
+33244,"Memphis, TN",30325,"Denver, CO",989
+30397,"Atlanta, GA",30325,"Denver, CO",990
+30325,"Denver, CO",33367,"Moline, IL",991
+30325,"Denver, CO",33495,"New Orleans, LA",992
+30372,"Aspen, CO",34614,"Salt Lake City, UT",993
+31267,"Dayton, OH",30325,"Denver, CO",994
+30325,"Denver, CO",33198,"Kansas City, MO",995
+30325,"Denver, CO",31834,"Fayetteville, AR",996
+30194,"Dallas/Fort Worth, TX",30325,"Denver, CO",997
+31638,"Fresno, CA",30325,"Denver, CO",998
+30466,"Phoenix, AZ",30325,"Denver, CO",999
+33214,"San Antonio, TX",30325,"Denver, CO",1000
+30423,"Austin, TX",30325,"Denver, CO",1001
+31057,"Charlotte, NC",30325,"Denver, CO",1002
+30325,"Denver, CO",31057,"Charlotte, NC",1003
+30325,"Denver, CO",31775,"Sioux Falls, SD",1004
+30325,"Denver, CO",31775,"Sioux Falls, SD",1005
+30325,"Denver, CO",31884,"Spokane, WA",1006
+30325,"Denver, CO",33198,"Kansas City, MO",1007
+30325,"Denver, CO",33851,"Oklahoma City, OK",1008
+30325,"Denver, CO",30198,"Pittsburgh, PA",1009
+30325,"Denver, CO",33570,"San Diego, CA",1010
+30325,"Denver, CO",33214,"San Antonio, TX",1011
+31775,"Sioux Falls, SD",30325,"Denver, CO",1012
+30325,"Denver, CO",30647,"Cleveland, OH",1013
+30325,"Denver, CO",31423,"Des Moines, IA",1014
+31423,"Des Moines, IA",30325,"Denver, CO",1015
+30977,"Chicago, IL",30189,"Colorado Springs, CO",1016
+31650,"Minneapolis, MN",30325,"Denver, CO",1017
+30325,"Denver, CO",30928,"Wichita, KS",1018
+30713,"Boise, ID",30325,"Denver, CO",1019
+30325,"Denver, CO",30140,"Albuquerque, NM",1020
+30325,"Denver, CO",31123,"St. Louis, MO",1021
+34614,"Salt Lake City, UT",30372,"Aspen, CO",1022
+30397,"Atlanta, GA",30325,"Denver, CO",1023
+30325,"Denver, CO",32467,"Fort Lauderdale, FL",1024
+30325,"Denver, CO",31650,"Minneapolis, MN",1025
+30325,"Denver, CO",32575,"Ontario, CA",1026
+30325,"Denver, CO",34057,"Portland, OR",1027
+30325,"Denver, CO",30559,"Seattle, WA",1028
+30325,"Denver, CO",32457,"San Jose, CA",1029
+30325,"Denver, CO",33195,"Tampa, FL",1030
+31986,"Grand Rapids, MI",30325,"Denver, CO",1031
+33198,"Kansas City, MO",30325,"Denver, CO",1032
+32575,"Ontario, CA",30325,"Denver, CO",1033
+34100,"Philadelphia, PA",30325,"Denver, CO",1034
+30198,"Pittsburgh, PA",30325,"Denver, CO",1035
+31123,"St. Louis, MO",30325,"Denver, CO",1036
+33195,"Tampa, FL",30325,"Denver, CO",1037
+30325,"Denver, CO",30529,"Hartford, CT",1038
+30325,"Denver, CO",34570,"Reno, NV",1039
+30325,"Denver, CO",33044,"Louisville, KY",1040
+30325,"Denver, CO",34614,"Salt Lake City, UT",1041
+30325,"Denver, CO",33198,"Kansas City, MO",1042
+30140,"Albuquerque, NM",30285,"Durango, CO",1043
+31711,"Farmington, NM",30285,"Durango, CO",1044
+30325,"Denver, CO",33105,"Cincinnati, OH",1045
+34699,"Hayden, CO",30325,"Denver, CO",1046
+34783,"Springfield, MO",30325,"Denver, CO",1047
+30372,"Aspen, CO",32457,"San Francisco, CA",1048
+30423,"Austin, TX",30325,"Denver, CO",1049
+31447,"Devils Lake, ND",30325,"Denver, CO",1050
+32600,"Little Rock, AR",30325,"Denver, CO",1051
+33029,"Lincoln, NE",30325,"Denver, CO",1052
+30325,"Denver, CO",30529,"Hartford, CT",1053
+30325,"Denver, CO",33316,"Omaha, NE",1054
+30325,"Denver, CO",34524,"Richmond, VA",1055
+30325,"Denver, CO",34689,"Santa Barbara, CA",1056
+30325,"Denver, CO",32457,"San Francisco, CA",1057
+32467,"Fort Lauderdale, FL",30325,"Denver, CO",1058
+31650,"Minneapolis, MN",30325,"Denver, CO",1059
+33495,"New Orleans, LA",30325,"Denver, CO",1060
+33316,"Omaha, NE",30325,"Denver, CO",1061
+34057,"Portland, OR",30325,"Denver, CO",1062
+34524,"Richmond, VA",30325,"Denver, CO",1063
+33214,"San Antonio, TX",30325,"Denver, CO",1064
+34689,"Santa Barbara, CA",30325,"Denver, CO",1065
+30647,"Cleveland, OH",30325,"Denver, CO",1066
+30325,"Denver, CO",31066,"Columbus, OH",1067
+30325,"Denver, CO",31703,"New York, NY",1068
+30325,"Denver, CO",31066,"Columbus, OH",1069
+30627,"Bismarck/Mandan, ND",30325,"Denver, CO",1070
+30325,"Denver, CO",30627,"Bismarck/Mandan, ND",1071
+30140,"Albuquerque, NM",30285,"Durango, CO",1072
+30189,"Colorado Springs, CO",33244,"Memphis, TN",1073
+31711,"Farmington, NM",30285,"Durango, CO",1074
+34699,"Hayden, CO",31122,"Casper, WY",1075
+33244,"Memphis, TN",30189,"Colorado Springs, CO",1076
+30325,"Denver, CO",34570,"Reno, NV",1077
+30325,"Denver, CO",34699,"Hayden, CO",1078
+30325,"Denver, CO",33316,"Omaha, NE",1079
+30325,"Denver, CO",34457,"Rapid City, SD",1080
+30140,"Albuquerque, NM",30325,"Denver, CO",1081
+30397,"Atlanta, GA",30325,"Denver, CO",1082
+32575,"Burbank, CA",30325,"Denver, CO",1083
+33105,"Cincinnati, OH",30325,"Denver, CO",1084
+30325,"Denver, CO",30140,"Albuquerque, NM",1085
+30325,"Denver, CO",30194,"Dallas/Fort Worth, TX",1086
+30325,"Denver, CO",31638,"Fresno, CA",1087
+30325,"Denver, CO",30466,"Phoenix, AZ",1088
+31775,"Sioux Falls, SD",30325,"Denver, CO",1089
+33198,"Kansas City, MO",30325,"Denver, CO",1090
+33264,"Medford, OR",30325,"Denver, CO",1091
+34236,"San Luis Obispo, CA",30325,"Denver, CO",1092
+32457,"San Francisco, CA",30372,"Aspen, CO",1093
+30713,"Boise, ID",30325,"Denver, CO",1094
+30325,"Denver, CO",30713,"Boise, ID",1095
+30325,"Denver, CO",32441,"Jackson, WY",1096
+33851,"Oklahoma City, OK",30325,"Denver, CO",1097
+33851,"Oklahoma City, OK",30325,"Denver, CO",1098
+34100,"Philadelphia, PA",30325,"Denver, CO",1099
+30466,"Phoenix, AZ",30325,"Denver, CO",1100
+32457,"San Francisco, CA",30325,"Denver, CO",1101
+30994,"Charleston, SC",30325,"Denver, CO",1102
+30325,"Denver, CO",30713,"Boise, ID",1103
+30325,"Denver, CO",30994,"Charleston, SC",1104
+31295,"Detroit, MI",30325,"Denver, CO",1105
+33044,"Louisville, KY",30325,"Denver, CO",1106
+30436,"Tucson, AZ",30325,"Denver, CO",1107
+31066,"Columbus, OH",30325,"Denver, CO",1108
+33158,"Midland/Odessa, TX",30325,"Denver, CO",1109
+30325,"Denver, CO",35412,"Knoxville, TN",1110
+35412,"Knoxville, TN",30325,"Denver, CO",1111
+31453,"Houston, TX",33502,"Montrose/Delta, CO",1112
+33502,"Montrose/Delta, CO",31453,"Houston, TX",1113
+33105,"Cincinnati, OH",30325,"Denver, CO",1114
+30325,"Denver, CO",33105,"Cincinnati, OH",1115
+30325,"Denver, CO",34783,"Springfield, MO",1116
+30928,"Wichita, KS",30325,"Denver, CO",1117
+32575,"Burbank, CA",30325,"Denver, CO",1118
+30325,"Denver, CO",34236,"San Luis Obispo, CA",1119
+31453,"Houston, TX",30372,"Aspen, CO",1120
+34653,"Tulsa, OK",30325,"Denver, CO",1121
+30713,"Boise, ID",30325,"Denver, CO",1122
+30325,"Denver, CO",30423,"Austin, TX",1123
+30325,"Denver, CO",30423,"Austin, TX",1124
+30325,"Denver, CO",30194,"Dallas/Fort Worth, TX",1125
+30325,"Denver, CO",32467,"Fort Lauderdale, FL",1126
+30325,"Denver, CO",30928,"Wichita, KS",1127
+30325,"Denver, CO",32758,"Kona, HI",1128
+30325,"Denver, CO",33830,"Kahului, HI",1129
+30325,"Denver, CO",33195,"Tampa, FL",1130
+32467,"Fort Lauderdale, FL",30325,"Denver, CO",1131
+30928,"Wichita, KS",30325,"Denver, CO",1132
+32441,"Jackson, WY",30325,"Denver, CO",1133
+32758,"Kona, HI",30325,"Denver, CO",1134
+33830,"Kahului, HI",30325,"Denver, CO",1135
+34653,"Tulsa, OK",30325,"Denver, CO",1136
+30713,"Boise, ID",30325,"Denver, CO",1137
+30325,"Denver, CO",31136,"Jacksonville, FL",1138
+31136,"Jacksonville, FL",30325,"Denver, CO",1139
+32575,"Ontario, CA",30325,"Denver, CO",1140
+32457,"San Jose, CA",30325,"Denver, CO",1141
+30423,"Austin, TX",30325,"Denver, CO",1142
+30325,"Denver, CO",33158,"Midland/Odessa, TX",1143
+33044,"Louisville, KY",30325,"Denver, CO",1144
+34653,"Tulsa, OK",30325,"Denver, CO",1145
+30325,"Denver, CO",31775,"Sioux Falls, SD",1146
+31775,"Sioux Falls, SD",30325,"Denver, CO",1147
+31122,"Casper, WY",34699,"Hayden, CO",1148
+30189,"Colorado Springs, CO",31453,"Houston, TX",1149
+30325,"Denver, CO",30950,"Cortez, CO",1150
+33105,"Cincinnati, OH",30325,"Denver, CO",1151
+30325,"Denver, CO",33264,"Medford, OR",1152
+34262,"Palm Springs, CA",30325,"Denver, CO",1153
+30721,"Boston, MA",30325,"Denver, CO",1154
+31057,"Charlotte, NC",30325,"Denver, CO",1155
+30325,"Denver, CO",30397,"Atlanta, GA",1156
+30325,"Denver, CO",30713,"Boise, ID",1157
+30325,"Denver, CO",31057,"Charlotte, NC",1158
+30325,"Denver, CO",32457,"San Francisco, CA",1159
+30194,"Dallas/Fort Worth, TX",30325,"Denver, CO",1160
+31650,"Minneapolis, MN",30325,"Denver, CO",1161
+33192,"Sacramento, CA",30325,"Denver, CO",1162
+30194,"Dallas, TX",30325,"Denver, CO",1163
+33192,"Sacramento, CA",30325,"Denver, CO",1164
+30325,"Denver, CO",33851,"Oklahoma City, OK",1165
+30325,"Denver, CO",34614,"Salt Lake City, UT",1166
+30325,"Denver, CO",31123,"St. Louis, MO",1167
+32211,"Las Vegas, NV",30189,"Colorado Springs, CO",1168
+34614,"Salt Lake City, UT",30325,"Denver, CO",1169
+31123,"St. Louis, MO",30325,"Denver, CO",1170
+30285,"Durango, CO",30140,"Albuquerque, NM",1171
+33244,"Memphis, TN",30325,"Denver, CO",1172
+33851,"Oklahoma City, OK",30325,"Denver, CO",1173
+30372,"Aspen, CO",31453,"Houston, TX",1174
+30693,"Nashville, TN",30325,"Denver, CO",1175
+30325,"Denver, CO",30599,"Birmingham, AL",1176
+30325,"Denver, CO",31775,"Sioux Falls, SD",1177
+30325,"Denver, CO",34262,"Palm Springs, CA",1178
+30325,"Denver, CO",30476,"Shreveport, LA",1179
+31423,"Des Moines, IA",30325,"Denver, CO",1180
+32389,"Williston, ND",30325,"Denver, CO",1181
+33316,"Omaha, NE",30325,"Denver, CO",1182
+30476,"Shreveport, LA",30325,"Denver, CO",1183
+30325,"Denver, CO",34653,"Tulsa, OK",1184
+30466,"Phoenix, AZ",30325,"Denver, CO",1185
+32457,"San Jose, CA",30325,"Denver, CO",1186
+30423,"Austin, TX",30325,"Denver, CO",1187
+30325,"Denver, CO",34100,"Philadelphia, PA",1188
+30325,"Denver, CO",30198,"Pittsburgh, PA",1189
+32467,"Fort Lauderdale, FL",30325,"Denver, CO",1190
+31884,"Spokane, WA",30325,"Denver, CO",1191
+30189,"Colorado Springs, CO",32211,"Las Vegas, NV",1192
+30325,"Denver, CO",32337,"Indianapolis, IN",1193
+30325,"Denver, CO",32211,"Las Vegas, NV",1194
+32337,"Indianapolis, IN",30325,"Denver, CO",1195
+32211,"Las Vegas, NV",30325,"Denver, CO",1196
+30285,"Durango, CO",30140,"Albuquerque, NM",1197
+30325,"Denver, CO",31650,"Minneapolis, MN",1198
+31650,"Minneapolis, MN",30325,"Denver, CO",1199
+30325,"Denver, CO",33198,"Kansas City, MO",1200
+30325,"Denver, CO",33502,"Montrose/Delta, CO",1201
+33502,"Montrose/Delta, CO",30325,"Denver, CO",1202
+30140,"Albuquerque, NM",30272,"Alamosa, CO",1203
+30272,"Alamosa, CO",30140,"Albuquerque, NM",1204
+30950,"Cortez, CO",30325,"Denver, CO",1205
+30325,"Denver, CO",33198,"Kansas City, MO",1206
+30325,"Denver, CO",33486,"Missoula, MT",1207
+33316,"Omaha, NE",30325,"Denver, CO",1208
+30693,"Nashville, TN",30325,"Denver, CO",1209
+30325,"Denver, CO",30693,"Nashville, TN",1210
+30325,"Denver, CO",32389,"Williston, ND",1211
+30325,"Denver, CO",33029,"Lincoln, NE",1212
+30325,"Denver, CO",33316,"Omaha, NE",1213
+32575,"Los Angeles, CA",30189,"Colorado Springs, CO",1214
+30325,"Denver, CO",30852,"Baltimore, MD",1215
+30325,"Denver, CO",30466,"Phoenix, AZ",1216
+30325,"Denver, CO",33214,"San Antonio, TX",1217
+30325,"Denver, CO",33192,"Sacramento, CA",1218
+30466,"Phoenix, AZ",30325,"Denver, CO",1219
+33214,"San Antonio, TX",30325,"Denver, CO",1220
+30257,"Albany, NY",30325,"Denver, CO",1221
+30529,"Hartford, CT",30325,"Denver, CO",1222
+30721,"Boston, MA",30325,"Denver, CO",1223
+30325,"Denver, CO",31295,"Detroit, MI",1224
+34570,"Reno, NV",30325,"Denver, CO",1225
+30189,"Colorado Springs, CO",30325,"Denver, CO",1226
+30325,"Denver, CO",30423,"Austin, TX",1227
+30325,"Denver, CO",33244,"Memphis, TN",1228
+30325,"Denver, CO",34100,"Philadelphia, PA",1229
+30325,"Denver, CO",30466,"Phoenix, AZ",1230
+31503,"Eagle, CO",30194,"Dallas/Fort Worth, TX",1231
+32575,"Los Angeles, CA",30325,"Denver, CO",1232
+32467,"Miami, FL",30325,"Denver, CO",1233
+30466,"Phoenix, AZ",30325,"Denver, CO",1234
+30325,"Denver, CO",31295,"Detroit, MI",1235
+30325,"Denver, CO",33851,"Oklahoma City, OK",1236
+33486,"Missoula, MT",30325,"Denver, CO",1237
+30599,"Birmingham, AL",30325,"Denver, CO",1238
+30189,"Colorado Springs, CO",30977,"Chicago, IL",1239
+30325,"Denver, CO",33029,"Lincoln, NE",1240
+33029,"Lincoln, NE",30325,"Denver, CO",1241
+30423,"Austin, TX",30325,"Denver, CO",1242
+30852,"Washington, DC",30325,"Denver, CO",1243
+30325,"Denver, CO",30852,"Washington, DC",1244
+30325,"Denver, CO",30198,"Pittsburgh, PA",1245
+30325,"Denver, CO",34492,"Raleigh/Durham, NC",1246
+30325,"Denver, CO",33214,"San Antonio, TX",1247
+34057,"Portland, OR",30325,"Denver, CO",1248
+34492,"Raleigh/Durham, NC",30325,"Denver, CO",1249
+33214,"San Antonio, TX",30325,"Denver, CO",1250
+30325,"Denver, CO",31295,"Detroit, MI",1251
+30325,"Denver, CO",32467,"Fort Lauderdale, FL",1252
+32467,"Fort Lauderdale, FL",30325,"Denver, CO",1253
+31453,"Houston, TX",30325,"Denver, CO",1254
+33502,"Montrose/Delta, CO",30194,"Dallas/Fort Worth, TX",1255
+30325,"Denver, CO",31637,"Fargo, ND",1256
+30189,"Colorado Springs, CO",30977,"Chicago, IL",1257
+30325,"Denver, CO",32575,"Los Angeles, CA",1258
+30325,"Denver, CO",32467,"Miami, FL",1259
+30194,"Dallas/Fort Worth, TX",31503,"Eagle, CO",1260
+30372,"Aspen, CO",30194,"Dallas/Fort Worth, TX",1261
+30325,"Denver, CO",30928,"Wichita, KS",1262
+30194,"Dallas/Fort Worth, TX",30372,"Aspen, CO",1263
+30325,"Denver, CO",30397,"Atlanta, GA",1264
+30325,"Denver, CO",31884,"Spokane, WA",1265
+30325,"Denver, CO",32575,"Los Angeles, CA",1266
+30325,"Denver, CO",30466,"Phoenix, AZ",1267
+30325,"Denver, CO",32457,"San Francisco, CA",1268
+32575,"Los Angeles, CA",30325,"Denver, CO",1269
+30325,"Denver, CO",31986,"Grand Rapids, MI",1270
+30325,"Denver, CO",32337,"Indianapolis, IN",1271
+31703,"Newark, NJ",30325,"Denver, CO",1272
+31986,"Grand Rapids, MI",30325,"Denver, CO",1273
+30599,"Birmingham, AL",30325,"Denver, CO",1274
+30397,"Atlanta, GA",30325,"Denver, CO",1275
+30325,"Denver, CO",31066,"Columbus, OH",1276
+30325,"Denver, CO",34057,"Portland, OR",1277
+30325,"Denver, CO",33570,"San Diego, CA",1278
+30852,"Washington, DC",30325,"Denver, CO",1279
+33570,"San Diego, CA",30325,"Denver, CO",1280
+30325,"Denver, CO",31453,"Houston, TX",1281
+30325,"Denver, CO",32575,"Los Angeles, CA",1282
+30325,"Denver, CO",33570,"San Diego, CA",1283
+30194,"Dallas/Fort Worth, TX",30325,"Denver, CO",1284
+31295,"Detroit, MI",30325,"Denver, CO",1285
+32575,"Los Angeles, CA",30325,"Denver, CO",1286
+31650,"Minneapolis, MN",30325,"Denver, CO",1287
+33570,"San Diego, CA",30325,"Denver, CO",1288
+30194,"Dallas/Fort Worth, TX",33502,"Montrose/Delta, CO",1289
+33502,"Montrose/Delta, CO",30466,"Phoenix, AZ",1290
+30466,"Phoenix, AZ",33502,"Montrose/Delta, CO",1291
+30325,"Denver, CO",30559,"Seattle, WA",1292
+30559,"Seattle, WA",30325,"Denver, CO",1293
+31097,"Cody, WY",30325,"Denver, CO",1294
+30325,"Denver, CO",31097,"Cody, WY",1295
+30325,"Denver, CO",30466,"Phoenix, AZ",1296
+30466,"Phoenix, AZ",30325,"Denver, CO",1297
+30397,"Atlanta, GA",30189,"Colorado Springs, CO",1298
+30189,"Colorado Springs, CO",30397,"Atlanta, GA",1299
+31295,"Detroit, MI",30325,"Denver, CO",1300
+30325,"Denver, CO",31503,"Eagle, CO",1301
+31503,"Eagle, CO",30325,"Denver, CO",1302
+30849,"Bozeman, MT",30325,"Denver, CO",1303
+30189,"Colorado Springs, CO",31453,"Houston, TX",1304
+30325,"Denver, CO",30713,"Boise, ID",1305
+30325,"Denver, CO",30713,"Boise, ID",1306
+30325,"Denver, CO",31638,"Fresno, CA",1307
+30325,"Denver, CO",32156,"Helena, MT",1308
+32156,"Helena, MT",30325,"Denver, CO",1309
+31453,"Houston, TX",30189,"Colorado Springs, CO",1310
+32519,"Jamestown, ND",30325,"Denver, CO",1311
+30325,"Denver, CO",32134,"Honolulu, HI",1312
+31884,"Spokane, WA",30325,"Denver, CO",1313
+32134,"Honolulu, HI",30325,"Denver, CO",1314
+31453,"Houston, TX",30325,"Denver, CO",1315
+30928,"Wichita, KS",30325,"Denver, CO",1316
+32337,"Indianapolis, IN",30325,"Denver, CO",1317
+30559,"Seattle, WA",30325,"Denver, CO",1318
+30325,"Denver, CO",30257,"Albany, NY",1319
+30325,"Denver, CO",33192,"Sacramento, CA",1320
+34100,"Philadelphia, PA",30325,"Denver, CO",1321
+33195,"Tampa, FL",30325,"Denver, CO",1322
+30325,"Denver, CO",30693,"Nashville, TN",1323
+30423,"Austin, TX",30325,"Denver, CO",1324
+30647,"Cleveland, OH",30325,"Denver, CO",1325
+31057,"Charlotte, NC",30325,"Denver, CO",1326
+31066,"Columbus, OH",30325,"Denver, CO",1327
+30189,"Colorado Springs, CO",31454,"Orlando, FL",1328
+30189,"Colorado Springs, CO",30466,"Phoenix, AZ",1329
+30325,"Denver, CO",30397,"Atlanta, GA",1330
+30325,"Denver, CO",30397,"Atlanta, GA",1331
+30325,"Denver, CO",30423,"Austin, TX",1332
+30325,"Denver, CO",30647,"Cleveland, OH",1333
+30325,"Denver, CO",31057,"Charlotte, NC",1334
+30325,"Denver, CO",30194,"Dallas/Fort Worth, TX",1335
+30325,"Denver, CO",30852,"Washington, DC",1336
+30325,"Denver, CO",32211,"Las Vegas, NV",1337
+30325,"Denver, CO",31703,"New York, NY",1338
+30325,"Denver, CO",33244,"Memphis, TN",1339
+30325,"Denver, CO",32467,"Miami, FL",1340
+30325,"Denver, CO",33495,"New Orleans, LA",1341
+30325,"Denver, CO",33316,"Omaha, NE",1342
+30325,"Denver, CO",34057,"Portland, OR",1343
+30325,"Denver, CO",34100,"Philadelphia, PA",1344
+30325,"Denver, CO",34100,"Philadelphia, PA",1345
+30325,"Denver, CO",30198,"Pittsburgh, PA",1346
+30325,"Denver, CO",33570,"San Diego, CA",1347
+30325,"Denver, CO",30559,"Seattle, WA",1348
+30325,"Denver, CO",34614,"Salt Lake City, UT",1349
+30325,"Denver, CO",31123,"St. Louis, MO",1350
+30325,"Denver, CO",33195,"Tampa, FL",1351
+30194,"Dallas/Fort Worth, TX",30325,"Denver, CO",1352
+32211,"Las Vegas, NV",30325,"Denver, CO",1353
+31703,"New York, NY",30325,"Denver, CO",1354
+31454,"Orlando, FL",30189,"Colorado Springs, CO",1355
+33244,"Memphis, TN",30325,"Denver, CO",1356
+32467,"Miami, FL",30325,"Denver, CO",1357
+33495,"New Orleans, LA",30325,"Denver, CO",1358
+33316,"Omaha, NE",30325,"Denver, CO",1359
+34057,"Portland, OR",30325,"Denver, CO",1360
+34100,"Philadelphia, PA",30325,"Denver, CO",1361
+34100,"Philadelphia, PA",30325,"Denver, CO",1362
+30466,"Phoenix, AZ",30189,"Colorado Springs, CO",1363
+30198,"Pittsburgh, PA",30325,"Denver, CO",1364
+33570,"San Diego, CA",30325,"Denver, CO",1365
+30559,"Seattle, WA",30325,"Denver, CO",1366
+34614,"Salt Lake City, UT",30325,"Denver, CO",1367
+31123,"St. Louis, MO",30325,"Denver, CO",1368
+33195,"Tampa, FL",30325,"Denver, CO",1369
+30325,"Denver, CO",30194,"Dallas/Fort Worth, TX",1370
+30325,"Denver, CO",32575,"Los Angeles, CA",1371
+30325,"Denver, CO",31650,"Minneapolis, MN",1372
+32575,"Los Angeles, CA",30325,"Denver, CO",1373
+30325,"Denver, CO",30559,"Seattle, WA",1374
+30559,"Seattle, WA",30325,"Denver, CO",1375
+30325,"Denver, CO",30255,"Huntsville, AL",1376
+30255,"Huntsville, AL",30325,"Denver, CO",1377
+34100,"Philadelphia, PA",30325,"Denver, CO",1378
+30620,"Billings, MT",30325,"Denver, CO",1379
+30325,"Denver, CO",30620,"Billings, MT",1380
+30325,"Denver, CO",30849,"Bozeman, MT",1381
+30325,"Denver, CO",34689,"Santa Barbara, CA",1382
+30928,"Wichita, KS",30325,"Denver, CO",1383
+30977,"Chicago, IL",30189,"Colorado Springs, CO",1384
+34689,"Santa Barbara, CA",30325,"Denver, CO",1385
+30325,"Denver, CO",30928,"Wichita, KS",1386
+30325,"Denver, CO",31703,"New York, NY",1387
+30325,"Denver, CO",31454,"Orlando, FL",1388
+30325,"Denver, CO",30466,"Phoenix, AZ",1389
+30466,"Phoenix, AZ",30325,"Denver, CO",1390
+33192,"Sacramento, CA",30325,"Denver, CO",1391
+30325,"Denver, CO",31295,"Detroit, MI",1392
+30397,"Atlanta, GA",30325,"Denver, CO",1393
+30325,"Denver, CO",33570,"San Diego, CA",1394
+30325,"Denver, CO",34614,"Salt Lake City, UT",1395
+33570,"San Diego, CA",30325,"Denver, CO",1396
+34614,"Salt Lake City, UT",30325,"Denver, CO",1397
+30325,"Denver, CO",33044,"Louisville, KY",1398
+33044,"Louisville, KY",30325,"Denver, CO",1399
+30325,"Denver, CO",33044,"Louisville, KY",1400
+30325,"Denver, CO",31703,"New York, NY",1401
+31703,"New York, NY",30325,"Denver, CO",1402
+30325,"Denver, CO",34614,"Salt Lake City, UT",1403
+34614,"Salt Lake City, UT",30325,"Denver, CO",1404
+30423,"Austin, TX",30325,"Denver, CO",1405
+30325,"Denver, CO",33105,"Cincinnati, OH",1406
+30721,"Boston, MA",30325,"Denver, CO",1407
+30647,"Cleveland, OH",30325,"Denver, CO",1408
+30325,"Denver, CO",32575,"Santa Ana, CA",1409
+30325,"Denver, CO",30423,"Austin, TX",1410
+30325,"Denver, CO",30721,"Boston, MA",1411
+30325,"Denver, CO",30194,"Dallas, TX",1412
+32575,"Ontario, CA",30325,"Denver, CO",1413
+34100,"Philadelphia, PA",30325,"Denver, CO",1414
+34570,"Reno, NV",30325,"Denver, CO",1415
+30325,"Denver, CO",30599,"Birmingham, AL",1416
+30325,"Denver, CO",33342,"Milwaukee, WI",1417
+33342,"Milwaukee, WI",30325,"Denver, CO",1418
+33044,"Louisville, KY",30325,"Denver, CO",1419
+30325,"Denver, CO",31775,"Sioux Falls, SD",1420
+32575,"Los Angeles, CA",30189,"Colorado Springs, CO",1421
+30397,"Atlanta, GA",30325,"Denver, CO",1422
+33316,"Omaha, NE",30325,"Denver, CO",1423
+30325,"Denver, CO",30397,"Atlanta, GA",1424
+33342,"Milwaukee, WI",30325,"Denver, CO",1425
+30436,"Tucson, AZ",30325,"Denver, CO",1426
+32337,"Indianapolis, IN",30325,"Denver, CO",1427
+30325,"Denver, CO",33198,"Kansas City, MO",1428
+33198,"Kansas City, MO",30325,"Denver, CO",1429
+33244,"Memphis, TN",30325,"Denver, CO",1430
+30325,"Denver, CO",32600,"Little Rock, AR",1431
+31637,"Fargo, ND",30325,"Denver, CO",1432
+30325,"Denver, CO",30194,"Dallas/Fort Worth, TX",1433
+30436,"Tucson, AZ",30325,"Denver, CO",1434
+30325,"Denver, CO",33342,"Milwaukee, WI",1435
+30325,"Denver, CO",30977,"Chicago, IL",1436
+30194,"Dallas/Fort Worth, TX",30325,"Denver, CO",1437
+30325,"Denver, CO",32467,"Fort Lauderdale, FL",1438
+31295,"Detroit, MI",30325,"Denver, CO",1439
+30325,"Denver, CO",33029,"Lincoln, NE",1440
+30325,"Denver, CO",31295,"Detroit, MI",1441
+30325,"Denver, CO",34457,"Rapid City, SD",1442
+31986,"Grand Rapids, MI",30325,"Denver, CO",1443
+30325,"Denver, CO",30194,"Dallas/Fort Worth, TX",1444
+30325,"Denver, CO",30194,"Dallas/Fort Worth, TX",1445
+31703,"New York, NY",30325,"Denver, CO",1446
+33342,"Milwaukee, WI",30325,"Denver, CO",1447
+33570,"San Diego, CA",30325,"Denver, CO",1448
+32575,"Santa Ana, CA",30325,"Denver, CO",1449
+30325,"Denver, CO",30693,"Nashville, TN",1450
+30325,"Denver, CO",34100,"Philadelphia, PA",1451
+31295,"Detroit, MI",30325,"Denver, CO",1452
+31884,"Spokane, WA",30325,"Denver, CO",1453
+30852,"Washington, DC",30325,"Denver, CO",1454
+34057,"Portland, OR",30325,"Denver, CO",1455
+30325,"Denver, CO",31295,"Detroit, MI",1456
+30325,"Denver, CO",32337,"Indianapolis, IN",1457
+32337,"Indianapolis, IN",30325,"Denver, CO",1458
+30140,"Albuquerque, NM",30325,"Denver, CO",1459
+30325,"Denver, CO",30140,"Albuquerque, NM",1460
+30325,"Denver, CO",30615,"El Paso, TX",1461
+30325,"Denver, CO",30397,"Atlanta, GA",1462
+31267,"Dayton, OH",30325,"Denver, CO",1463
+30189,"Colorado Springs, CO",30977,"Chicago, IL",1464
+30325,"Denver, CO",33158,"Midland/Odessa, TX",1465
+31775,"Sioux Falls, SD",30325,"Denver, CO",1466
+31834,"Fayetteville, AR",30325,"Denver, CO",1467
+30325,"Denver, CO",30647,"Cleveland, OH",1468
+31703,"Newark, NJ",30325,"Denver, CO",1469
+30325,"Denver, CO",32457,"San Francisco, CA",1470
+30189,"Colorado Springs, CO",31453,"Houston, TX",1471
+30615,"El Paso, TX",30325,"Denver, CO",1472
+33044,"Louisville, KY",30325,"Denver, CO",1473
+30397,"Atlanta, GA",30325,"Denver, CO",1474
+30325,"Denver, CO",31703,"New York, NY",1475
+31703,"New York, NY",30325,"Denver, CO",1476
+34457,"Rapid City, SD",30325,"Denver, CO",1477
+33158,"Midland/Odessa, TX",30325,"Denver, CO",1478
+30852,"Baltimore, MD",30325,"Denver, CO",1479
+30325,"Denver, CO",30194,"Dallas/Fort Worth, TX",1480
+30325,"Denver, CO",31986,"Grand Rapids, MI",1481
+30325,"Denver, CO",31454,"Orlando, FL",1482
+30325,"Denver, CO",33316,"Omaha, NE",1483
+31703,"Newark, NJ",30325,"Denver, CO",1484
+30977,"Chicago, IL",30325,"Denver, CO",1485
+30713,"Boise, ID",30325,"Denver, CO",1486
+30325,"Denver, CO",31066,"Columbus, OH",1487
+30325,"Denver, CO",31454,"Orlando, FL",1488
+30325,"Denver, CO",33195,"Tampa, FL",1489
+31454,"Orlando, FL",30325,"Denver, CO",1490
+33367,"Moline, IL",30325,"Denver, CO",1491
+30627,"Bismarck/Mandan, ND",30325,"Denver, CO",1492
+30325,"Denver, CO",30627,"Bismarck/Mandan, ND",1493
+32457,"San Francisco, CA",30325,"Denver, CO",1494
+30325,"Denver, CO",31703,"New York, NY",1495
+30325,"Denver, CO",34570,"Reno, NV",1496
+30325,"Denver, CO",30559,"Seattle, WA",1497
+33029,"Lincoln, NE",30325,"Denver, CO",1498
+30325,"Denver, CO",34057,"Portland, OR",1499
+30559,"Seattle, WA",30325,"Denver, CO",1500
+30325,"Denver, CO",30713,"Boise, ID",1501
+31423,"Des Moines, IA",30325,"Denver, CO",1502
+30325,"Denver, CO",31423,"Des Moines, IA",1503
+32575,"Los Angeles, CA",30325,"Denver, CO",1504
+30436,"Tucson, AZ",30325,"Denver, CO",1505
+30325,"Denver, CO",34534,"Riverton/Lander, WY",1506
+30325,"Denver, CO",33570,"San Diego, CA",1507
+30713,"Boise, ID",30325,"Denver, CO",1508
+34457,"Rapid City, SD",30325,"Denver, CO",1509
+33570,"San Diego, CA",30325,"Denver, CO",1510
+31003,"Cedar Rapids/Iowa City, IA",30325,"Denver, CO",1511
+30325,"Denver, CO",31003,"Cedar Rapids/Iowa City, IA",1512
+30325,"Denver, CO",32441,"Jackson, WY",1513
+30325,"Denver, CO",32575,"Los Angeles, CA",1514
+30194,"Dallas/Fort Worth, TX",30325,"Denver, CO",1515
+31648,"Kalispell, MT",30325,"Denver, CO",1516
+32211,"Las Vegas, NV",30325,"Denver, CO",1517
+31123,"St. Louis, MO",30325,"Denver, CO",1518
+34534,"Riverton/Lander, WY",30325,"Denver, CO",1519
+34614,"Salt Lake City, UT",30325,"Denver, CO",1520
+30325,"Denver, CO",32575,"Burbank, CA",1521
+30325,"Denver, CO",33851,"Oklahoma City, OK",1522
+30325,"Denver, CO",34457,"Rapid City, SD",1523
+30325,"Denver, CO",34614,"Salt Lake City, UT",1524
+33851,"Oklahoma City, OK",30325,"Denver, CO",1525
+30325,"Denver, CO",31648,"Kalispell, MT",1526
+30325,"Denver, CO",33192,"Sacramento, CA",1527
+30852,"Baltimore, MD",30325,"Denver, CO",1528
+30559,"Seattle, WA",30325,"Denver, CO",1529
+30325,"Denver, CO",30559,"Seattle, WA",1530
+30325,"Denver, CO",34614,"Salt Lake City, UT",1531
+30325,"Denver, CO",33244,"Memphis, TN",1532
+32441,"Jackson, WY",30325,"Denver, CO",1533
+34492,"Raleigh/Durham, NC",30325,"Denver, CO",1534
+30559,"Seattle, WA",30325,"Denver, CO",1535
+30325,"Denver, CO",30397,"Atlanta, GA",1536
+30325,"Denver, CO",31295,"Detroit, MI",1537
+30325,"Denver, CO",31454,"Orlando, FL",1538
+30325,"Denver, CO",33570,"San Diego, CA",1539
+31650,"Minneapolis, MN",30325,"Denver, CO",1540
+30325,"Denver, CO",33342,"Milwaukee, WI",1541
+30325,"Denver, CO",33570,"San Diego, CA",1542
+30325,"Denver, CO",31123,"St. Louis, MO",1543
+34783,"Springfield, MO",30325,"Denver, CO",1544
+30325,"Denver, CO",34492,"Raleigh/Durham, NC",1545
+30325,"Denver, CO",30977,"Chicago, IL",1546
+30977,"Chicago, IL",30325,"Denver, CO",1547
+30325,"Denver, CO",31423,"Des Moines, IA",1548
+30325,"Denver, CO",32457,"San Jose, CA",1549
+32457,"San Jose, CA",30325,"Denver, CO",1550
+30325,"Denver, CO",30721,"Boston, MA",1551
+30325,"Denver, CO",30977,"Chicago, IL",1552
+31295,"Detroit, MI",30325,"Denver, CO",1553
+33485,"Madison, WI",30325,"Denver, CO",1554
+31123,"St. Louis, MO",30325,"Denver, CO",1555
+31711,"Farmington, NM",30325,"Denver, CO",1556
+31703,"New York, NY",30325,"Denver, CO",1557
+33486,"Missoula, MT",30325,"Denver, CO",1558
+34489,"Bend/Redmond, OR",30325,"Denver, CO",1559
+30325,"Denver, CO",31703,"Newark, NJ",1560
+30325,"Denver, CO",33485,"Madison, WI",1561
+30325,"Denver, CO",34100,"Philadelphia, PA",1562
+31703,"Newark, NJ",30325,"Denver, CO",1563
+31454,"Orlando, FL",30325,"Denver, CO",1564
+30325,"Denver, CO",32575,"Los Angeles, CA",1565
+32575,"Los Angeles, CA",30325,"Denver, CO",1566
+30325,"Denver, CO",32337,"Indianapolis, IN",1567
+30325,"Denver, CO",31711,"Farmington, NM",1568
+30325,"Denver, CO",31703,"New York, NY",1569
+31295,"Detroit, MI",30325,"Denver, CO",1570
+31703,"New York, NY",30325,"Denver, CO",1571
+30325,"Denver, CO",34653,"Tulsa, OK",1572
+30647,"Cleveland, OH",30325,"Denver, CO",1573
+30325,"Denver, CO",31703,"Newark, NJ",1574
+30198,"Pittsburgh, PA",30325,"Denver, CO",1575
+30325,"Denver, CO",31295,"Detroit, MI",1576
+30325,"Denver, CO",31703,"New York, NY",1577
+30325,"Denver, CO",30423,"Austin, TX",1578
+30325,"Denver, CO",32441,"Jackson, WY",1579
+32441,"Jackson, WY",30325,"Denver, CO",1580
+30561,"Bakersfield, CA",30325,"Denver, CO",1581
+30325,"Denver, CO",33486,"Missoula, MT",1582
+30325,"Denver, CO",34489,"Bend/Redmond, OR",1583
+31454,"Orlando, FL",30325,"Denver, CO",1584
+34057,"Portland, OR",30325,"Denver, CO",1585
+31703,"Newark, NJ",30325,"Denver, CO",1586
+31453,"Houston, TX",30189,"Colorado Springs, CO",1587
+30325,"Denver, CO",34120,"Pierre, SD",1588
+30325,"Denver, CO",30285,"Durango, CO",1589
+30285,"Durango, CO",30325,"Denver, CO",1590
+30977,"Chicago, IL",30372,"Aspen, CO",1591
+30299,"Anchorage, AK",30325,"Denver, CO",1592
+32457,"Oakland, CA",30325,"Denver, CO",1593
+34120,"Pierre, SD",30325,"Denver, CO",1594
+30372,"Aspen, CO",30977,"Chicago, IL",1595
+34614,"Salt Lake City, UT",30325,"Denver, CO",1596
+33192,"Sacramento, CA",30325,"Denver, CO",1597
+30852,"Washington, DC",30325,"Denver, CO",1598
+30325,"Denver, CO",34877,"Salina, KS",1599
+34877,"Salina, KS",30325,"Denver, CO",1600
+30325,"Denver, CO",32255,"Hays, KS",1601
+30325,"Denver, CO",32519,"Jamestown, ND",1602
+30325,"Denver, CO",32888,"Laramie, WY",1603
+30325,"Denver, CO",34783,"Springfield, MO",1604
+32255,"Hays, KS",30325,"Denver, CO",1605
+30325,"Denver, CO",32211,"Las Vegas, NV",1606
+33570,"San Diego, CA",30325,"Denver, CO",1607
+30693,"Nashville, TN",30325,"Denver, CO",1608
+34653,"Tulsa, OK",30325,"Denver, CO",1609
+30325,"Denver, CO",31315,"Dickinson, ND",1610
+31315,"Dickinson, ND",30325,"Denver, CO",1611
+30221,"Alliance, NE",30325,"Denver, CO",1612
+30925,"Chadron, NE",30325,"Denver, CO",1613
+30950,"Cortez, CO",30325,"Denver, CO",1614
+30325,"Denver, CO",30221,"Alliance, NE",1615
+30325,"Denver, CO",30925,"Chadron, NE",1616
+30325,"Denver, CO",33200,"McCook, NE",1617
+30325,"Denver, CO",35582,"Vernal, UT",1618
+33200,"McCook, NE",30325,"Denver, CO",1619
+35582,"Vernal, UT",30325,"Denver, CO",1620
+30325,"Denver, CO",31267,"Dayton, OH",1621
+32888,"Laramie, WY",30325,"Denver, CO",1622
+32600,"Little Rock, AR",30325,"Denver, CO",1623
+30325,"Denver, CO",30299,"Anchorage, AK",1624
+30325,"Denver, CO",30189,"Colorado Springs, CO",1625
+30279,"Amarillo, TX",30325,"Denver, CO",1626
+30325,"Denver, CO",30279,"Amarillo, TX",1627
+30189,"Colorado Springs, CO",32575,"Los Angeles, CA",1628
+30325,"Denver, CO",33192,"Sacramento, CA",1629
+30325,"Denver, CO",34057,"Portland, OR",1630
+31453,"Houston, TX",30325,"Denver, CO",1631
+30397,"Atlanta, GA",30325,"Denver, CO",1632
+30325,"Denver, CO",31884,"Spokane, WA",1633
+30325,"Denver, CO",33495,"New Orleans, LA",1634
+30325,"Denver, CO",30466,"Phoenix, AZ",1635
+30466,"Phoenix, AZ",30325,"Denver, CO",1636
+30325,"Denver, CO",30950,"Cortez, CO",1637
+30325,"Denver, CO",30397,"Atlanta, GA",1638
+30325,"Denver, CO",33502,"Montrose/Delta, CO",1639
+33502,"Montrose/Delta, CO",30325,"Denver, CO",1640
+30325,"Denver, CO",33304,"Minot, ND",1641
+33304,"Minot, ND",30325,"Denver, CO",1642
+30325,"Denver, CO",34570,"Reno, NV",1643
+32575,"Los Angeles, CA",30325,"Denver, CO",1644
+34570,"Reno, NV",30325,"Denver, CO",1645
+34492,"Raleigh/Durham, NC",30325,"Denver, CO",1646
+30397,"Atlanta, GA",30325,"Denver, CO",1647
+30325,"Denver, CO",30561,"Bakersfield, CA",1648
+30325,"Denver, CO",31865,"Gillette, WY",1649
+30325,"Denver, CO",32600,"Little Rock, AR",1650
+30325,"Denver, CO",34543,"Rock Springs, WY",1651
+31865,"Gillette, WY",30325,"Denver, CO",1652
+30977,"Chicago, IL",30189,"Colorado Springs, CO",1653
+34543,"Rock Springs, WY",30325,"Denver, CO",1654
+34614,"Salt Lake City, UT",30189,"Colorado Springs, CO",1655
+30849,"Bozeman, MT",30325,"Denver, CO",1656
+30325,"Denver, CO",30849,"Bozeman, MT",1657
+30325,"Denver, CO",32575,"Los Angeles, CA",1658
+32211,"Las Vegas, NV",30325,"Denver, CO",1659
+30325,"Denver, CO",32575,"Ontario, CA",1660
+30325,"Denver, CO",34492,"Raleigh/Durham, NC",1661
+30325,"Denver, CO",33195,"Tampa, FL",1662
+33495,"New Orleans, LA",30325,"Denver, CO",1663
+30325,"Denver, CO",32575,"Santa Ana, CA",1664
+32575,"Santa Ana, CA",30325,"Denver, CO",1665
+30325,"Denver, CO",32896,"Lubbock, TX",1666
+32896,"Lubbock, TX",30325,"Denver, CO",1667
+33486,"Missoula, MT",30325,"Denver, CO",1668
+31092,"Moab, UT",30325,"Denver, CO",1669
+30325,"Denver, CO",31092,"Moab, UT",1670
+30189,"Colorado Springs, CO",34614,"Salt Lake City, UT",1671
+30325,"Denver, CO",31453,"Houston, TX",1672
+30325,"Denver, CO",30721,"Boston, MA",1673
+30325,"Denver, CO",30436,"Tucson, AZ",1674
+31650,"Minneapolis, MN",30325,"Denver, CO",1675
+30325,"Denver, CO",30977,"Chicago, IL",1676
+31122,"Casper, WY",30325,"Denver, CO",1677
+30325,"Denver, CO",33486,"Missoula, MT",1678
+30721,"Boston, MA",30325,"Denver, CO",1679
+30325,"Denver, CO",30721,"Boston, MA",1680
+30325,"Denver, CO",34614,"Salt Lake City, UT",1681
+34614,"Salt Lake City, UT",30325,"Denver, CO",1682
+33198,"Kansas City, MO",30325,"Denver, CO",1683
+30325,"Denver, CO",30189,"Colorado Springs, CO",1684
+30325,"Denver, CO",34614,"Salt Lake City, UT",1685
+32575,"Los Angeles, CA",30372,"Aspen, CO",1686
+34614,"Salt Lake City, UT",30325,"Denver, CO",1687
+30325,"Denver, CO",34057,"Portland, OR",1688
+32211,"Las Vegas, NV",30325,"Denver, CO",1689
+30325,"Denver, CO",31123,"St. Louis, MO",1690
+30325,"Denver, CO",34653,"Tulsa, OK",1691
+30325,"Denver, CO",31650,"Minneapolis, MN",1692
+30325,"Denver, CO",31122,"Casper, WY",1693
+30325,"Denver, CO",31123,"St. Louis, MO",1694
+30325,"Denver, CO",32467,"Miami, FL",1695
+34100,"Philadelphia, PA",30325,"Denver, CO",1696
+34252,"Pasco/Kennewick/Richland, WA",30325,"Denver, CO",1697
+34794,"St. George, UT",30325,"Denver, CO",1698
+30620,"Billings, MT",30325,"Denver, CO",1699
+30325,"Denver, CO",30620,"Billings, MT",1700
+30977,"Chicago, IL",30325,"Denver, CO",1701
+33105,"Cincinnati, OH",30325,"Denver, CO",1702
+30325,"Denver, CO",31453,"Houston, TX",1703
+30325,"Denver, CO",31454,"Orlando, FL",1704
+31453,"Houston, TX",30325,"Denver, CO",1705
+32575,"Los Angeles, CA",30325,"Denver, CO",1706
+30325,"Denver, CO",32211,"Las Vegas, NV",1707
+30977,"Chicago, IL",30325,"Denver, CO",1708
+30325,"Denver, CO",32389,"Williston, ND",1709
+32389,"Williston, ND",30325,"Denver, CO",1710
+30325,"Denver, CO",30466,"Phoenix, AZ",1711
+32467,"Miami, FL",30325,"Denver, CO",1712
+30466,"Phoenix, AZ",30325,"Denver, CO",1713
+30372,"Aspen, CO",32575,"Los Angeles, CA",1714
+30325,"Denver, CO",30615,"El Paso, TX",1715
+30325,"Denver, CO",34252,"Pasco/Kennewick/Richland, WA",1716
+30325,"Denver, CO",34794,"St. George, UT",1717
+30285,"Durango, CO",30466,"Phoenix, AZ",1718
+30615,"El Paso, TX",30325,"Denver, CO",1719
+31921,"Grand Junction, CO",30466,"Phoenix, AZ",1720
+30466,"Phoenix, AZ",30285,"Durango, CO",1721
+30466,"Phoenix, AZ",31921,"Grand Junction, CO",1722
+30721,"Boston, MA",30325,"Denver, CO",1723
+30325,"Denver, CO",32211,"Las Vegas, NV",1724
+30325,"Denver, CO",33105,"Cincinnati, OH",1725
+30325,"Denver, CO",32211,"Las Vegas, NV",1726
+30325,"Denver, CO",32575,"Los Angeles, CA",1727
+30325,"Denver, CO",32457,"San Francisco, CA",1728
+32211,"Las Vegas, NV",30325,"Denver, CO",1729
+31454,"Orlando, FL",30325,"Denver, CO",1730
+32457,"San Francisco, CA",30325,"Denver, CO",1731
+32211,"Las Vegas, NV",30325,"Denver, CO",1732
+30325,"Denver, CO",34674,"Santa Fe, NM",1733
+34674,"Santa Fe, NM",30325,"Denver, CO",1734
+30325,"Denver, CO",34100,"Philadelphia, PA",1735
+31066,"Columbus, OH",30325,"Denver, CO",1736
+30325,"Denver, CO",32457,"Oakland, CA",1737
+30325,"Denver, CO",30559,"Seattle, WA",1738
+31123,"St. Louis, MO",30325,"Denver, CO",1739
+30721,"Boston, MA",30325,"Denver, CO",1740
+30325,"Denver, CO",31122,"Casper, WY",1741
+30325,"Denver, CO",30436,"Tucson, AZ",1742
+31122,"Casper, WY",30325,"Denver, CO",1743
+33195,"Tampa, FL",30325,"Denver, CO",1744
+31921,"Grand Junction, CO",30325,"Denver, CO",1745
+31703,"New York, NY",30325,"Denver, CO",1746
+30325,"Denver, CO",31921,"Grand Junction, CO",1747
+30325,"Denver, CO",31703,"Newark, NJ",1748
+30325,"Denver, CO",31895,"Great Falls, MT",1749
+31895,"Great Falls, MT",30325,"Denver, CO",1750
+30325,"Denver, CO",30852,"Washington, DC",1751
+34057,"Portland, OR",30325,"Denver, CO",1752
+31453,"Houston, TX",30325,"Denver, CO",1753
+30466,"Phoenix, AZ",30325,"Denver, CO",1754
+30325,"Denver, CO",31638,"Fresno, CA",1755
+30325,"Denver, CO",31921,"Grand Junction, CO",1756
+31921,"Grand Junction, CO",30325,"Denver, CO",1757
+30325,"Denver, CO",32457,"San Francisco, CA",1758
+30325,"Denver, CO",31650,"Minneapolis, MN",1759
+32457,"San Francisco, CA",30325,"Denver, CO",1760
+30325,"Denver, CO",31703,"Newark, NJ",1761
+30325,"Denver, CO",30466,"Phoenix, AZ",1762
+30325,"Denver, CO",33342,"Milwaukee, WI",1763
+30325,"Denver, CO",30721,"Boston, MA",1764
+30325,"Denver, CO",34457,"Rapid City, SD",1765
+30627,"Bismarck/Mandan, ND",30325,"Denver, CO",1766
+31453,"Houston, TX",30325,"Denver, CO",1767
+33570,"San Diego, CA",30325,"Denver, CO",1768
+30325,"Denver, CO",30627,"Bismarck/Mandan, ND",1769
+30325,"Denver, CO",32457,"Oakland, CA",1770
+33851,"Oklahoma City, OK",30325,"Denver, CO",1771
+34614,"Salt Lake City, UT",30325,"Denver, CO",1772
+30325,"Denver, CO",30852,"Washington, DC",1773
+34457,"Rapid City, SD",30325,"Denver, CO",1774
+30325,"Denver, CO",33851,"Oklahoma City, OK",1775
+30325,"Denver, CO",34057,"Portland, OR",1776
+33214,"San Antonio, TX",30325,"Denver, CO",1777
+30325,"Denver, CO",30559,"Seattle, WA",1778
+31637,"Fargo, ND",30325,"Denver, CO",1779
+30325,"Denver, CO",31703,"New York, NY",1780
+30272,"Alamosa, CO",30325,"Denver, CO",1781
+30325,"Denver, CO",34288,"Pueblo, CO",1782
+34288,"Pueblo, CO",30325,"Denver, CO",1783
+30325,"Denver, CO",30272,"Alamosa, CO",1784
+34057,"Portland, OR",30325,"Denver, CO",1785
+33342,"Milwaukee, WI",30325,"Denver, CO",1786
+30140,"Albuquerque, NM",30325,"Denver, CO",1787
+30559,"Seattle, WA",30325,"Denver, CO",1788
+30325,"Denver, CO",31453,"Houston, TX",1789
+32575,"Santa Ana, CA",30325,"Denver, CO",1790
+30325,"Denver, CO",30559,"Seattle, WA",1791
+30325,"Denver, CO",32575,"Santa Ana, CA",1792
+30325,"Denver, CO",32575,"Los Angeles, CA",1793
+30852,"Washington, DC",30325,"Denver, CO",1794
+31703,"New York, NY",30325,"Denver, CO",1795
+32457,"San Francisco, CA",30325,"Denver, CO",1796
+30977,"Chicago, IL",30325,"Denver, CO",1797
+30325,"Denver, CO",31637,"Fargo, ND",1798
+30325,"Denver, CO",32457,"San Francisco, CA",1799
+30325,"Denver, CO",30852,"Washington, DC",1800
+30325,"Denver, CO",31453,"Houston, TX",1801
+30325,"Denver, CO",30977,"Chicago, IL",1802
+30325,"Denver, CO",33214,"San Antonio, TX",1803
+30325,"Denver, CO",31703,"New York, NY",1804
+32575,"Los Angeles, CA",30325,"Denver, CO",1805
+30852,"Washington, DC",30325,"Denver, CO",1806
+30325,"Denver, CO",30140,"Albuquerque, NM",1807
+30325,"Denver, CO",32575,"Burbank, CA",1808
+30325,"Denver, CO",32337,"Indianapolis, IN",1809
+32575,"Burbank, CA",30325,"Denver, CO",1810
+31703,"New York, NY",30325,"Denver, CO",1811
+30325,"Denver, CO",33316,"Omaha, NE",1812
+33316,"Omaha, NE",30325,"Denver, CO",1813
+30325,"Denver, CO",31453,"Houston, TX",1814
+30325,"Denver, CO",30852,"Baltimore, MD",1815
+30397,"Atlanta, GA",30325,"Denver, CO",1816
+34614,"Salt Lake City, UT",30325,"Denver, CO",1817
+30325,"Denver, CO",31703,"Newark, NJ",1818
+31921,"Grand Junction, CO",34614,"Salt Lake City, UT",1819
+30325,"Denver, CO",31123,"St. Louis, MO",1820
+34614,"Salt Lake City, UT",31921,"Grand Junction, CO",1821
+31454,"Orlando, FL",30325,"Denver, CO",1822
+30325,"Denver, CO",32457,"San Francisco, CA",1823
+32457,"San Francisco, CA",30325,"Denver, CO",1824
+30325,"Denver, CO",31454,"Orlando, FL",1825
+30693,"Nashville, TN",30325,"Denver, CO",1826
+32280,"Idaho Falls, ID",30325,"Denver, CO",1827
+32457,"San Jose, CA",30325,"Denver, CO",1828
+30325,"Denver, CO",32575,"Los Angeles, CA",1829
+30325,"Denver, CO",32280,"Idaho Falls, ID",1830
+30325,"Denver, CO",30852,"Baltimore, MD",1831
+30194,"Dallas/Fort Worth, TX",31921,"Grand Junction, CO",1832
+30285,"Durango, CO",30194,"Dallas/Fort Worth, TX",1833
+31921,"Grand Junction, CO",30194,"Dallas/Fort Worth, TX",1834
+32575,"Los Angeles, CA",30325,"Denver, CO",1835
+30194,"Dallas/Fort Worth, TX",30285,"Durango, CO",1836
+32457,"Oakland, CA",30325,"Denver, CO",1837
+30189,"Colorado Springs, CO",30325,"Denver, CO",1838
+30559,"Seattle, WA",30325,"Denver, CO",1839
+30325,"Denver, CO",30977,"Chicago, IL",1840
+30977,"Chicago, IL",30325,"Denver, CO",1841
+30559,"Seattle, WA",30325,"Denver, CO",1842
+31453,"Houston, TX",30325,"Denver, CO",1843
+30325,"Denver, CO",30693,"Nashville, TN",1844
+30325,"Denver, CO",32457,"San Francisco, CA",1845
+30325,"Denver, CO",30397,"Atlanta, GA",1846
+30559,"Seattle, WA",30325,"Denver, CO",1847
+31703,"Newark, NJ",30325,"Denver, CO",1848
+30325,"Denver, CO",30559,"Seattle, WA",1849
+31638,"Fresno, CA",30325,"Denver, CO",1850
+30325,"Denver, CO",32457,"San Francisco, CA",1851
+31123,"St. Louis, MO",30325,"Denver, CO",1852
+32337,"Indianapolis, IN",30325,"Denver, CO",1853
+30325,"Denver, CO",30559,"Seattle, WA",1854
+33570,"San Diego, CA",30325,"Denver, CO",1855
+30325,"Denver, CO",30423,"Austin, TX",1856
+30325,"Denver, CO",32457,"San Jose, CA",1857
+30325,"Denver, CO",34614,"Salt Lake City, UT",1858
+30423,"Austin, TX",30325,"Denver, CO",1859
+30285,"Durango, CO",30325,"Denver, CO",1860
+30325,"Denver, CO",30285,"Durango, CO",1861
+30325,"Denver, CO",33192,"Sacramento, CA",1862
+30977,"Chicago, IL",30325,"Denver, CO",1863
+32457,"San Francisco, CA",30325,"Denver, CO",1864
+33192,"Sacramento, CA",30325,"Denver, CO",1865
+30189,"Colorado Springs, CO",30194,"Dallas/Fort Worth, TX",1866
+30194,"Dallas/Fort Worth, TX",30189,"Colorado Springs, CO",1867
+30325,"Denver, CO",30977,"Chicago, IL",1868
+32457,"San Francisco, CA",30325,"Denver, CO",1869
+30852,"Baltimore, MD",30325,"Denver, CO",1870
+30189,"Colorado Springs, CO",30325,"Denver, CO",1871
+31453,"Houston, TX",30325,"Denver, CO",1872
+30325,"Denver, CO",31650,"Minneapolis, MN",1873
+30325,"Denver, CO",33570,"San Diego, CA",1874
+31650,"Minneapolis, MN",30325,"Denver, CO",1875
+30325,"Denver, CO",30189,"Colorado Springs, CO",1876
+30852,"Washington, DC",30325,"Denver, CO",1877
+32575,"Los Angeles, CA",30325,"Denver, CO",1878
+30325,"Denver, CO",32575,"Los Angeles, CA",1879
+30325,"Denver, CO",32575,"Santa Ana, CA",1880
+32575,"Santa Ana, CA",30325,"Denver, CO",1881
+30397,"Atlanta, GA",30325,"Denver, CO",1882
+30325,"Denver, CO",34614,"Salt Lake City, UT",1883
+30325,"Denver, CO",30977,"Chicago, IL",1884
+30325,"Denver, CO",30397,"Atlanta, GA",1885
+30325,"Denver, CO",30852,"Washington, DC",1886
+30325,"Denver, CO",31650,"Minneapolis, MN",1887
+31650,"Minneapolis, MN",30325,"Denver, CO",1888
+30977,"Chicago, IL",30325,"Denver, CO",1889
+30325,"Denver, CO",30194,"Dallas, TX",1890
+34614,"Salt Lake City, UT",30325,"Denver, CO",1891
+30194,"Dallas, TX",30325,"Denver, CO",1892
+30325,"Denver, CO",31453,"Houston, TX",1893
+32575,"Los Angeles, CA",30325,"Denver, CO",1894
+30325,"Denver, CO",32575,"Los Angeles, CA",1895
+30372,"Aspen, CO",30325,"Denver, CO",1896
+30325,"Denver, CO",30372,"Aspen, CO",1897
+33198,"Kansas City, MO",30325,"Denver, CO",1898
+31057,"Charlotte, NC",30325,"Denver, CO",1899
+30325,"Denver, CO",31057,"Charlotte, NC",1900
+30325,"Denver, CO",33198,"Kansas City, MO",1901
+30325,"Denver, CO",30466,"Phoenix, AZ",1902
+30466,"Phoenix, AZ",30325,"Denver, CO",1903
+32211,"Las Vegas, NV",30325,"Denver, CO",1904
+30977,"Chicago, IL",30325,"Denver, CO",1905
+30325,"Denver, CO",30194,"Dallas/Fort Worth, TX",1906
+30325,"Denver, CO",30977,"Chicago, IL",1907
+30325,"Denver, CO",32211,"Las Vegas, NV",1908
+30194,"Dallas/Fort Worth, TX",30325,"Denver, CO",1909
