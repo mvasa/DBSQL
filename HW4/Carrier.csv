@@ -1,0 +1,1910 @@
+UNIQUE_CARRIER,Unique_Carrier_Name,Unique_Carrier_Entity________,Carrier_Name,Carrier_Group,Carrier_Group_New,Airline_ID,Region,Carrier,DEST_AIRPORT_ID,ORIGIN_AIRPORT_ID,LineNUM
+B6,JetBlue Airways,6673,JetBlue Airways,3,3,20409,D,B6,11292,12954,1
+VX,Virgin America,1006,Virgin America,3,3,21171,D,VX,14771,11292,2
+VX,Virgin America,1006,Virgin America,3,3,21171,D,VX,11292,14771,3
+04Q,Tradewind Aviation,1126,Tradewind Aviation,1,6,21080,D,04Q,10325,11423,4
+AJQ,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,6081,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,1,5,20354,D,AJQ,11315,11292,5
+AJQ,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,6081,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,1,5,20354,D,AJQ,12389,11292,6
+AJQ,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,6081,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,1,5,20354,D,AJQ,11292,11315,7
+AJQ,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,6081,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,1,5,20354,D,AJQ,15016,11503,8
+AJQ,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,6081,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,1,5,20354,D,AJQ,11503,15016,9
+AJQ,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,6081,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,1,5,20354,D,AJQ,11503,12544,10
+AMQ,Ameristar Air Cargo,6055,Ameristar Air Cargo,1,4,20201,D,AMQ,11292,10397,11
+AMQ,Ameristar Air Cargo,6055,Ameristar Air Cargo,1,4,20201,D,AMQ,11996,11292,12
+G4,Allegiant Air,6035,Allegiant Air,3,3,20368,D,G4,15570,11109,13
+G4,Allegiant Air,6035,Allegiant Air,3,3,20368,D,G4,11109,12889,14
+0WQ,Avjet Corporation,1150,Avjet Corporation,1,1,21352,D,0WQ,10800,10372,15
+0WQ,Avjet Corporation,1150,Avjet Corporation,1,1,21352,D,0WQ,11503,10800,16
+0WQ,Avjet Corporation,1150,Avjet Corporation,1,1,21352,D,0WQ,10800,11503,17
+0WQ,Avjet Corporation,1150,Avjet Corporation,1,1,21352,D,0WQ,10372,14869,18
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,14107,11292,19
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,11292,14100,20
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11109,10397,21
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11292,10397,22
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11292,10397,23
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,10397,11109,24
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11298,11109,25
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11292,11122,26
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,10397,11292,27
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,10397,11292,28
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,10397,11292,29
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11193,11292,30
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11433,11292,31
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11775,11292,32
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,12889,11292,33
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,14679,11292,34
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,14869,11292,35
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11292,11433,36
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11292,13487,37
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11292,13851,38
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11292,14771,39
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11292,14869,40
+GL,Miami Air International,6690,Miami Air International,2,2,20402,D,GL,11292,10529,41
+GL,Miami Air International,6690,Miami Air International,2,2,20402,D,GL,16091,11109,42
+GL,Miami Air International,6690,Miami Air International,2,2,20402,D,GL,11109,13796,43
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,10558,44
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11042,11292,45
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,12448,11292,46
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,12892,11292,47
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13303,11292,48
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14524,11292,49
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13341,50
+UA,United Air Lines Inc.,10877,United Air Lines Inc.,3,3,19977,P,UA,14771,11292,51
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,11109,52
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,11233,53
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,11233,54
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11109,11259,55
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,10792,11292,56
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11140,11292,57
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11481,11292,58
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11973,11292,59
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11996,11292,60
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,12896,11292,61
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,12992,11292,62
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11109,14831,63
+WN,Southwest Airlines Co.,11033,Southwest Airlines Co.,3,3,19393,L,WN,11292,11109,64
+27Q,"Jet Aviation Flight Services, Inc.",1194,"Jet Aviation Flight Services, Inc.",1,1,21652,D,27Q,10423,10325,65
+27Q,"Jet Aviation Flight Services, Inc.",1194,"Jet Aviation Flight Services, Inc.",1,1,21652,D,27Q,13930,10325,66
+27Q,"Jet Aviation Flight Services, Inc.",1194,"Jet Aviation Flight Services, Inc.",1,1,21652,D,27Q,14831,10325,67
+27Q,"Jet Aviation Flight Services, Inc.",1194,"Jet Aviation Flight Services, Inc.",1,1,21652,D,27Q,10325,10423,68
+27Q,"Jet Aviation Flight Services, Inc.",1194,"Jet Aviation Flight Services, Inc.",1,1,21652,D,27Q,10325,11066,69
+27Q,"Jet Aviation Flight Services, Inc.",1194,"Jet Aviation Flight Services, Inc.",1,1,21652,D,27Q,10372,14792,70
+X9,Omni Air International LLC,16736,Omni Air International LLC,2,2,20377,I,X9,12889,11292,71
+09Q,"Swift Air, LLC",1130,"Swift Air, LLC",1,1,21161,D,09Q,11292,10466,72
+09Q,"Swift Air, LLC",1130,"Swift Air, LLC",1,1,21161,D,09Q,11292,10747,73
+09Q,"Swift Air, LLC",1130,"Swift Air, LLC",1,1,21161,D,09Q,13796,11292,74
+09Q,"Swift Air, LLC",1130,"Swift Air, LLC",1,1,21161,D,09Q,14275,11292,75
+09Q,"Swift Air, LLC",1130,"Swift Air, LLC",1,1,21161,D,09Q,14869,11292,76
+09Q,"Swift Air, LLC",1130,"Swift Air, LLC",1,1,21161,D,09Q,11921,11563,77
+09Q,"Swift Air, LLC",1130,"Swift Air, LLC",1,1,21161,D,09Q,11563,11921,78
+09Q,"Swift Air, LLC",1130,"Swift Air, LLC",1,1,21161,D,09Q,11292,14576,79
+09Q,"Swift Air, LLC",1130,"Swift Air, LLC",1,1,21161,D,09Q,11292,15370,80
+KLQ,Kalitta Charters II,6774,Kalitta Charters II,1,1,20372,D,KLQ,13796,11292,81
+KLQ,Kalitta Charters II,6774,Kalitta Charters II,1,1,20372,D,KLQ,11292,11376,82
+LF,CFM Inc d/b/a Contour Airlines,1189,CFM Inc d/b/a Contour Airlines,1,6,21635,D,LF,13342,11292,83
+LF,CFM Inc d/b/a Contour Airlines,1189,CFM Inc d/b/a Contour Airlines,1,6,21635,D,LF,11292,14570,84
+SY,Sun Country Airlines d/b/a MN Airlines,6795,Sun Country Airlines d/b/a MN Airlines,2,2,20422,D,SY,10590,11292,85
+SY,Sun Country Airlines d/b/a MN Airlines,6795,Sun Country Airlines d/b/a MN Airlines,2,2,20422,D,SY,10590,11719,86
+SY,Sun Country Airlines d/b/a MN Airlines,6795,Sun Country Airlines d/b/a MN Airlines,2,2,20422,D,SY,11292,10590,87
+SY,Sun Country Airlines d/b/a MN Airlines,6795,Sun Country Airlines d/b/a MN Airlines,2,2,20422,D,SY,11719,10590,88
+SY,Sun Country Airlines d/b/a MN Airlines,6795,Sun Country Airlines d/b/a MN Airlines,2,2,20422,D,SY,13502,10590,89
+SY,Sun Country Airlines d/b/a MN Airlines,6795,Sun Country Airlines d/b/a MN Airlines,2,2,20422,D,SY,14288,10590,90
+SY,Sun Country Airlines d/b/a MN Airlines,6795,Sun Country Airlines d/b/a MN Airlines,2,2,20422,D,SY,10590,13502,91
+SY,Sun Country Airlines d/b/a MN Airlines,6795,Sun Country Airlines d/b/a MN Airlines,2,2,20422,D,SY,10590,14288,92
+U7,USA Jet Airlines Inc.,6912,USA Jet Airlines Inc.,2,2,20447,D,U7,14288,11840,93
+U7,USA Jet Airlines Inc.,6912,USA Jet Airlines Inc.,2,2,20447,D,U7,13796,14288,94
+9S,Southern Air Inc.,6841,Southern Air Inc.,2,2,20190,D,9S,11292,11193,95
+9S,Southern Air Inc.,6841,Southern Air Inc.,2,2,20190,D,9S,11193,11292,96
+AS,Alaska Airlines Inc.,6031,Alaska Airlines Inc.,3,3,19930,D,AS,11292,11109,97
+AS,Alaska Airlines Inc.,6031,Alaska Airlines Inc.,3,3,19930,D,AS,11109,14747,98
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,10558,99
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,13851,11292,100
+KS,Peninsula Airways Inc.,6975,Peninsula Airways Inc.,1,5,20225,D,KS,11292,10325,101
+KS,Peninsula Airways Inc.,6975,Peninsula Airways Inc.,1,5,20225,D,KS,11292,10558,102
+KS,Peninsula Airways Inc.,6975,Peninsula Airways Inc.,1,5,20225,D,KS,11292,11283,103
+KS,Peninsula Airways Inc.,6975,Peninsula Airways Inc.,1,5,20225,D,KS,10558,11292,104
+KS,Peninsula Airways Inc.,6975,Peninsula Airways Inc.,1,5,20225,D,KS,11283,11292,105
+KS,Peninsula Airways Inc.,6975,Peninsula Airways Inc.,1,5,20225,D,KS,11292,11292,106
+KS,Peninsula Airways Inc.,6975,Peninsula Airways Inc.,1,5,20225,D,KS,11468,11292,107
+KS,Peninsula Airways Inc.,6975,Peninsula Airways Inc.,1,5,20225,D,KS,12899,11292,108
+KS,Peninsula Airways Inc.,6975,Peninsula Airways Inc.,1,5,20225,D,KS,12902,11292,109
+KS,Peninsula Airways Inc.,6975,Peninsula Airways Inc.,1,5,20225,D,KS,11292,11468,110
+KS,Peninsula Airways Inc.,6975,Peninsula Airways Inc.,1,5,20225,D,KS,11292,12899,111
+KS,Peninsula Airways Inc.,6975,Peninsula Airways Inc.,1,5,20225,D,KS,10325,12902,112
+KS,Peninsula Airways Inc.,6975,Peninsula Airways Inc.,1,5,20225,D,KS,11292,12902,113
+ZK,Great Lakes Airlines,6932,Great Lakes Airlines,1,6,20358,D,ZK,14081,11292,114
+ZK,Great Lakes Airlines,6932,Great Lakes Airlines,1,6,20358,D,ZK,11711,14288,115
+4B,Boutique Air,1177,Boutique Air,1,6,21599,D,4B,11292,11292,116
+AJQ,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,6081,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,1,5,20354,D,AJQ,11292,10558,117
+AJQ,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,6081,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,1,5,20354,D,AJQ,10409,11292,118
+AJQ,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,6081,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,1,5,20354,D,AJQ,12389,11292,119
+AJQ,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,6081,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,1,5,20354,D,AJQ,11292,12389,120
+G4,Allegiant Air,6035,Allegiant Air,3,3,20368,D,G4,12889,11921,121
+G4,Allegiant Air,6035,Allegiant Air,3,3,20368,D,G4,11921,12889,122
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,11292,11109,123
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,11298,11109,124
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,12278,11109,125
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,10721,11292,126
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,12892,11292,127
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,12992,11292,128
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,11292,13204,129
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,11109,13930,130
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,11292,14492,131
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,11292,14771,132
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,11109,14869,133
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,12892,11292,134
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,13487,11292,135
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,13487,11292,136
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,14869,11292,137
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11292,11433,138
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11292,13487,139
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11292,13487,140
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,15370,11292,141
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11292,11986,142
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,11097,143
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,12992,11109,144
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,13486,11109,145
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,15376,11109,146
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,11122,147
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11109,11278,148
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,10140,11292,149
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,10397,11292,150
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,10423,11292,151
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11003,11292,152
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11097,11292,153
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11122,11292,154
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11298,11292,155
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11986,11292,156
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,12266,11292,157
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,12441,11292,158
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,12992,11292,159
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,13264,11292,160
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,13871,11292,161
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,13930,11292,162
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14489,11292,163
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14679,11292,164
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14730,11292,165
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14771,11292,166
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14771,11292,167
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14908,11292,168
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,15041,11292,169
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11109,11298,170
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,12892,11921,171
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,12266,172
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,12441,173
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,12888,174
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,12892,175
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,12992,176
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,13264,177
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11109,13486,178
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,13930,179
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,14057,180
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11921,14252,181
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,14679,182
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,14683,183
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11109,14794,184
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,14893,185
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,14908,186
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,10140,187
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,10529,188
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,10721,189
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,10849,190
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,10140,11292,191
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,10620,11292,192
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,10721,11292,193
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,10849,11292,194
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11193,11292,195
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11433,11292,196
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11697,11292,197
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,12264,11292,198
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,12266,11292,199
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,12889,11292,200
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13198,11292,201
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13204,11292,202
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13930,11292,203
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14100,11292,204
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14262,11292,205
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14524,11292,206
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14570,11292,207
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14869,11292,208
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,15016,11292,209
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,15016,11292,210
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,15370,11292,211
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,12264,212
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,12266,213
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,12266,214
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13198,215
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13204,216
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14262,217
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14262,218
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14524,219
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14570,220
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14683,221
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14689,222
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14771,223
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14771,224
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14908,225
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,15016,226
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,15016,227
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,15370,228
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,10994,229
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,11042,230
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,10140,11292,231
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,10713,11292,232
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11433,11292,233
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11986,11292,234
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,13342,11292,235
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14057,11292,236
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14100,11292,237
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14570,11292,238
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14635,11292,239
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,15370,11292,240
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,11433,241
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,11986,242
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,13495,243
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14122,244
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14570,245
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14635,246
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14893,247
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11292,10397,248
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11292,11109,249
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11042,11292,250
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11109,11292,251
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11423,11292,252
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,12278,11292,253
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,13871,11292,254
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,14869,11292,255
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11292,12278,256
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11292,14730,257
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11292,15370,258
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,11193,259
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11066,11292,260
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11433,11292,261
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,12266,11292,262
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,12339,11292,263
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,13204,11292,264
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,13204,11292,265
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,13486,11292,266
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,13930,11292,267
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,13930,11292,268
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,14107,11292,269
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,15016,11292,270
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,15412,11292,271
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,11433,272
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,12264,273
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,12266,274
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,12339,275
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,13204,276
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,13486,277
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,13930,278
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,14107,279
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,15016,280
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,15304,281
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,15412,282
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,11298,11292,283
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,12339,11292,284
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,13198,11292,285
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,13495,11292,286
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,14869,11292,287
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,15376,11292,288
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,14869,11921,289
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,11292,12339,290
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,11292,13198,291
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,11921,13244,292
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,11292,13796,293
+NK,Spirit Air Lines,6830,Spirit Air Lines,3,3,20416,D,NK,11433,11292,294
+NK,Spirit Air Lines,6830,Spirit Air Lines,3,3,20416,D,NK,11292,12266,295
+YV,Mesa Airlines Inc.,6689,Mesa Airlines Inc.,2,2,20378,D,YV,12891,13502,296
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11413,11292,297
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,11413,298
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,11986,299
+MQ,Envoy Air,6820,Envoy Air,3,3,20398,D,MQ,13502,11298,300
+MQ,Envoy Air,6820,Envoy Air,3,3,20398,D,MQ,11298,13502,301
+ZK,Great Lakes Airlines,6932,Great Lakes Airlines,1,6,20358,D,ZK,14877,11292,302
+ZK,Great Lakes Airlines,6932,Great Lakes Airlines,1,6,20358,D,ZK,11292,14877,303
+EV,ExpressJet Airlines Inc.,6085,ExpressJet Airlines Inc.,3,3,20366,D,EV,15016,11109,304
+EV,ExpressJet Airlines Inc.,6085,ExpressJet Airlines Inc.,3,3,20366,D,EV,11109,11292,305
+EV,ExpressJet Airlines Inc.,6085,ExpressJet Airlines Inc.,3,3,20366,D,EV,11292,12266,306
+EV,ExpressJet Airlines Inc.,6085,ExpressJet Airlines Inc.,3,3,20366,D,EV,12012,12266,307
+5X,United Parcel Service,6910,United Parcel Service,3,3,19917,D,5X,10559,11292,308
+5X,United Parcel Service,6910,United Parcel Service,3,3,19917,D,5X,12889,11292,309
+5X,United Parcel Service,6910,United Parcel Service,3,3,19917,D,5X,14730,11292,310
+5X,United Parcel Service,6910,United Parcel Service,3,3,19917,D,5X,11292,14869,311
+5X,United Parcel Service,6910,United Parcel Service,3,3,19917,D,5X,11292,14869,312
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,14057,11292,313
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,11292,12892,314
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,11292,14100,315
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,13487,11292,316
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,13487,11292,317
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11292,14869,318
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11986,11292,319
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11292,11423,320
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,11109,321
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11109,11292,322
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11921,11292,323
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,12003,11292,324
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14057,11292,325
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14683,11292,326
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11109,11638,327
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,10372,11921,328
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,11921,329
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11298,11921,330
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,12003,331
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11921,13930,332
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,14679,333
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,15919,334
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,10397,335
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11193,336
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11278,337
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,10397,11292,338
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,10721,11292,339
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11278,11292,340
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11884,11292,341
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,12278,11292,342
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14492,11292,343
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14689,11292,344
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,15304,11292,345
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,15376,11292,346
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11603,347
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11618,348
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11884,349
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11986,350
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,12278,351
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,12889,352
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,15304,353
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,15376,354
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,10713,355
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,10140,11292,356
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,10821,11292,357
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,10994,11292,358
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11066,11292,359
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11884,11292,360
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14730,11292,361
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14869,11292,362
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,11884,363
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14057,364
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14679,365
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14747,366
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14831,367
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11292,11066,368
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,10599,11292,369
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11066,11292,370
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,13487,11292,371
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,15370,11292,372
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11292,13851,373
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,13485,11292,374
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,13487,11292,375
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,14492,11292,376
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,14683,11292,377
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,13485,378
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,14492,379
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,14683,380
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,10620,11292,381
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,11540,11292,382
+9E,Endeavor Air Inc.,7024,Endeavor Air Inc.,2,2,20363,D,9E,11292,11193,383
+9E,Endeavor Air Inc.,7024,Endeavor Air Inc.,2,2,20363,D,9E,11193,11292,384
+5X,United Parcel Service,6910,United Parcel Service,3,3,19917,D,5X,14869,11292,385
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,11292,11298,386
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11292,10849,387
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,10849,11292,388
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,13487,11292,389
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,14730,11292,390
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11292,13367,391
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11292,14730,392
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,10140,393
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,10279,394
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,10849,395
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,10279,11292,396
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,10849,11292,397
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11193,11292,398
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11267,11292,399
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11986,11292,400
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,12896,11292,401
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,13502,11292,402
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,13891,11292,403
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14107,11292,404
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14262,11292,405
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14489,11292,406
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14683,11292,407
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,15370,11292,408
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,11423,409
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11921,12892,410
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,12896,411
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,13502,412
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,13891,413
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,14107,414
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,14457,415
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,10800,416
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,10821,417
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11057,418
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,10397,11292,419
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11618,11292,420
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13198,11292,421
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14262,11292,422
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13851,423
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13930,424
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14262,425
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14492,426
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,10140,427
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,10257,428
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,10397,429
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,10529,430
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,10994,11292,431
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,12339,11292,432
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,12954,11292,433
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,13198,11292,434
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,13495,11292,435
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,13495,11292,436
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,13871,11292,437
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,13891,11292,438
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,13931,11292,439
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14683,11292,440
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14747,11292,441
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14831,11292,442
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14893,11292,443
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,15376,11292,444
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,12339,445
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,12954,446
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,13495,447
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,13871,448
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,13891,449
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,13931,450
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11292,10140,451
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11292,10599,452
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11292,11042,453
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,10140,11292,454
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,10693,11292,455
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11540,11292,456
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,13244,11292,457
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,13851,11292,458
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,15919,11292,459
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11292,11298,460
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11292,11423,461
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11292,13244,462
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11292,13487,463
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11292,13495,464
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11292,13871,465
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11292,14683,466
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11292,15919,467
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,11003,468
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11003,11292,469
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,12339,11292,470
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,12339,471
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,13487,472
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,10620,473
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,10620,11292,474
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,14783,11292,475
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,14814,11292,476
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,15376,11292,477
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,13198,478
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,14814,479
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,15376,480
+EV,ExpressJet Airlines Inc.,6085,ExpressJet Airlines Inc.,3,3,20366,D,EV,11109,13930,481
+5X,United Parcel Service,6910,United Parcel Service,3,3,19917,D,5X,11292,13891,482
+CP,Compass Airlines,1131,Compass Airlines,2,2,21167,D,CP,12892,11921,483
+CP,Compass Airlines,1131,Compass Airlines,2,2,21167,D,CP,11921,12892,484
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,11298,11292,485
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,11292,11298,486
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11292,10140,487
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,10140,11292,488
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11298,11292,489
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11292,11298,490
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11884,11292,491
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,13486,11292,492
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,13487,11292,493
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14783,11292,494
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,12892,11413,495
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,11884,496
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11413,12892,497
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,13198,498
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,13486,499
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,13487,500
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,13871,501
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,14783,502
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,10397,503
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,10849,504
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11003,505
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11066,506
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11066,507
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11193,508
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,10713,11292,509
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,10849,11292,510
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11057,11292,511
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11066,11292,512
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11066,11292,513
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11603,11292,514
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11648,11292,515
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,12982,11292,516
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13485,11292,517
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13495,11292,518
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14100,11292,519
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14100,11292,520
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14570,11292,521
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14771,11292,522
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11433,523
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11648,524
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,12982,525
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13485,526
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14570,527
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,10140,528
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,10994,529
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,10423,11292,530
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,13931,11292,531
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14679,11292,532
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14683,11292,533
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14831,11292,534
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,13342,535
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,13487,536
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,13931,537
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14683,538
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14869,539
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,15376,540
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,12339,11292,541
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,14683,11292,542
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11292,11540,543
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11292,14869,544
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,13342,11292,545
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,14908,11292,546
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,13342,547
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,14908,548
+SY,Sun Country Airlines d/b/a MN Airlines,6795,Sun Country Airlines d/b/a MN Airlines,2,2,20422,D,SY,13487,11292,549
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,12278,11292,550
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,12278,551
+MQ,Envoy Air,6820,Envoy Air,3,3,20398,D,MQ,13930,13502,552
+MQ,Envoy Air,6820,Envoy Air,3,3,20398,D,MQ,13502,13930,553
+5X,United Parcel Service,6910,United Parcel Service,3,3,19917,D,5X,10800,11292,554
+5X,United Parcel Service,6910,United Parcel Service,3,3,19917,D,5X,14730,11292,555
+5X,United Parcel Service,6910,United Parcel Service,3,3,19917,D,5X,14869,11292,556
+5X,United Parcel Service,6910,United Parcel Service,3,3,19917,D,5X,11292,14869,557
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11003,11292,558
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,12339,11292,559
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11292,12339,560
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,10620,561
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,10397,11292,562
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,10620,11292,563
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11042,11292,564
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11413,11292,565
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11648,11292,566
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,12278,11292,567
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,13198,11292,568
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,13244,11292,569
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,13433,11292,570
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,13871,11292,571
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14689,11292,572
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,11413,573
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,13198,574
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,13244,575
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,14262,576
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,14869,577
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,10713,578
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11057,579
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,10821,11292,580
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11003,11292,581
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11057,11292,582
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11193,11292,583
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11618,11292,584
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11884,11292,585
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13264,11292,586
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13891,11292,587
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14831,11292,588
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14893,11292,589
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,15376,11292,590
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11697,591
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11884,592
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13198,593
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13851,594
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13891,595
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14057,596
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14747,597
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14831,598
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,15376,599
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,10693,600
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,12954,11292,601
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,13487,11292,602
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,15016,11292,603
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,12191,604
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,12954,605
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,13851,606
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14122,607
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,15016,608
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11292,15016,609
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,14107,11292,610
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,14107,611
+SY,Sun Country Airlines d/b/a MN Airlines,6795,Sun Country Airlines d/b/a MN Airlines,2,2,20422,D,SY,11292,13487,612
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11003,11292,613
+ZK,Great Lakes Airlines,6932,Great Lakes Airlines,1,6,20358,D,ZK,11292,11233,614
+ZK,Great Lakes Airlines,6932,Great Lakes Airlines,1,6,20358,D,ZK,11233,11292,615
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,13244,11292,616
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11292,13487,617
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,13930,13502,618
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,13502,13930,619
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,10397,620
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,11042,621
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,12892,11109,622
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11057,11292,623
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,13264,11292,624
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,13964,11292,625
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,11423,626
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,11648,627
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,12278,628
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,13244,629
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,13433,630
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,13964,631
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,14489,632
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,14689,633
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,15370,634
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,15376,635
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,10423,636
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11433,11292,637
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11986,11292,638
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,12339,11292,639
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13198,11292,640
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13342,11292,641
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13495,11292,642
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11618,643
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,12339,644
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,12339,645
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13264,646
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13342,647
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14100,648
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11697,11292,649
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,12451,11292,650
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,13198,11292,651
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,13796,11292,652
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,13851,11292,653
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,12451,654
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14771,655
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14869,656
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11292,10397,657
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,10397,11292,658
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11298,11292,659
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,13871,11292,660
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,14730,11292,661
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,11921,11109,662
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,13244,11292,663
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,13244,11292,664
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,11109,11921,665
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,11292,13244,666
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11775,11292,667
+G4,Allegiant Air,6035,Allegiant Air,3,3,20368,D,G4,12889,11921,668
+G4,Allegiant Air,6035,Allegiant Air,3,3,20368,D,G4,11921,12889,669
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,15412,11292,670
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11292,15412,671
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,10423,672
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,10561,673
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,11057,674
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11921,11292,675
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14524,11292,676
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,14524,677
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,10620,678
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,10713,679
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,10800,680
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,10620,11292,681
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,10713,11292,682
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,10800,11292,683
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11423,11292,684
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11603,11292,685
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11603,11292,686
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13342,11292,687
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13851,11292,688
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14122,11292,689
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14869,11292,690
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11423,691
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11603,692
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13198,693
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13342,694
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14100,695
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14122,696
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,15370,697
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,10423,698
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,11042,699
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11618,11292,700
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14193,11292,701
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14492,11292,702
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14193,703
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,15370,704
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,11003,705
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,12094,11292,706
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,11775,707
+5X,United Parcel Service,6910,United Parcel Service,3,3,19917,D,5X,14730,11292,708
+5X,United Parcel Service,6910,United Parcel Service,3,3,19917,D,5X,11292,14730,709
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,14107,11292,710
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,11292,14107,711
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11042,11292,712
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,11193,713
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,15376,11292,714
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,13851,715
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,10423,716
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,10423,11292,717
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,10529,11292,718
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11433,11292,719
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11697,11292,720
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,12953,11292,721
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13485,11292,722
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13487,11292,723
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14747,11292,724
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,15370,11292,725
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11603,726
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13495,727
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14869,728
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11884,11292,729
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,12191,11292,730
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,12892,11292,731
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,13851,11292,732
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14107,11292,733
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14771,11292,734
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,12889,735
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,13198,736
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14492,737
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11292,10693,738
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,14771,11109,739
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11109,14771,740
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,13796,11292,741
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,12012,11292,742
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,12012,743
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,12094,744
+G4,Allegiant Air,6035,Allegiant Air,3,3,20368,D,G4,11109,10466,745
+G4,Allegiant Air,6035,Allegiant Air,3,3,20368,D,G4,10466,11109,746
+G4,Allegiant Air,6035,Allegiant Air,3,3,20368,D,G4,12889,11109,747
+G4,Allegiant Air,6035,Allegiant Air,3,3,20368,D,G4,12892,11921,748
+G4,Allegiant Air,6035,Allegiant Air,3,3,20368,D,G4,11109,12889,749
+G4,Allegiant Air,6035,Allegiant Air,3,3,20368,D,G4,11921,12892,750
+1AQ,Via Airlines d/b/a Charter Air Transport,1158,Via Airlines d/b/a Charter Air Transport,1,6,21477,D,1AQ,11292,10643,751
+1AQ,Via Airlines d/b/a Charter Air Transport,1158,Via Airlines d/b/a Charter Air Transport,1,6,21477,D,1AQ,10643,11292,752
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11003,11292,753
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11648,11292,754
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,13851,11292,755
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,13851,11292,756
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,11648,757
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,11921,758
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,13264,759
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,10821,760
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,12339,11292,761
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14057,11292,762
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11433,763
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11603,764
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,12339,765
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13485,766
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,10397,11292,767
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,10529,11292,768
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,12339,769
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,13487,770
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14683,771
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11278,11292,772
+5X,United Parcel Service,6910,United Parcel Service,3,3,19917,D,5X,11292,14730,773
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,11066,774
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,10800,11292,775
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11066,11292,776
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,15376,11292,777
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,15016,778
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,10529,779
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,10821,11292,780
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11423,11292,781
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11775,11292,782
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14262,11292,783
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11423,784
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,12264,785
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13495,786
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13891,787
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14262,788
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11042,11292,789
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,12889,11292,790
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,13487,11292,791
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14730,11292,792
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,13851,793
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14730,794
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14771,795
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11109,12266,796
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,11278,797
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11423,11292,798
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,11423,799
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,13244,11292,800
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,11292,13244,801
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,15370,11292,802
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,15370,803
+ZK,Great Lakes Airlines,6932,Great Lakes Airlines,1,6,20358,D,ZK,15177,11292,804
+ZK,Great Lakes Airlines,6932,Great Lakes Airlines,1,6,20358,D,ZK,11292,15177,805
+4B,Boutique Air,1177,Boutique Air,1,6,21599,D,4B,14107,10950,806
+4B,Boutique Air,1177,Boutique Air,1,6,21599,D,4B,10950,14107,807
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,12953,11292,808
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,13851,809
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,10821,810
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11603,11292,811
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,12264,11292,812
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13495,11292,813
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13871,11292,814
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13891,11292,815
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14893,11292,816
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11775,817
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,12264,11292,818
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,12892,819
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,13198,820
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14107,821
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,12892,11109,822
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11109,12892,823
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11986,11292,824
+B6,JetBlue Airways,6673,JetBlue Airways,3,3,20409,D,B6,12478,11292,825
+B6,JetBlue Airways,6673,JetBlue Airways,3,3,20409,D,B6,11292,12478,826
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,14683,11292,827
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11292,14683,828
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11603,11292,829
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13487,11292,830
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14492,11292,831
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14747,11292,832
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11298,833
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13342,834
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13487,835
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14893,836
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,10693,11292,837
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,11921,11638,838
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,14783,839
+G4,Allegiant Air,6035,Allegiant Air,3,3,20368,D,G4,11292,11193,840
+G4,Allegiant Air,6035,Allegiant Air,3,3,20368,D,G4,11193,11292,841
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11292,12953,842
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14869,11292,843
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,13367,844
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,10620,11292,845
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11423,11292,846
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13342,11292,847
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13871,11292,848
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13891,11292,849
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,15304,11292,850
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13204,851
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14492,852
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14679,853
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,10849,854
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,11003,855
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,10849,11292,856
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11003,11292,857
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11995,11292,858
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,14747,11292,859
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,11995,860
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,14747,861
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,11292,13796,862
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,11003,863
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,10620,864
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,10423,11292,865
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14679,11292,866
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11423,867
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,12266,868
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13871,869
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13891,870
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14831,871
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,11259,872
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,11697,873
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,10693,874
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,10693,11292,875
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14747,11109,876
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,11603,877
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11109,14747,878
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,10140,879
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14122,11292,880
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13871,881
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14122,882
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11292,11423,883
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,13485,11292,884
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,13485,885
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,13244,11292,886
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,12003,11292,887
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,15919,11292,888
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,15919,889
+QX,Horizon Air,6580,Horizon Air,2,2,19687,D,QX,14747,11109,890
+QX,Horizon Air,6580,Horizon Air,2,2,19687,D,QX,11109,14747,891
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11292,11433,892
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,13367,11292,893
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,10140,11292,894
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,12889,895
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,12953,896
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14747,897
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14893,898
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11292,13244,899
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,10693,900
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,10693,11292,901
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,13486,11292,902
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,15412,11292,903
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,13486,904
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,15412,905
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,11638,11921,906
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,13244,11921,907
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,11292,13244,908
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,11292,13244,909
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,11921,13244,910
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,12003,911
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,12992,912
+4B,Boutique Air,1177,Boutique Air,1,6,21599,D,4B,14107,10950,913
+4B,Boutique Air,1177,Boutique Air,1,6,21599,D,4B,10950,14107,914
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,13487,11292,915
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11292,11433,916
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11292,15370,917
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,10140,918
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,13198,11292,919
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14262,11292,920
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,11540,921
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,14262,922
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11066,923
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,10140,11292,924
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11042,11292,925
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,12339,11292,926
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,12889,11292,927
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13264,928
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13495,929
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14122,930
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14831,931
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11259,11292,932
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,14057,11292,933
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,14747,11292,934
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,14057,935
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,14747,936
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,13367,11292,937
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11540,11292,938
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11603,11292,939
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,15919,11292,940
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,11603,941
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,12278,942
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,10140,943
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,10821,11292,944
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11066,11292,945
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,12266,11292,946
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14122,11292,947
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14831,11292,948
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14831,11292,949
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14869,11292,950
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,15016,11292,951
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14869,952
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,15304,953
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,12889,11292,954
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,15370,11292,955
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,11109,956
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11109,11292,957
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,11423,958
+5X,United Parcel Service,6910,United Parcel Service,3,3,19917,D,5X,11292,10620,959
+5X,United Parcel Service,6910,United Parcel Service,3,3,19917,D,5X,10620,11292,960
+5X,United Parcel Service,6910,United Parcel Service,3,3,19917,D,5X,13891,11292,961
+5X,United Parcel Service,6910,United Parcel Service,3,3,19917,D,5X,11292,13891,962
+5X,United Parcel Service,6910,United Parcel Service,3,3,19917,D,5X,11292,14512,963
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,12278,11292,964
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14730,11292,965
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,14457,966
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,10529,967
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,10849,968
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,10849,11292,969
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13264,11292,970
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13495,11292,971
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14107,11292,972
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14570,11292,973
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14683,11292,974
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14771,11292,975
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11775,976
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11884,977
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14570,978
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14771,979
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,15304,980
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11292,10140,981
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,10140,11292,982
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11042,11292,983
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,14869,11292,984
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11292,13198,985
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,13930,11109,986
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,11292,10194,987
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,10194,11292,988
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,11292,13244,989
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11292,10397,990
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,13367,11292,991
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,13495,11292,992
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14869,10372,993
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,11267,994
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,13198,11292,995
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,15919,11292,996
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,11298,997
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,11638,998
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,14107,999
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,14683,1000
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,10423,1001
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11057,1002
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11057,11292,1003
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11775,11292,1004
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11775,11292,1005
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11884,11292,1006
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13198,11292,1007
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13851,11292,1008
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14122,11292,1009
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14679,11292,1010
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14683,11292,1011
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11775,1012
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11042,11292,1013
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11423,11292,1014
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,11423,1015
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11109,13930,1016
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11292,13487,1017
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,12278,11292,1018
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,10713,1019
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,10140,11292,1020
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,15016,11292,1021
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,10372,14869,1022
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,10397,1023
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11697,11292,1024
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13487,11292,1025
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13891,11292,1026
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14057,11292,1027
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14747,11292,1028
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14831,11292,1029
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,15304,11292,1030
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11986,1031
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13198,1032
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13891,1033
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14100,1034
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14122,1035
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,15016,1036
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,15304,1037
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,10529,11292,1038
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14570,11292,1039
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14730,11292,1040
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14869,11292,1041
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,13198,11292,1042
+EM,Empire Airlines Inc.,6299,Empire Airlines Inc.,1,5,20263,D,EM,11413,10140,1043
+EM,Empire Airlines Inc.,6299,Empire Airlines Inc.,1,5,20263,D,EM,11413,11711,1044
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11193,11292,1045
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11292,12094,1046
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11292,14783,1047
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14771,10372,1048
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,10423,1049
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,11447,1050
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,12992,1051
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,13029,1052
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,10529,11292,1053
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13871,11292,1054
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14524,11292,1055
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14689,11292,1056
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14771,11292,1057
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11697,1058
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13487,1059
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13495,1060
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13871,1061
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14057,1062
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14524,1063
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14683,1064
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14689,1065
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,11042,1066
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11066,11292,1067
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,12953,11292,1068
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11066,11292,1069
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,10627,1070
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,10627,11292,1071
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,11413,10140,1072
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,13244,11109,1073
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,11413,11711,1074
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,11122,12094,1075
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,11109,13244,1076
+5X,United Parcel Service,6910,United Parcel Service,3,3,19917,D,5X,14570,11292,1077
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,12094,11292,1078
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,13871,11292,1079
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,14457,11292,1080
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,10140,1081
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,10397,1082
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,10800,1083
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,11193,1084
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,10140,11292,1085
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11298,11292,1086
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11638,11292,1087
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14107,11292,1088
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,11775,1089
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,13198,1090
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,13264,1091
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,14698,1092
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,10372,14771,1093
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,10713,1094
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,10713,11292,1095
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,12441,11292,1096
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13851,1097
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13851,1098
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14100,1099
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14107,1100
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14771,1101
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,10994,1102
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,10713,11292,1103
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,10994,11292,1104
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,11433,1105
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14730,1106
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,15376,1107
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11292,11066,1108
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11292,13158,1109
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,15412,11292,1110
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,15412,1111
+EV,ExpressJet Airlines Inc.,6085,ExpressJet Airlines Inc.,3,3,20366,D,EV,13502,12266,1112
+EV,ExpressJet Airlines Inc.,6085,ExpressJet Airlines Inc.,3,3,20366,D,EV,12266,13502,1113
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11292,11193,1114
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11193,11292,1115
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,14783,11292,1116
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11292,12278,1117
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,10800,1118
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14698,11292,1119
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,10372,12266,1120
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,15370,1121
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,10713,1122
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,10423,11292,1123
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,10423,11292,1124
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11298,11292,1125
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11697,11292,1126
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,12278,11292,1127
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,12758,11292,1128
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13830,11292,1129
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,15304,11292,1130
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11697,1131
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,12278,1132
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,12441,1133
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,12758,1134
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13830,1135
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,15370,1136
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,10713,1137
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,12451,11292,1138
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,12451,1139
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,13891,1140
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14831,1141
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11292,10423,1142
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,13158,11292,1143
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11292,14730,1144
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11292,15370,1145
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11775,11292,1146
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,11775,1147
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,12094,11122,1148
+EV,ExpressJet Airlines Inc.,6085,ExpressJet Airlines Inc.,3,3,20366,D,EV,12266,11109,1149
+4B,Boutique Air,1177,Boutique Air,1,6,21599,D,4B,10950,11292,1150
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11292,11193,1151
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,13264,11292,1152
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,14262,1153
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,10721,1154
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11057,1155
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,10397,11292,1156
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,10713,11292,1157
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11057,11292,1158
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14771,11292,1159
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11298,1160
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13487,1161
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14893,1162
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,11259,1163
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14893,1164
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,13851,11292,1165
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,14869,11292,1166
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,15016,11292,1167
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11109,12889,1168
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,14869,1169
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,15016,1170
+EM,Empire Airlines Inc.,6299,Empire Airlines Inc.,1,5,20263,D,EM,10140,11413,1171
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11292,13244,1172
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11292,13851,1173
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,12266,10372,1174
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,10693,1175
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,10599,11292,1176
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11775,11292,1177
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14262,11292,1178
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14814,11292,1179
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,11423,1180
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,12389,1181
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,13871,1182
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,14814,1183
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,15370,11292,1184
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14107,1185
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14831,1186
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,10423,1187
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14100,11292,1188
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14122,11292,1189
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,11697,1190
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,11884,1191
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,12889,11109,1192
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,12339,11292,1193
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,12889,11292,1194
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,12339,1195
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,12889,1196
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,10140,11413,1197
+SY,Sun Country Airlines d/b/a MN Airlines,6795,Sun Country Airlines d/b/a MN Airlines,2,2,20422,D,SY,13487,11292,1198
+SY,Sun Country Airlines d/b/a MN Airlines,6795,Sun Country Airlines d/b/a MN Airlines,2,2,20422,D,SY,11292,13487,1199
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,13198,11292,1200
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,13502,11292,1201
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,13502,1202
+4B,Boutique Air,1177,Boutique Air,1,6,21599,D,4B,10272,10140,1203
+4B,Boutique Air,1177,Boutique Air,1,6,21599,D,4B,10140,10272,1204
+4B,Boutique Air,1177,Boutique Air,1,6,21599,D,4B,11292,10950,1205
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,13198,11292,1206
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,13486,11292,1207
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11292,13871,1208
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,10693,1209
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,10693,11292,1210
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,12389,11292,1211
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,13029,11292,1212
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,13871,11292,1213
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11109,12892,1214
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,10821,11292,1215
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14107,11292,1216
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14683,11292,1217
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14893,11292,1218
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14107,1219
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14683,1220
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,10257,1221
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,10529,1222
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,10721,1223
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11433,11292,1224
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14570,1225
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11292,11109,1226
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,10423,11292,1227
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,13244,11292,1228
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,14100,11292,1229
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,14107,11292,1230
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,11298,11503,1231
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,11292,12892,1232
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,11292,13303,1233
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,11292,14107,1234
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11433,11292,1235
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,13851,11292,1236
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11292,13486,1237
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,10599,1238
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,13930,11109,1239
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,13029,11292,1240
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,13029,1241
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,10423,1242
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11278,1243
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11278,11292,1244
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14122,11292,1245
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,14492,11292,1246
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,14683,11292,1247
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,14057,1248
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,14492,1249
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,14683,1250
+NK,Spirit Air Lines,6830,Spirit Air Lines,3,3,20416,D,NK,11433,11292,1251
+NK,Spirit Air Lines,6830,Spirit Air Lines,3,3,20416,D,NK,11697,11292,1252
+NK,Spirit Air Lines,6830,Spirit Air Lines,3,3,20416,D,NK,11292,11697,1253
+NK,Spirit Air Lines,6830,Spirit Air Lines,3,3,20416,D,NK,11292,12266,1254
+YV,Mesa Airlines Inc.,6689,Mesa Airlines Inc.,2,2,20378,D,YV,11298,13502,1255
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11637,11292,1256
+EV,ExpressJet Airlines Inc.,6085,ExpressJet Airlines Inc.,3,3,20366,D,EV,13930,11109,1257
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,12892,11292,1258
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,13303,11292,1259
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,11503,11298,1260
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11298,10372,1261
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,12278,11292,1262
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,10372,11298,1263
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,10397,11292,1264
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11884,11292,1265
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,12892,11292,1266
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14107,11292,1267
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14771,11292,1268
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,12892,1269
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11986,11292,1270
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,12339,11292,1271
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,11618,1272
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,11986,1273
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11292,10599,1274
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,10397,1275
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11066,11292,1276
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,14057,11292,1277
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,14679,11292,1278
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,12264,1279
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,14679,1280
+NK,Spirit Air Lines,6830,Spirit Air Lines,3,3,20416,D,NK,12266,11292,1281
+NK,Spirit Air Lines,6830,Spirit Air Lines,3,3,20416,D,NK,12892,11292,1282
+NK,Spirit Air Lines,6830,Spirit Air Lines,3,3,20416,D,NK,14679,11292,1283
+NK,Spirit Air Lines,6830,Spirit Air Lines,3,3,20416,D,NK,11292,11298,1284
+NK,Spirit Air Lines,6830,Spirit Air Lines,3,3,20416,D,NK,11292,11433,1285
+NK,Spirit Air Lines,6830,Spirit Air Lines,3,3,20416,D,NK,11292,12892,1286
+NK,Spirit Air Lines,6830,Spirit Air Lines,3,3,20416,D,NK,11292,13487,1287
+NK,Spirit Air Lines,6830,Spirit Air Lines,3,3,20416,D,NK,11292,14679,1288
+YV,Mesa Airlines Inc.,6689,Mesa Airlines Inc.,2,2,20378,D,YV,13502,11298,1289
+YV,Mesa Airlines Inc.,6689,Mesa Airlines Inc.,2,2,20378,D,YV,14107,13502,1290
+YV,Mesa Airlines Inc.,6689,Mesa Airlines Inc.,2,2,20378,D,YV,13502,14107,1291
+AS,Alaska Airlines Inc.,6031,Alaska Airlines Inc.,3,3,19930,D,AS,14747,11292,1292
+AS,Alaska Airlines Inc.,6031,Alaska Airlines Inc.,3,3,19930,D,AS,11292,14747,1293
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,11097,1294
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11097,11292,1295
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,14107,11292,1296
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,11292,14107,1297
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11109,10397,1298
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,10397,11109,1299
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11292,11433,1300
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11503,11292,1301
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11292,11503,1302
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,10849,1303
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,12266,11109,1304
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,10713,11292,1305
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,10713,11292,1306
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11638,11292,1307
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,12156,11292,1308
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,12156,1309
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11109,12266,1310
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,12519,1311
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,12173,11292,1312
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11884,1313
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,12173,1314
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,12266,1315
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,12278,1316
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,12339,1317
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14747,1318
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,10257,11292,1319
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14893,11292,1320
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14100,1321
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,15304,1322
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,10693,11292,1323
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,10423,1324
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,11042,1325
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,11057,1326
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,11066,1327
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,13204,11109,1328
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,14107,11109,1329
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,10397,11292,1330
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,10397,11292,1331
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,10423,11292,1332
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11042,11292,1333
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11057,11292,1334
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11298,11292,1335
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,12264,11292,1336
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,12889,11292,1337
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,12953,11292,1338
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,13244,11292,1339
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,13303,11292,1340
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,13495,11292,1341
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,13871,11292,1342
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,14057,11292,1343
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,14100,11292,1344
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,14100,11292,1345
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,14122,11292,1346
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,14679,11292,1347
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,14747,11292,1348
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,14869,11292,1349
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,15016,11292,1350
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,15304,11292,1351
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,11298,1352
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,12889,1353
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,12953,1354
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11109,13204,1355
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,13244,1356
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,13303,1357
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,13495,1358
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,13871,1359
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,14057,1360
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,14100,1361
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,14100,1362
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11109,14107,1363
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,14122,1364
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,14679,1365
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,14747,1366
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,14869,1367
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,15016,1368
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,15304,1369
+NK,Spirit Air Lines,6830,Spirit Air Lines,3,3,20416,D,NK,11298,11292,1370
+NK,Spirit Air Lines,6830,Spirit Air Lines,3,3,20416,D,NK,12892,11292,1371
+NK,Spirit Air Lines,6830,Spirit Air Lines,3,3,20416,D,NK,13487,11292,1372
+NK,Spirit Air Lines,6830,Spirit Air Lines,3,3,20416,D,NK,11292,12892,1373
+AS,Alaska Airlines Inc.,6031,Alaska Airlines Inc.,3,3,19930,D,AS,14747,11292,1374
+AS,Alaska Airlines Inc.,6031,Alaska Airlines Inc.,3,3,19930,D,AS,11292,14747,1375
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,12217,11292,1376
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,12217,1377
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,11292,14100,1378
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,10620,1379
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,10620,11292,1380
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,10849,11292,1381
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14689,11292,1382
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,12278,1383
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11109,13930,1384
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,14689,1385
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,12278,11292,1386
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,12953,11292,1387
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13204,11292,1388
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14107,11292,1389
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14107,1390
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14893,1391
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11433,11292,1392
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,10397,1393
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,14679,11292,1394
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,14869,11292,1395
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,14679,1396
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,14869,1397
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,14730,11292,1398
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,14730,1399
+5X,United Parcel Service,6910,United Parcel Service,3,3,19917,D,5X,14730,11292,1400
+B6,JetBlue Airways,6673,JetBlue Airways,3,3,20409,D,B6,12478,11292,1401
+B6,JetBlue Airways,6673,JetBlue Airways,3,3,20409,D,B6,11292,12478,1402
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,14869,11292,1403
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11292,14869,1404
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11292,10423,1405
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11193,11292,1406
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,10721,1407
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11042,1408
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14908,11292,1409
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,10423,11292,1410
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,10721,11292,1411
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11259,11292,1412
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,13891,1413
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14100,1414
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14570,1415
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,10599,11292,1416
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,13342,11292,1417
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,13342,1418
+5X,United Parcel Service,6910,United Parcel Service,3,3,19917,D,5X,11292,14730,1419
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11775,11292,1420
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11109,12892,1421
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,10397,1422
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13871,1423
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,10397,11292,1424
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,13342,1425
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,15376,1426
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11292,12339,1427
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,13198,11292,1428
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,13198,1429
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,11292,13244,1430
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,12992,11292,1431
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,11637,1432
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,11298,11292,1433
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,15376,1434
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13342,11292,1435
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13930,11292,1436
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11298,1437
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11697,11292,1438
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,11433,1439
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,13029,11292,1440
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11433,11292,1441
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14457,11292,1442
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,11986,1443
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11298,11292,1444
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11298,11292,1445
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,12953,1446
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13342,1447
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14679,1448
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14908,1449
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,10693,11292,1450
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14100,11292,1451
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,11433,1452
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,11884,1453
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,12264,1454
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14057,1455
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11433,11292,1456
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,12339,11292,1457
+FX,Federal Express Corporation,6200,Federal Express Corporation,3,3,20107,D,FX,11292,12339,1458
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,10140,1459
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,10140,11292,1460
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11540,11292,1461
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,10397,11292,1462
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11292,11267,1463
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,13930,11109,1464
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,13158,11292,1465
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,11775,1466
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,15919,1467
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11042,11292,1468
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11618,1469
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14771,11292,1470
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,12266,11109,1471
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,11540,1472
+5X,United Parcel Service,6910,United Parcel Service,3,3,19917,D,5X,11292,14730,1473
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11292,10397,1474
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,12478,11292,1475
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11292,12478,1476
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11292,14457,1477
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,13158,1478
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,10821,1479
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11298,11292,1480
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11986,11292,1481
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13204,11292,1482
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13871,11292,1483
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11618,1484
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13930,1485
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,10713,1486
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11066,11292,1487
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,13204,11292,1488
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,15304,11292,1489
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,13204,1490
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,13367,1491
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,10627,1492
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,10627,11292,1493
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14771,1494
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,12953,11292,1495
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14570,11292,1496
+AS,Alaska Airlines Inc.,6031,Alaska Airlines Inc.,3,3,19930,D,AS,14747,11292,1497
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,13029,1498
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14057,11292,1499
+AS,Alaska Airlines Inc.,6031,Alaska Airlines Inc.,3,3,19930,D,AS,11292,14747,1500
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,10713,11292,1501
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11423,1502
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11423,11292,1503
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,12892,1504
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,15376,1505
+ZK,Great Lakes Airlines,6932,Great Lakes Airlines,1,6,20358,D,ZK,14534,11292,1506
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14679,11292,1507
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,10713,1508
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,14457,1509
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14679,1510
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11003,1511
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11003,11292,1512
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,12441,11292,1513
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,12892,11292,1514
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11298,1515
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11648,1516
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,12889,1517
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,15016,1518
+ZK,Great Lakes Airlines,6932,Great Lakes Airlines,1,6,20358,D,ZK,11292,14534,1519
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11292,14869,1520
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,10800,11292,1521
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,13851,11292,1522
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14457,11292,1523
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14869,11292,1524
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,13851,1525
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11648,11292,1526
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14893,11292,1527
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,10821,1528
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14747,1529
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,14747,11292,1530
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,14869,11292,1531
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,13244,11292,1532
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,12441,1533
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14492,1534
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11292,14747,1535
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,10397,11292,1536
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11433,11292,1537
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13204,11292,1538
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14679,11292,1539
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13487,1540
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,13342,11292,1541
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14679,11292,1542
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,15016,11292,1543
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,14783,1544
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14492,11292,1545
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,13930,11292,1546
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,13930,1547
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11423,11292,1548
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14831,11292,1549
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,14831,1550
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,10721,11292,1551
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13930,11292,1552
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11433,1553
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13485,1554
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,15016,1555
+ZK,Great Lakes Airlines,6932,Great Lakes Airlines,1,6,20358,D,ZK,11292,11711,1556
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11292,12953,1557
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,13486,1558
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,14489,1559
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11618,11292,1560
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13485,11292,1561
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14100,11292,1562
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11618,1563
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13204,1564
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,12892,11292,1565
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,12892,1566
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,12339,11292,1567
+ZK,Great Lakes Airlines,6932,Great Lakes Airlines,1,6,20358,D,ZK,11711,11292,1568
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,12478,11292,1569
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11292,11433,1570
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11292,12478,1571
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,15370,11292,1572
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11042,1573
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11618,11292,1574
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14122,1575
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11433,11292,1576
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,12953,11292,1577
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,10423,11292,1578
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,12441,11292,1579
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11292,12441,1580
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,10561,1581
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,13486,11292,1582
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14489,11292,1583
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13204,1584
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14057,1585
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,11618,1586
+EV,ExpressJet Airlines Inc.,6085,ExpressJet Airlines Inc.,3,3,20366,D,EV,11109,12266,1587
+AJQ,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,6081,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,1,5,20354,D,AJQ,14120,11292,1588
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11413,11292,1589
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,11413,1590
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,10372,13930,1591
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,10299,1592
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,13796,1593
+AJQ,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,6081,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,1,5,20354,D,AJQ,11292,14120,1594
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,13930,10372,1595
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,14869,1596
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,14893,1597
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,12264,1598
+ZK,Great Lakes Airlines,6932,Great Lakes Airlines,1,6,20358,D,ZK,14877,11292,1599
+ZK,Great Lakes Airlines,6932,Great Lakes Airlines,1,6,20358,D,ZK,11292,14877,1600
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,12255,11292,1601
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,12519,11292,1602
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,12888,11292,1603
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14783,11292,1604
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,12255,1605
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,12889,11292,1606
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14679,1607
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,10693,1608
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,15370,1609
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11315,11292,1610
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,11315,1611
+4B,Boutique Air,1177,Boutique Air,1,6,21599,D,4B,11292,10221,1612
+4B,Boutique Air,1177,Boutique Air,1,6,21599,D,4B,11292,10925,1613
+4B,Boutique Air,1177,Boutique Air,1,6,21599,D,4B,11292,10950,1614
+4B,Boutique Air,1177,Boutique Air,1,6,21599,D,4B,10221,11292,1615
+4B,Boutique Air,1177,Boutique Air,1,6,21599,D,4B,10925,11292,1616
+4B,Boutique Air,1177,Boutique Air,1,6,21599,D,4B,13200,11292,1617
+4B,Boutique Air,1177,Boutique Air,1,6,21599,D,4B,15582,11292,1618
+4B,Boutique Air,1177,Boutique Air,1,6,21599,D,4B,11292,13200,1619
+4B,Boutique Air,1177,Boutique Air,1,6,21599,D,4B,11292,15582,1620
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11267,11292,1621
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,12888,1622
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,12992,1623
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,10299,11292,1624
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11109,11292,1625
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,10279,1626
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,10279,11292,1627
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,12892,11109,1628
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14893,11292,1629
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14057,11292,1630
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,12266,1631
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,10397,1632
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11884,11292,1633
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,13495,11292,1634
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,14107,11292,1635
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,14107,1636
+4B,Boutique Air,1177,Boutique Air,1,6,21599,D,4B,10950,11292,1637
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,10397,11292,1638
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,13502,11292,1639
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11292,13502,1640
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,13433,11292,1641
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,13433,1642
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14570,11292,1643
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,12892,1644
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14570,1645
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14492,1646
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11292,10397,1647
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,10561,11292,1648
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11865,11292,1649
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,12992,11292,1650
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14543,11292,1651
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,11865,1652
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11109,13930,1653
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,14543,1654
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11109,14869,1655
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,10849,1656
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,10849,11292,1657
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,12892,11292,1658
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,12889,1659
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,13891,11292,1660
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14492,11292,1661
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,15304,11292,1662
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,13495,1663
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,14908,11292,1664
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,14908,1665
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,12896,11292,1666
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,12896,1667
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,13486,1668
+4B,Boutique Air,1177,Boutique Air,1,6,21599,D,4B,11292,11092,1669
+4B,Boutique Air,1177,Boutique Air,1,6,21599,D,4B,11092,11292,1670
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14869,11109,1671
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,12266,11292,1672
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,10721,11292,1673
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,15376,11292,1674
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,13487,1675
+NK,Spirit Air Lines,6830,Spirit Air Lines,3,3,20416,D,NK,13930,11292,1676
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,11122,1677
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,13486,11292,1678
+B6,JetBlue Airways,6673,JetBlue Airways,3,3,20409,D,B6,11292,10721,1679
+B6,JetBlue Airways,6673,JetBlue Airways,3,3,20409,D,B6,10721,11292,1680
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,14869,11292,1681
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11292,14869,1682
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11292,13198,1683
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11109,11292,1684
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14869,11292,1685
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,10372,12892,1686
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,14869,1687
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14057,11292,1688
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,12889,1689
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,15016,11292,1690
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,15370,11292,1691
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,13487,11292,1692
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11122,11292,1693
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,15016,11292,1694
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,13303,11292,1695
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,11292,14100,1696
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,14252,1697
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,14794,1698
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,10620,1699
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,10620,11292,1700
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13930,1701
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,11193,1702
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,12266,11292,1703
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,13204,11292,1704
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,12266,1705
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,12892,1706
+NK,Spirit Air Lines,6830,Spirit Air Lines,3,3,20416,D,NK,12889,11292,1707
+NK,Spirit Air Lines,6830,Spirit Air Lines,3,3,20416,D,NK,11292,13930,1708
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,12389,11292,1709
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,12389,1710
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,14107,11292,1711
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,11292,13303,1712
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,11292,14107,1713
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,12892,10372,1714
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11540,11292,1715
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14252,11292,1716
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14794,11292,1717
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14107,11413,1718
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,11540,1719
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14107,11921,1720
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11413,14107,1721
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11921,14107,1722
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,10721,1723
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,12889,11292,1724
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11193,11292,1725
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,12889,11292,1726
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,12892,11292,1727
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,14771,11292,1728
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,12889,1729
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,13204,1730
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,14771,1731
+NK,Spirit Air Lines,6830,Spirit Air Lines,3,3,20416,D,NK,11292,12889,1732
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,14674,11292,1733
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,14674,1734
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,14100,11292,1735
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,11066,1736
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,13796,11292,1737
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14747,11292,1738
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11292,15016,1739
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,10721,1740
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11122,11292,1741
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,15376,11292,1742
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11292,11122,1743
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,15304,1744
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,11921,1745
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,12953,1746
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11921,11292,1747
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11618,11292,1748
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,12003,11292,1749
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,12003,1750
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,12264,11292,1751
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14057,1752
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,12266,1753
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14107,1754
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11638,11292,1755
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11921,11292,1756
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,11921,1757
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14771,11292,1758
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13487,11292,1759
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14771,1760
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11618,11292,1761
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14107,11292,1762
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,13342,11292,1763
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,10721,11292,1764
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,14457,11292,1765
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,10627,1766
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,12191,1767
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14679,1768
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,10627,11292,1769
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,13796,11292,1770
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,13851,1771
+YX,Republic Airlines,6003,Republic Airlines,2,2,20452,D,YX,11292,14869,1772
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,12264,11292,1773
+AX,Trans States Airlines,6904,Trans States Airlines,1,5,20237,D,AX,11292,14457,1774
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,13851,11292,1775
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14057,11292,1776
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14683,1777
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14747,11292,1778
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,11637,1779
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,12953,11292,1780
+4B,Boutique Air,1177,Boutique Air,1,6,21599,D,4B,11292,10272,1781
+ZK,Great Lakes Airlines,6932,Great Lakes Airlines,1,6,20358,D,ZK,14288,11292,1782
+ZK,Great Lakes Airlines,6932,Great Lakes Airlines,1,6,20358,D,ZK,11292,14288,1783
+4B,Boutique Air,1177,Boutique Air,1,6,21599,D,4B,10272,11292,1784
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14057,1785
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,13342,1786
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,10140,1787
+AS,Alaska Airlines Inc.,6031,Alaska Airlines Inc.,3,3,19930,D,AS,11292,14747,1788
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,12266,11292,1789
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14908,1790
+AS,Alaska Airlines Inc.,6031,Alaska Airlines Inc.,3,3,19930,D,AS,14747,11292,1791
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14908,11292,1792
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,12892,11292,1793
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11292,11278,1794
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,12953,1795
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14771,1796
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,11292,13930,1797
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11637,11292,1798
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14771,11292,1799
+F9,Frontier Airlines Inc.,6460,Frontier Airlines Inc.,3,3,20436,D,F9,11278,11292,1800
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,12191,11292,1801
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,13930,11292,1802
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14683,11292,1803
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,12953,11292,1804
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,12892,1805
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,12264,1806
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,10140,11292,1807
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,10800,11292,1808
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,12339,11292,1809
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,10800,1810
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,12953,1811
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,13871,11292,1812
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,13871,1813
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,12191,11292,1814
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,10821,11292,1815
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,10397,1816
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,14869,1817
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11618,11292,1818
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14869,11921,1819
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,15016,11292,1820
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11921,14869,1821
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,13204,1822
+VX,Virgin America,1006,Virgin America,3,3,21171,D,VX,14771,11292,1823
+VX,Virgin America,1006,Virgin America,3,3,21171,D,VX,11292,14771,1824
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,13204,11292,1825
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,10693,1826
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,12280,1827
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14831,1828
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,12892,11292,1829
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,12280,11292,1830
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,10821,11292,1831
+MQ,Envoy Air,6820,Envoy Air,3,3,20398,D,MQ,11921,11298,1832
+YV,Mesa Airlines Inc.,6689,Mesa Airlines Inc.,2,2,20378,D,YV,11298,11413,1833
+MQ,Envoy Air,6820,Envoy Air,3,3,20398,D,MQ,11298,11921,1834
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,11292,12892,1835
+YV,Mesa Airlines Inc.,6689,Mesa Airlines Inc.,2,2,20378,D,YV,11413,11298,1836
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,13796,1837
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,11109,1838
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14747,1839
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,13930,11292,1840
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,11292,13930,1841
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14747,1842
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,12191,1843
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,10693,11292,1844
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14771,11292,1845
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,10397,11292,1846
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,14747,1847
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,11618,1848
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14747,11292,1849
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,11638,1850
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14771,11292,1851
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,15016,1852
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,12339,1853
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,14747,11292,1854
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14679,1855
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,10423,11292,1856
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14831,11292,1857
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,14869,11292,1858
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,10423,1859
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11292,11413,1860
+G7,GoJet Airlines LLC d/b/a United Express,7041,GoJet Airlines LLC d/b/a United Express,2,2,20500,D,G7,11413,11292,1861
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14893,11292,1862
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,13232,1863
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,14771,1864
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14893,1865
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,11298,11109,1866
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,11109,11298,1867
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,13232,11292,1868
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14771,1869
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,10821,1870
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,11109,1871
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,12266,1872
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,13487,11292,1873
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14679,11292,1874
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,13487,1875
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11109,11292,1876
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,12264,1877
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,12892,1878
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,12892,11292,1879
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14908,11292,1880
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14908,1881
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11292,10397,1882
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14869,11292,1883
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,13232,11292,1884
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,10397,11292,1885
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,12264,11292,1886
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,13487,11292,1887
+DL,Delta Air Lines Inc.,1260,Delta Air Lines Inc.,3,3,19790,D,DL,11292,13487,1888
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,13232,1889
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11259,11292,1890
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14869,1891
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,11259,1892
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,12266,11292,1893
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,12892,1894
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,12892,11292,1895
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,11292,10372,1896
+OO,SkyWest Airlines Inc.,6700,SkyWest Airlines Inc.,3,3,20304,D,OO,10372,11292,1897
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,13198,1898
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,11292,11057,1899
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,11057,11292,1900
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,13198,11292,1901
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,14107,11292,1902
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,14107,1903
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,11292,12889,1904
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,11292,13930,1905
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,11298,11292,1906
+UA,United Air Lines Inc.,0A875,United Air Lines Inc.,3,3,19977,D,UA,13930,11292,1907
+WN,Southwest Airlines Co.,6725,Southwest Airlines Co.,3,3,19393,D,WN,12889,11292,1908
+AA,American Airlines Inc.,0A050,American Airlines Inc.,3,3,19805,D,AA,11292,11298,1909
