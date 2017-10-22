@@ -11,8 +11,21 @@ DECLARE
 $$
 LANGUAGE plpgsql;
 
+TESTING\\
 
+CREATE OR REPLACE Function process() 
+RETURNS VARCHAR AS $$
+DECLARE result VARCHAR; 
+	BEGIN
+		SELECT Carrier_Name FROM A.Carrier 
+			WHERE Carrier_Name LIKE 'So%'
+			INTO result;
+		RETURN result;
+	END;
+$$
+LANGUAGE plpgsql;
 
+SELECT process();
 
 
 
