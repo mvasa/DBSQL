@@ -1,4 +1,4 @@
-CREATE OR REPLACE Function el_process() RETURNS VARCHAR AS $$
+CREATE OR REPLACE Function process() RETURNS VARCHAR AS $$
 DECLARE
 	result VARCHAR; 
 
@@ -10,6 +10,7 @@ DECLARE
 	END;
 $$
 LANGUAGE plpgsql;
+
 
 
 
