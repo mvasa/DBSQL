@@ -1,4 +1,4 @@
-CREATE OR REPLACE Function process() RETURNS VARCHAR AS $$
+CREATE OR REPLACE Function processCity() RETURNS VARCHAR AS $$
 DECLARE
 	result VARCHAR; 
 
@@ -11,9 +11,8 @@ DECLARE
 $$
 LANGUAGE plpgsql;
 
-TESTING\\
 
-CREATE OR REPLACE Function process() 
+CREATE OR REPLACE Function processCarrier() 
 RETURNS VARCHAR AS $$
 DECLARE result VARCHAR; 
 	BEGIN
@@ -24,8 +23,6 @@ DECLARE result VARCHAR;
 	END;
 $$
 LANGUAGE plpgsql;
-
-SELECT process();
 
 
 
