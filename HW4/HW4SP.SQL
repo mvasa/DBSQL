@@ -1,4 +1,4 @@
-CREATE OR REPLACE Function processCity() RETURNS VARCHAR AS $$
+CREATE OR REPLACE Function process() RETURNS VARCHAR AS $$
 DECLARE
 	result VARCHAR; 
 
@@ -11,18 +11,24 @@ DECLARE
 $$
 LANGUAGE plpgsql;
 
+TESTING\\
 
-CREATE OR REPLACE Function processCarrier() 
+CREATE OR REPLACE Function process(airline_name VARCHAR) 
 RETURNS VARCHAR AS $$
 DECLARE result VARCHAR; 
 	BEGIN
 		SELECT Carrier_Name FROM A.Carrier 
-			WHERE Carrier_Name LIKE 'So%'
+			WHERE Carrier_Name = airline_name
 			INTO result;
 		RETURN result;
 	END;
 $$
 LANGUAGE plpgsql;
+
+
+SELECT process('JetBlue Airways');
+
+SELECT process();
 
 
 
