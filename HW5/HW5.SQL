@@ -20,31 +20,33 @@ CREATE TABLE Reservation.Customer(
 	last_name VARCHAR(15));
 
 CREATE TABLE Reservation.Customer_Address(
-	customer_ID integer PRIMARY KEY,
-	street VARCHAR,
-	city VARCHAR,
-	state_province VARCHAR,
-	postal_code integer,
+	Customer_ID integer REFERENCES Reservation.Customer(Unique_Customer_ID),
+	Customer_Address_ID integer PRIMARY KEY,
+	Street VARCHAR,
+	City VARCHAR,
+	State_Province VARCHAR,
+	Postal_Code integer,
 	Country VARCHAR);
 
 CREATE TABLE Reservation.Customer_Contact_Info(
-	customer_ID integer PRIMARY KEY,
-	country_code integer,
-	city_area_code integer,
-	local_number integer,
+	customer_ID integer REFERENCES Reservation.Customer(Unique_Customer_ID),
+	Customer_Contact_ID integer PRIMARY KEY,
+	Country_Code integer,
+	City_Area_Code integer,
+	Local_Number integer,
 	Email VARCHAR); 
 
 CREATE TABLE Reservation.Location(
 	Country VARCHAR,
 	State_Province VARCHAR,
 	City VARCHAR,
-	City_code VARCHAR(6) PRIMARY KEY);
+	City_Code VARCHAR(6) PRIMARY KEY);
 
 CREATE TABLE Reservation.Booking(
-	Unique_booking_number integer PRIMARY KEY,
-	flight_number integer REFERENCES Reservation.Airplane(unique_flight_number),
-	date_of_booking VARCHAR,
+	Unique_Booking_Number integer PRIMARY KEY,
+	Flight_Number integer REFERENCES Reservation.Airplane(unique_flight_number),
+	Date_of_Booking VARCHAR,
 	Customer_Paying VARCHAR,
-	Customer_name_on_ticket VARCHAR,
+	Customer_Name_on_Ticket VARCHAR,
 	Customer_ID integer REFERENCES Reservation.Customer(Unique_Customer_ID),
-	booking_city VARCHAR);
+	Booking_City VARCHAR);
