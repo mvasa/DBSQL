@@ -88,14 +88,3 @@ CREATE TABLE A.Flight_Summary(
 			
 
 
-ALTER TABLE A.Flight_Summary 
-	ADD  FOREIGN KEY (Origin, Dest) REFERENCES A.Airport (Origin, Dest);
-
-ALTER TABLE A.Flight_Summary 
-	ADD  FOREIGN KEY (Aircraft_Type, Aircraft_Config) REFERENCES A.Aircraft (Aircraft_Type, Aircraft_Config);
-
-ALTER TABLE A.Flight_Summary 
-	ADD  FOREIGN KEY (Origin_City_Name, Dest_City_Name) REFERENCES A.City (Origin_City_Name, Dest_City_Name);
-
-ALTER TABLE A.Flight_Summary 
-	ADD  FOREIGN KEY (Origin_State_Abr, Dest_State_Abr) REFERENCES A.State (Origin_State_Abr, Dest_State_Abr);		
