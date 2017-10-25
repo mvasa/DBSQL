@@ -17,6 +17,7 @@ CREATE TABLE A.City(
 			Origin_City_Name VARCHAR,  
 			Dest_City_Market_ID VARCHAR,
 			Dest_City_Name VARCHAR,
+			LineNUM VARCHAR,
 			UNIQUE(LineNUM),
 			PRIMARY KEY(LineNUM)
 			);
