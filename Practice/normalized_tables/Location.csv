@@ -1,0 +1,175 @@
+CITY_MARKET_ID,CITY_NAME,STATE_ABR,STATE_FIPS,STATE_NM
+32575,"Long Beach, CA",CA,6,California
+30325,"Denver, CO",CO,8,Colorado
+32457,"San Francisco, CA",CA,6,California
+31423,"Des Moines, IA",IA,19,Iowa
+31315,"Dickinson, ND",ND,38,North Dakota
+31503,"Eagle, CO",CO,8,Colorado
+31123,"St. Louis, MO",MO,29,Missouri
+32544,"CONCORD, NC",NC,37,North Carolina
+30397,"Atlanta, GA",GA,13,Georgia
+30189,"Colorado Springs, CO",CO,8,Colorado
+32211,"Las Vegas, NV",NV,32,Nevada
+30372,"Aspen, CO",CO,8,Colorado
+32575,"Burbank, CA",CA,6,California
+34614,"Salt Lake City, UT",UT,49,Utah
+34100,"Philadelphia, PA",PA,42,Pennsylvania
+31122,"Casper, WY",WY,56,Wyoming
+31295,"Detroit, MI",MI,26,Michigan
+31650,"Minneapolis, MN",MN,27,Minnesota
+33851,"Oklahoma City, OK",OK,40,Oklahoma
+30529,"Hartford, CT",CT,9,Connecticut
+32457,"Oakland, CA",CA,6,California
+30558,"Scottsbluff, NE",NE,31,Nebraska
+33198,"Kansas City, MO",MO,29,Missouri
+31233,"Cheyenne, WY",WY,56,Wyoming
+30194,"Dallas, TX",TX,48,Texas
+32457,"San Jose, CA",CA,6,California
+30423,"Austin, TX",TX,48,Texas
+31066,"Columbus, OH",OH,39,Ohio
+34792,"Sugar Land, TX",TX,48,Texas
+30466,"Phoenix, AZ",AZ,4,Arizona
+30747,"Brownsville, TX",TX,48,Texas
+31563,"Wendover, UT",UT,49,Utah
+31921,"Grand Junction, CO",CO,8,Colorado
+34576,"Rochester, NY",NY,36,New York
+34653,"Tulsa, OK",OK,40,Oklahoma
+30977,"Chicago, IL",IL,17,Illinois
+34570,"Reno, NV",NV,32,Nevada
+31719,"Fort Collins/Loveland, CO",CO,8,Colorado
+30590,"Bullhead City, AZ",AZ,4,Arizona
+33502,"Montrose/Delta, CO",CO,8,Colorado
+34288,"Pueblo, CO",CO,8,Colorado
+31840,"Gadsden, AL",AL,1,Alabama
+33105,"Cincinnati, OH",KY,21,Kentucky
+30559,"Seattle, WA",WA,53,Washington
+31283,"Dodge City, KS",KS,20,Kansas
+31468,"Kearney, NE",NE,31,Nebraska
+32899,"North Platte, NE",NE,31,Nebraska
+32902,"Liberal, KS",KS,20,Kansas
+32389,"Williston, ND",ND,38,North Dakota
+31454,"Orlando, FL",FL,12,Florida
+34492,"Raleigh/Durham, NC",NC,37,North Carolina
+31986,"Grand Rapids, MI",MI,26,Michigan
+31097,"Cody, WY",WY,56,Wyoming
+30852,"Washington, DC",VA,51,Virginia
+30194,"Dallas/Fort Worth, TX",TX,48,Texas
+31453,"Houston, TX",TX,48,Texas
+32441,"Jackson, WY",WY,56,Wyoming
+32888,"Laramie, WY",WY,56,Wyoming
+32575,"Los Angeles, CA",CA,6,California
+32600,"Little Rock, AR",AR,5,Arkansas
+33264,"Medford, OR",OR,41,Oregon
+33486,"Missoula, MT",MT,30,Montana
+34057,"Portland, OR",OR,41,Oregon
+34252,"Pasco/Kennewick/Richland, WA",WA,53,Washington
+33570,"San Diego, CA",CA,6,California
+33214,"San Antonio, TX",TX,48,Texas
+34794,"St. George, UT",UT,49,Utah
+33192,"Sacramento, CA",CA,6,California
+32575,"Santa Ana, CA",CA,6,California
+30140,"Albuquerque, NM",NM,35,New Mexico
+30721,"Boston, MA",MA,25,Massachusetts
+30849,"Bozeman, MT",MT,30,Montana
+34262,"Palm Springs, CA",CA,6,California
+34524,"Richmond, VA",VA,51,Virginia
+34689,"Santa Barbara, CA",CA,6,California
+30994,"Charleston, SC",SC,45,South Carolina
+30647,"Cleveland, OH",OH,39,Ohio
+33495,"New Orleans, LA",LA,22,Louisiana
+30198,"Pittsburgh, PA",PA,42,Pennsylvania
+31714,"Fort Myers, FL",FL,12,Florida
+30928,"Wichita, KS",KS,20,Kansas
+33044,"Louisville, KY",KY,21,Kentucky
+32337,"Indianapolis, IN",IN,18,Indiana
+33195,"Tampa, FL",FL,12,Florida
+35412,"Knoxville, TN",TN,47,Tennessee
+33244,"Memphis, TN",TN,47,Tennessee
+30285,"Durango, CO",CO,8,Colorado
+34877,"Salina, KS",KS,20,Kansas
+31638,"Fresno, CA",CA,6,California
+31895,"Great Falls, MT",MT,30,Montana
+31834,"Fayetteville, AR",AR,5,Arkansas
+31603,"Eugene, OR",OR,41,Oregon
+31703,"Newark, NJ",NJ,34,New Jersey
+31884,"Spokane, WA",WA,53,Washington
+30436,"Tucson, AZ",AZ,4,Arizona
+30713,"Boise, ID",ID,16,Idaho
+33485,"Madison, WI",WI,55,Wisconsin
+33367,"Moline, IL",IL,17,Illinois
+30279,"Amarillo, TX",TX,48,Texas
+32896,"Lubbock, TX",TX,48,Texas
+32575,"Ontario, CA",CA,6,California
+34457,"Rapid City, SD",SD,46,South Dakota
+30852,"Baltimore, MD",MD,24,Maryland
+31057,"Charlotte, NC",NC,37,North Carolina
+30257,"Albany, NY",NY,36,New York
+33316,"Omaha, NE",NE,31,Nebraska
+33667,"Norfolk, VA",VA,51,Virginia
+30599,"Birmingham, AL",AL,1,Alabama
+31003,"Cedar Rapids/Iowa City, IA",IA,19,Iowa
+30620,"Billings, MT",MT,30,Montana
+30476,"Shreveport, LA",LA,22,Louisiana
+34783,"Springfield, MO",MO,29,Missouri
+31648,"Kalispell, MT",MT,30,Montana
+32982,"Lihue, HI",HI,15,Hawaii
+33342,"Milwaukee, WI",WI,55,Wisconsin
+30615,"El Paso, TX",TX,48,Texas
+32467,"Fort Lauderdale, FL",FL,12,Florida
+30693,"Nashville, TN",TN,47,Tennessee
+33304,"Minot, ND",ND,38,North Dakota
+33964,"North Bend/Coos Bay, OR",OR,41,Oregon
+34489,"Bend/Redmond, OR",OR,41,Oregon
+31136,"Jacksonville, FL",FL,12,Florida
+30561,"Bakersfield, CA",CA,6,California
+33728,"Pensacola, FL",FL,12,Florida
+31775,"Sioux Falls, SD",SD,46,South Dakota
+32012,"Gunnison, CO",CO,8,Colorado
+34699,"Hayden, CO",CO,8,Colorado
+30643,"Branson, MO",MO,29,Missouri
+35177,"Telluride, CO",CO,8,Colorado
+30950,"Cortez, CO",CO,8,Colorado
+31703,"New York, NY",NY,36,New York
+31995,"Greensboro/High Point, NC",NC,37,North Carolina
+34512,"Rockford, IL",IL,17,Illinois
+31267,"Dayton, OH",OH,39,Ohio
+31711,"Farmington, NM",NM,35,New Mexico
+31447,"Devils Lake, ND",ND,38,North Dakota
+33029,"Lincoln, NE",NE,31,Nebraska
+30627,"Bismarck/Mandan, ND",ND,38,North Dakota
+34236,"San Luis Obispo, CA",CA,6,California
+33158,"Midland/Odessa, TX",TX,48,Texas
+32758,"Kona, HI",HI,15,Hawaii
+33830,"Kahului, HI",HI,15,Hawaii
+30272,"Alamosa, CO",CO,8,Colorado
+32467,"Miami, FL",FL,12,Florida
+32156,"Helena, MT",MT,30,Montana
+32519,"Jamestown, ND",ND,38,North Dakota
+32134,"Honolulu, HI",HI,15,Hawaii
+30255,"Huntsville, AL",AL,1,Alabama
+31637,"Fargo, ND",ND,38,North Dakota
+34534,"Riverton/Lander, WY",WY,56,Wyoming
+30299,"Anchorage, AK",AK,2,Alaska
+34120,"Pierre, SD",SD,46,South Dakota
+32255,"Hays, KS",KS,20,Kansas
+30221,"Alliance, NE",NE,31,Nebraska
+30925,"Chadron, NE",NE,31,Nebraska
+33200,"McCook, NE",NE,31,Nebraska
+35582,"Vernal, UT",UT,49,Utah
+31865,"Gillette, WY",WY,56,Wyoming
+34543,"Rock Springs, WY",WY,56,Wyoming
+31092,"Moab, UT",UT,49,Utah
+34674,"Santa Fe, NM",NM,35,New Mexico
+32280,"Idaho Falls, ID",ID,16,Idaho
+31871,"Greer, SC",SC,45,South Carolina
+35570,"Victorville, CA",CA,6,California
+32448,"Jackson/Vicksburg, MS",MS,28,Mississippi
+30792,"Buffalo, NY",NY,36,New York
+31140,"Corpus Christi, TX",TX,48,Texas
+31481,"Panama City, FL",FL,12,Florida
+31973,"Gulfport/Biloxi, MS",MS,28,Mississippi
+34275,"Pontiac, MI",MI,26,Michigan
+34081,"Page, AZ",AZ,4,Arizona
+30409,"Watertown, SD",SD,46,South Dakota
+35041,"Sun Valley/Hailey/Ketchum, ID",ID,16,Idaho
+32891,"Lawton/Fort Sill, OK",OK,40,Oklahoma
