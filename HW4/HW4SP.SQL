@@ -11,7 +11,7 @@ DECLARE
 $$
 LANGUAGE plpgsql;
 
-TESTING\\
+
 
 CREATE OR REPLACE Function process(airline_name VARCHAR) 
 RETURNS VARCHAR AS $$
@@ -24,7 +24,12 @@ DECLARE result VARCHAR;
 	END;
 $$
 LANGUAGE plpgsql;
-
+////////////////////////////////////////////////////////////
+CREATE OR REPLACE FUNCTION carrierName() 
+RETURNS setof A.carrier
+as
+'SELECT * FROM A.CARRIER;'
+LANGUAGE 'sql';
 
 SELECT process('JetBlue Airways');
 
