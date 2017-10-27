@@ -25,15 +25,19 @@ DECLARE result VARCHAR;
 $$
 LANGUAGE plpgsql;
 ////////////////////////////////////////////////////////////
+
+SELECT process('JetBlue Airways');
+
+SELECT process();
+
+
+
+
 CREATE OR REPLACE FUNCTION carrierName() 
 RETURNS setof A.carrier
 as
 'SELECT * FROM A.CARRIER;'
 LANGUAGE 'sql';
-
-SELECT process('JetBlue Airways');
-
-SELECT process();
 
 
 
