@@ -41,22 +41,6 @@ CREATE TABLE A.Time(
 			);
 
 
-CREATE TABLE A.Flight_Summary(
-			Origin_Airport_ID integer REFERENCES A.Airport(Airport_ID),
-			Dest_Airport_ID integer REFERENCES A.Airport(Airport_ID),
-			Origin_City VARCHAR REFERENCES A.Location(City_Name),
-			Dest_City VARCHAR REFERENCES A.Location(City_Name),
-			Distance integer,
-			Unique_Carrier_Entity VARCHAR REFERENCES A.Carrier(Unique_Carrier_Entity),
-			Aircraft_Type integer,
-			Aircraft_Config integer,
-			Year integer REFERENCES A.Time(Year)
-			);
-ALTER TABLE A.Flight_Summary 
-	ADD  FOREIGN KEY (Aircraft_Type, Aircraft_Config) REFERENCES A.Aircraft (Aircraft_Type, Aircraft_Config);
-
-
-
 CREATE TABLE A.Aircraft_Details(
 			Aircraft_Type integer,
 			Aircraft_Config integer,
@@ -70,7 +54,18 @@ CREATE TABLE A.Aircraft_Details(
 			Distance_Group integer,
 			Class char,
 			Departures_Scheduled integer,
-			Departures_Performed integer
+			Departures_Performed integer,
+			AircraftID integer PRIMARY KEY
 			);
-ALTER TABLE A.Aircraft_Details 
-	ADD  FOREIGN KEY (Aircraft_Type, Aircraft_Config) REFERENCES A.Aircraft (Aircraft_Type, Aircraft_Config);
+
+
+CREATE TABLE A.Flight_Summary(
+			Origin_Airport_ID integer REFERENCES A.Airport(Airport_ID),
+			Dest_Airport_ID integer REFERENCES A.Airport(Airport_ID),
+			Origin_City VARCHAR REFERENCES A.Location(City_Name),
+			Dest_City VARCHAR REFERENCES A.Location(City_Name),
+			Distance integer,
+			Unique_Carrier_Entity VARCHAR REFERENCES A.Carrier(Unique_Carrier_Entity),
+			Year integer REFERENCES A.Time(Year),
+			AircraftID integer REFERENCES A.Aircraft_Details(AircraftID)
+			);
