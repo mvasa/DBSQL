@@ -15,7 +15,6 @@ INNER JOIN
 AND A.Flight_Summary.Origin_City LIKE '%CO';
 
 
-
 Select 
 	Origin_City, State_Nm,  Airport_Code, Unique_Carrier_Name, Freight
 From 
@@ -31,7 +30,6 @@ INNER JOIN
 AND A.Flight_Summary.Origin_City LIKE '%CO';
 
 
-
 Select 
 	Origin_City, State_Nm, Dest_City, Unique_Carrier_Name, Passengers
 FROM
@@ -45,15 +43,15 @@ INNER JOIN
 AND Origin_City NOT LIKE '%CO' AND Dest_City LIKE '%CO'; 
 
 
-
-
-Select Origin_City, State_Nm, Unique_Carrier_Name
-FROM A.Flight_Summary
+Select 
+	Origin_City, State_Nm, Unique_Carrier_Name
+FROM 
+	A.Flight_Summary
 INNER JOIN
-	A.Location ON A.Location.City_Name = A.Flight_Summary.Dest_City
+	A.Location ON A.Location.City_Name = A.Flight_Summary.Origin_City
 INNER JOIN
 	A.Carrier on A.Carrier.Unique_Carrier_Entity = A.Flight_Summary.Unique_Carrier_Entity 
-WHERE
+AND
 	Dest_City LIKE 'Denver%' AND A.Flight_Summary.Distance BETWEEN 500 AND 1200;	
 
 
