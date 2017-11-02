@@ -53,8 +53,6 @@ CREATE TABLE A.Aircraft_Details(
 			Air_Time VARCHAR,
 			Distance_Group integer,
 			Class char,
-			Departures_Scheduled integer,
-			Departures_Performed integer,
 			AircraftID integer PRIMARY KEY
 			);
 
@@ -66,6 +64,6 @@ CREATE TABLE A.Flight_Summary(
 			Dest_City VARCHAR REFERENCES A.Location(City_Name),
 			Distance integer,
 			Unique_Carrier_Entity VARCHAR REFERENCES A.Carrier(Unique_Carrier_Entity),
-			Year integer REFERENCES A.Time(Year),
-			AircraftID integer REFERENCES A.Aircraft_Details(AircraftID)
+			AircraftID integer REFERENCES A.Aircraft_Details(AircraftID),
+			RouteID integer PRIMARY KEY
 			);
