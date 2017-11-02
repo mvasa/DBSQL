@@ -3,7 +3,7 @@ CREATE SCHEMA A;
 CREATE TABLE A.Location(
 			CITY_MARKET_ID VARCHAR,
 			CITY_NAME VARCHAR  PRIMARY KEY,
-			STATE_ABR VARCHAR(2),
+			STATE_ABR VARCHAR,
 			STATE_FIPS VARCHAR,
 			STATE_NM VARCHAR
 			);
@@ -30,15 +30,11 @@ CREATE TABLE A.Aircraft(
 
 CREATE TABLE A.Airport(
 			Airport_ID VARCHAR PRIMARY KEY,
-			Origin_Airport_Seq_ID VARCHAR, 
-			Airport_code VARCHAR(3), 
+			Airport_Seq_ID VARCHAR, 
+			Airport_code VARCHAR, 
 			WAC VARCHAR 
 			);
-CREATE TABLE A.Time(
-			Year VARCHAR PRIMARY KEY,
-			Month VARCHAR,
-			Quarter VARCHAR
-			);
+
 
 
 CREATE TABLE A.Aircraft_Details(
