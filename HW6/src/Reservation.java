@@ -19,6 +19,7 @@ public class Reservation {
     //<editor-fold desc="main">
     public static void main(String[] args)
     {
+        /*
         dropTable("Customer_Address");
         dropTable("Customer_Contact_Info");
         dropTable("Booking");
@@ -26,6 +27,7 @@ public class Reservation {
         dropTable("Airplane");
         dropTable("Customer");
         dropTable("Location");
+        */
 
         Customer();
         Airplane();
