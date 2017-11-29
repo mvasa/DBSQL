@@ -1,4 +1,3 @@
-
 Select 
 	Origin_City, State_Nm,  Airport_Code, Unique_Carrier_Name, Passengers
 From 
@@ -53,54 +52,3 @@ INNER JOIN
 	A.Carrier on A.Carrier.Unique_Carrier_Entity = A.Flight_Summary.Unique_Carrier_Entity 
 AND
 	Dest_City LIKE 'Denver%' AND A.Flight_Summary.Distance BETWEEN 500 AND 1200;	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-***WRONG***
-Select 
-	A.Flight_Summary.Origin_City, 
-	A.Location.State_Nm 
-From 
-	A.Flight_Summary,
-	A.Location
-WHERE
-	A.Flight_Summary.Origin_City LIKE '%CO' AND A.Location.State_Nm = 'Colorado';
-
-***WRONG***

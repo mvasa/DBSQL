@@ -1,4 +1,4 @@
-\COPY A.Location FROM 'C:\Users\manoj\Desktop\DBSQL\HW4\normalized_tables\Location.xlsx' DELIMITER ',' CSV;
+\COPY A.Location FROM 'C:\Users\manoj\Desktop\DBSQL\HW4\normalized_tables\Location.csv' DELIMITER ',' CSV;
 
 \COPY A.Carrier FROM 'C:\Users\manoj\Desktop\DBSQL\HW4\normalized_tables\Carrier.csv' DELIMITER ',' CSV;
 
@@ -12,6 +12,4 @@
 
 
 
-
-\COPY A.Time FROM 'C:\Users\manoj\Desktop\DBSQL\HW4\normalized_tables\Time.csv' DELIMITER ',' CSV;
 

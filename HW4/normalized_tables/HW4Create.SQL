@@ -30,14 +30,9 @@ CREATE TABLE A.Aircraft(
 
 CREATE TABLE A.Airport(
 			Airport_ID integer PRIMARY KEY,
-			Origin_Airport_Seq_ID integer, 
+			Airport_Seq_ID integer, 
 			Airport_code VARCHAR(3), 
 			WAC integer 
-			);
-CREATE TABLE A.Time(
-			Year integer PRIMARY KEY,
-			Month integer,
-			Quarter integer
 			);
 
 
@@ -65,5 +60,5 @@ CREATE TABLE A.Flight_Summary(
 			Distance integer,
 			Unique_Carrier_Entity VARCHAR REFERENCES A.Carrier(Unique_Carrier_Entity),
 			AircraftID integer REFERENCES A.Aircraft_Details(AircraftID),
-			RouteID integer PRIMARY KEY
+			RouteID VARCHAR PRIMARY KEY
 			);

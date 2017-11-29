@@ -1,0 +1,1 @@
+\COPY Flight_Plan FROM 'C:\Users\manoj\Desktop\HW6\Flight_Plan.csv' DELIMITER ',' CSV;

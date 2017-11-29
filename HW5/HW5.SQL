@@ -1,17 +1,19 @@
 CREATE SCHEMA Reservation;
 
 CREATE TABLE Reservation.AIRPLANE(
-	Unique_flight_number integer PRIMARY KEY, 
-	airline_code VARCHAR(10), 
-	Airline VARCHAR(20));
+	Unique_Airplane_number integer PRIMARY KEY, 
+	Airline_Name VARCHAR(6), 
+	Airplane_ID VARCHAR(6));
 
 CREATE TABLE Reservation.Flight_Plan(
 	Route_ID VARCHAR PRIMARY KEY,
-	flight_number VARCHAR(6), 
-	flight_destination VARCHAR(10), 
-	flight_origin VARCHAR(10), 
-	date_time_departure VARCHAR(10), 
-	date_time_arrival VARCHAR(10), 
+	Airplane_number VARCHAR(6), 
+	Airplane_destination VARCHAR(10), 
+	Airplane_origin VARCHAR(10), 
+	date_of_departure VARCHAR(10), 
+	date_of_arrival VARCHAR(10), 
+	time_of_departure VARCHAR,
+	time_of_arrival VARCHAR,
 	flight_length VARCHAR(10));
 
 CREATE TABLE Reservation.Customer(
