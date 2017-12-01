@@ -19,15 +19,15 @@ public class Reservation {
     //<editor-fold desc="main">
     public static void main(String[] args)
     {
-        /*
-        dropTable("Customer_Address");
+
+    /*    dropTable("Customer_Address");
         dropTable("Customer_Contact_Info");
         dropTable("Booking");
         dropTable("Flight_Plan");
         dropTable("Airplane");
         dropTable("Customer");
-        dropTable("Location");
-        */
+        dropTable("Location");*/
+
 
         Customer();
         Airplane();
@@ -40,6 +40,7 @@ public class Reservation {
 
         initializePkLists();
         readExistingPrimaryKeys();
+
 
         loadFlightPlan();
 
@@ -199,8 +200,9 @@ public class Reservation {
         }
         catch (SQLException ex)
         {
-            System.err.println( ex.getClass().getName() + ": Error opening the database\n" );
-            ex.printStackTrace();
+            //System.err.println( ex.getClass().getName() + ": Error opening the database\n" );
+            //ex.printStackTrace();
+            System.out.println("___");
         }
         closeConnection();
     }
@@ -229,8 +231,9 @@ public class Reservation {
         }
         catch (SQLException ex)
         {
-            System.err.println( ex.getClass().getName() + ": Error creating table\n" );
-            ex.printStackTrace();
+            //System.err.println( ex.getClass().getName() + ": Error creating table\n" );
+            //ex.printStackTrace();
+            System.out.println("___");
         }
         closeConnection();
     }
@@ -252,8 +255,9 @@ public class Reservation {
         }
         catch (SQLException ex)
         {
-            System.err.println( ex.getClass().getName() + ": Error creating table\n" );
-            ex.printStackTrace();
+            //System.err.println( ex.getClass().getName() + ": Error creating table\n" );
+            //ex.printStackTrace();
+            System.out.println("___");
         }
         closeConnection();
     }
@@ -279,8 +283,9 @@ public class Reservation {
         }
         catch (SQLException ex)
         {
-            System.err.println( ex.getClass().getName() + ": Error creating table\n" );
-            ex.printStackTrace();
+            //System.err.println( ex.getClass().getName() + ": Error creating table\n" );
+            //ex.printStackTrace();
+            System.out.println("___");
         }
         closeConnection();
     }
@@ -305,8 +310,9 @@ public class Reservation {
         }
         catch (SQLException ex)
         {
-            System.err.println( ex.getClass().getName() + ": Error creating table\n" );
-            ex.printStackTrace();
+            //System.err.println( ex.getClass().getName() + ": Error creating table\n" );
+            //ex.printStackTrace();
+            System.out.println("___");
         }
         closeConnection();
     }
@@ -329,8 +335,9 @@ public class Reservation {
         }
         catch (SQLException ex)
         {
-            System.err.println( ex.getClass().getName() + ": Error creating table\n" );
-            ex.printStackTrace();
+            //System.err.println( ex.getClass().getName() + ": Error creating table\n" );
+            //ex.printStackTrace();
+            System.out.println("___");
         }
         closeConnection();
     }
@@ -356,8 +363,9 @@ public class Reservation {
         }
         catch (SQLException ex)
         {
-            System.err.println( ex.getClass().getName() + ": Error creating table\n" );
-            ex.printStackTrace();
+            //System.err.println( ex.getClass().getName() + ": Error creating table\n" );
+            //ex.printStackTrace();
+            System.out.println("___");
         }
         closeConnection();
     }
@@ -597,11 +605,14 @@ public class Reservation {
         }
         catch(java.io.FileNotFoundException ex)
         {
-            ex.printStackTrace();
+            //ex.printStackTrace();
+
+            System.out.println("---");
         }
         catch(java.io.IOException ex)
         {
-            ex.printStackTrace();
+            //ex.printStackTrace();
+            System.out.println(":::");
         }
 
         try
@@ -615,8 +626,9 @@ public class Reservation {
         }
         catch (SQLException ex)
         {
-            System.err.println( ex.getClass().getName() + ": Error inserting data\n" );
-            ex.printStackTrace();
+           // System.err.println( ex.getClass().getName() + ": Error inserting data\n" );
+            //ex.printStackTrace();
+            System.out.println("'''");
         }
         closeConnection();
     }
