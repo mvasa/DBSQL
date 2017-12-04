@@ -58,7 +58,7 @@ CREATE TABLE A.Flight_Summary(
 			Dest_Airport_ID VARCHAR REFERENCES A.Airport(Airport_ID),
 			Origin_City VARCHAR REFERENCES A.Location(City_Name),
 			Dest_City VARCHAR REFERENCES A.Location(City_Name),
-			Distance VARCHAR,
+			Distance integer,
 			Unique_Carrier_Entity VARCHAR REFERENCES A.Carrier(Unique_Carrier_Entity),
 			AircraftID VARCHAR REFERENCES A.Aircraft_Details(AircraftID),
 			RouteID VARCHAR PRIMARY KEY
