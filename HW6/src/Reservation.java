@@ -105,14 +105,12 @@ public class Reservation {
             System.err.println(e.getClass().getName()+": "+e.getMessage());
             System.exit(0);
         }
-        // System.out.println("Opened database successfully");
     }
 
     public static void closeConnection(){
         try
         {
             conn.close();
-            //   System.out.println("connection closed");
         }
         catch(java.sql.SQLException ex){
             System.out.println("hi");
