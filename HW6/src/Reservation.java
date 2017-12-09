@@ -20,13 +20,13 @@ public class Reservation {
     public static void main(String[] args)
     {
 
-        dropTable("Customer_Address");
+        /*dropTable("Customer_Address");
         dropTable("Customer_Contact_Info");
         dropTable("Booking");
         dropTable("Flight_Plan");
         dropTable("Airplane");
         dropTable("Customer");
-        dropTable("Location");
+        dropTable("Location");*/
 
 
         Customer();
@@ -200,7 +200,7 @@ public class Reservation {
         {
             //System.err.println( ex.getClass().getName() + ": Error opening the database\n" );
             //ex.printStackTrace();
-            System.out.println("___");
+            System.out.println("table already created");
         }
         closeConnection();
     }
@@ -231,7 +231,7 @@ public class Reservation {
         {
             //System.err.println( ex.getClass().getName() + ": Error creating table\n" );
             //ex.printStackTrace();
-            System.out.println("___");
+            System.out.println("table already created");
         }
         closeConnection();
     }
@@ -255,7 +255,7 @@ public class Reservation {
         {
             //System.err.println( ex.getClass().getName() + ": Error creating table\n" );
             //ex.printStackTrace();
-            System.out.println("___");
+            System.out.println("table already created");
         }
         closeConnection();
     }
@@ -283,7 +283,7 @@ public class Reservation {
         {
             //System.err.println( ex.getClass().getName() + ": Error creating table\n" );
             //ex.printStackTrace();
-            System.out.println("___");
+            System.out.println("table already created");
         }
         closeConnection();
     }
@@ -310,7 +310,7 @@ public class Reservation {
         {
             //System.err.println( ex.getClass().getName() + ": Error creating table\n" );
             //ex.printStackTrace();
-            System.out.println("___");
+            System.out.println("table already created");
         }
         closeConnection();
     }
@@ -335,7 +335,7 @@ public class Reservation {
         {
             //System.err.println( ex.getClass().getName() + ": Error creating table\n" );
             //ex.printStackTrace();
-            System.out.println("___");
+            System.out.println("table already created");
         }
         closeConnection();
     }
@@ -363,7 +363,7 @@ public class Reservation {
         {
             //System.err.println( ex.getClass().getName() + ": Error creating table\n" );
             //ex.printStackTrace();
-            System.out.println("___");
+            System.out.println("table already created");
         }
         closeConnection();
     }
@@ -1182,6 +1182,8 @@ public class Reservation {
         {
             java.io.PrintWriter flightAndUserFile = new PrintWriter("HW6.flight");
 
+            flightAndUserFile.println("Customer and Flight Information");
+            flightAndUserFile.println();
             flightAndUserFile.println("NAME");
             flightAndUserFile.println();
             flightAndUserFile.println("First Name: " + firstName + "\tLast Name: " + lastName);
