@@ -19,15 +19,15 @@ public class Reservation {
     //<editor-fold desc="main">
     public static void main(String[] args)
     {
-
-    /*    dropTable("Customer_Address");
+/*
+        dropTable("Customer_Address");
         dropTable("Customer_Contact_Info");
         dropTable("Booking");
         dropTable("Flight_Plan");
         dropTable("Airplane");
         dropTable("Customer");
-        dropTable("Location");*/
-
+        dropTable("Location");
+*/
 
         Customer();
         Airplane();
